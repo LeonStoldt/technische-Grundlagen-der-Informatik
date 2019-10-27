@@ -32,11 +32,11 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 
 ### 2.3 Signale
 
-Ein Signal ist
+Ein Signal $x$ ist
 -	eine zeitabhängige, physikalische Größe
 -	messbar
 
-Symb
+Symbole können einer definierten Signaländerung $\Delta x$ zugewiesen werden.
 
 
 ### 2.4 Kodierung und Impulsformung
@@ -44,6 +44,6 @@ Symb
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MTE1MzIxLDE1MjMyMjMwOTksMzc5MT
-QyMjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbLTY1NjAxNzYwMywxNTIzMjIzMDk5LDM3OT
+E0MjIxMSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
 -->

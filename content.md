@@ -54,7 +54,7 @@ $I(a) = ?, H(x) = ?$
 $P(a) = 1 - P(b) = 0,88$
 $I(a) = - log_2 (P(a)) = - log_2 (0,88) \approx 0,18$
 
-$H(x) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a)) = - (P(a) * log_2 (P(a)) + P(b) * log_2 (P(b)))$
+$H(x) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a)) = - [P(a) * log_2 (P(a)) + P(b) * log_2 (P(b))]$
 
 ### 2.3 Signale
 
@@ -97,8 +97,8 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA5NDAwODAsLTI2Mjg0MjIyOSwxNT
-U3NDE1MDU4LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4
-Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIzMDk5LDM3OTE0MjIxMS
-wxNDMyMjkxMjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTI2MDk5MjExOSwtMjYyODQyMjI5LDE1NT
+c0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgz
+ODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLD
+E0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

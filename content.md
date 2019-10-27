@@ -26,6 +26,7 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 
 -	Nachrichten bestehen aus Zeichen bzw. Zeichenketten.
 -	Zeichen bzw. Symbole sind atomare Elemente mit zugewiesener Bedeutung (z.B. Buchstaben des Alphabets)
+-	Wörter bzw. Zeichenketten entstehen durch die Verkettung mithilfe der transitiv-reflexiven Hülle
 
 
 ### 2.3 Signale
@@ -36,6 +37,6 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzI2MDQ3NCwzNzkxNDIyMTEsMTQzMj
+eyJoaXN0b3J5IjpbMTI1NzE2Nzg4NSwzNzkxNDIyMTEsMTQzMj
 I5MTI4LDE1NjY5MDU4NjVdfQ==
 -->

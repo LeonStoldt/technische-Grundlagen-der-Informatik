@@ -40,7 +40,7 @@ Symbole können einer definierten Signaländerung $\Delta x$ zugewiesen werden.
 
 Signale lassen sich in folgende Kategorien unterteilen:
 
-|  | kontinuierlich | diskret |
+|  | Wertkontinuierlich | Wertdiskret |
 |--|--|--|
 | **Wert** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \R, t \in \R$ |
 | **Zeit** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \R, t \in \R$ |
@@ -52,7 +52,7 @@ Signale lassen sich in folgende Kategorien unterteilen:
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY2OTAzNTIsMTExODgzODYwOCwtNj
-U2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEy
-OCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbMjEzMjAxNTU2OCwxMTE4ODM4NjA4LC02NT
+YwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4
+LDE1NjY5MDU4NjVdfQ==
 -->

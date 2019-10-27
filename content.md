@@ -45,6 +45,7 @@ Signale lassen sich in folgende Kategorien unterteilen:
 | **Zeitkontinuierlich** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \N, t \in \R$ |
 | **Zeitdiskret** | $x = x(t), x \in \R, t \in \N$ | $x = x(t), x \in \N, t \in \N$ |
 
+Signale werden durch den `ÀDC = Analog Digital Converter`
 
 
 ### 2.4 Kodierung und Impulsformung
@@ -52,7 +53,7 @@ Signale lassen sich in folgende Kategorien unterteilen:
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MTQ3MjgwLDExMTg4Mzg2MDgsLTY1Nj
-AxNzYwMywxNTIzMjIzMDk5LDM3OTE0MjIxMSwxNDMyMjkxMjgs
-MTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTE3MjE1MjgwMjEsMTExODgzODYwOCwtNj
+U2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEy
+OCwxNTY2OTA1ODY1XX0=
 -->

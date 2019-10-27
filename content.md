@@ -32,12 +32,18 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 
 ### 2.3 Signale
 
+Ein Signal ist
+-	eine zeitabhängige, physikalische Größe
+-	messbar
+
+Symb
+
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMj
-I5MTI4LDE1NjY5MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbODQ5MTE1MzIxLDE1MjMyMjMwOTksMzc5MT
+QyMjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

@@ -45,7 +45,7 @@ Signale lassen sich in folgende Kategorien unterteilen:
 | **Zeitkontinuierlich** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \N, t \in \R$ |
 | **Zeitdiskret** | $x = x(t), x \in \R, t \in \N$ | $x = x(t), x \in \N, t \in \N$ |
 
-Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- und wertdiskrete Repräsentation überführt
+Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- und wertdiskrete Repräsentation überführt ($x = x(t), x \in \N, t \in \N$).
 
 
 ### 2.4 Kodierung und Impulsformung
@@ -53,7 +53,7 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDM1MjQ2MywxMTE4ODM4NjA4LC02NT
-YwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4
-LDE1NjY5MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbLTIxNDQyOTIzMDgsMTExODgzODYwOCwtNj
+U2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEy
+OCwxNTY2OTA1ODY1XX0=
 -->

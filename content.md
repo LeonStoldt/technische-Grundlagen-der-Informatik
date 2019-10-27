@@ -40,7 +40,11 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 > 
 > $I(P(a)) = -log_2 (P(a))$
 > 
-> Beispiel (es wird konstant "a" gesendet): $I_a(1) = -log_2 (P(a))$
+> Beispiel (es wird konstant "a" gesendet): $I_a(1) = -log_2 (1) = 0 bit$
+
+#### Entropie
+-	der mittlere Informationsgehalt wird als Entropie $H$ bezeichnet
+-	berechnet sich durch $H$
 
 ### 2.3 Signale
 
@@ -83,7 +87,7 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTM1MzgwMCwtMTc1NDYxMjg2NywtMj
+eyJoaXN0b3J5IjpbMTc5ODI0ODAyMCwtMTc1NDYxMjg2NywtMj
 E0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIy
 MzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ
 ==

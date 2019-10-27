@@ -19,8 +19,9 @@ Das OSI-Modell [Open Systems Interconnection Model] stellt ein Referenzmodell f�
 ## 2. Physical Layer
 ### 2.1 Einführung
  
- Der Physical Layer ist die erste Schicht des OSI-Schichtenmodells und wird auch Bitübertragungsschicht genannt.
+Der Physical Layer ist die erste Schicht des OSI-Schichtenmodells und wird auch Bitübertragungsschicht genannt.
+Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch elektromgnetische Wellen statt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NTU2ODM5LDM3OTE0MjIxMSwxNDMyMj
-kxMjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTg5ODE5OTg5NCwzNzkxNDIyMTEsMTQzMj
+I5MTI4LDE1NjY5MDU4NjVdfQ==
 -->

@@ -51,7 +51,8 @@ $$H = \sum\limits_{a \in \Sigma} P(a) * I(a) = - \sum\limits_{a \in \Sigma} P(a)
 $\Sigma = \{a, b\}, P(b) = 0,12$
 $I(a) = ?, H(x) = ?$
 
-
+$P(a) = 1 - P(b) = 0,88$
+$I(a) = - log_2 (P(a)) = - log_2 (0,88) = $
 
 ### 2.3 Signale
 
@@ -94,8 +95,8 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDQxNzY2MywtMjYyODQyMjI5LDE1NT
-c0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgz
-ODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLD
-E0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbLTM3NzA1ODM4LC0yNjI4NDIyMjksMTU1Nz
+QxNTA1OCwtMTc1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4
+NjA4LC02NTYwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMT
+QzMjI5MTI4LDE1NjY5MDU4NjVdfQ==
 -->

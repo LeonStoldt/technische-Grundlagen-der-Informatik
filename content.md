@@ -27,7 +27,7 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 -	Nachrichten bestehen aus Zeichen bzw. Zeichenketten, denen eine Semantik zugewiesen ist
 -	Zeichen bzw. Symbole sind atomare Elemente (z.B. Buchstaben des Alphabets)
 -	Wörter bzw. Zeichenketten entstehen durch die Verkettung mithilfe der transitiv-reflexiven Hülle
--	
+-	Der Rechner kennt jedoch nur das Alphabet $\Sigma = \{0,1\}$
 
 
 ### 2.3 Signale
@@ -38,6 +38,6 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTQ1Nzc5OSwzNzkxNDIyMTEsMTQzMj
+eyJoaXN0b3J5IjpbMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMj
 I5MTI4LDE1NjY5MDU4NjVdfQ==
 -->

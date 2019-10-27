@@ -66,14 +66,16 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 #### Informationstheorie nach Shannon
 -	Ansatz zur statistischen Erfassung von Informationen
--	Informationsgehalt 
+-	Informationsgehalt pro Zeichen
+-	Je seltener ein Zeichen, desto größer der Informationsgehalt
+-	Ein vorhersagbares Zeichen hat keinen Informationsgehalt
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM3MTkzODYsLTIxNDQyOTIzMDgsMT
-ExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQy
-MjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbMTc3MjY3NTAxMiwtMjE0NDI5MjMwOCwxMT
+E4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIy
+MTEsMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ==
 -->

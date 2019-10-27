@@ -10,7 +10,7 @@
 
 ---
 
-## Das OSI-Schichtenmodell
+## 1. Das OSI-Schichtenmodell
 
 [![OSI-Schichtenmodell - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg/2560px-ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg/2560px-ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg.png)
 
@@ -18,5 +18,6 @@
 ### 2.1 Einführung
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbMzc5MTQyMjExLDE0MzIyOTEyOCwxNTY2OT
+A1ODY1XX0=
 -->

@@ -29,6 +29,12 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 -	Wörter bzw. Zeichenketten entstehen durch die Verkettung mithilfe der transitiv-reflexiven Hülle
 -	Der Rechner kennt jedoch nur das Alphabet $\Sigma = \{0,1\}$
 
+#### Informationstheorie nach Shannon
+-	Ansatz zur statistischen Erfassung von Informationen
+-	Informationsgehalt pro Zeichen
+-	Je seltener ein Zeichen, desto größer der Informationsgehalt
+-	Ein vorhersagbares Zeichen hat keinen Informationsgehalt
+
 
 ### 2.3 Signale
 
@@ -64,18 +70,14 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 	-	mechanische Uhr
 	-	Handy-Foto
 
-#### Informationstheorie nach Shannon
--	Ansatz zur statistischen Erfassung von Informationen
--	Informationsgehalt pro Zeichen
--	Je seltener ein Zeichen, desto größer der Informationsgehalt
--	Ein vorhersagbares Zeichen hat keinen Informationsgehalt
+
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjY3NTAxMiwtMjE0NDI5MjMwOCwxMT
-E4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIy
-MTEsMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTcyNjE2NTYsLTIxNDQyOTIzMDgsMT
+ExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQy
+MjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

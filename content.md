@@ -42,8 +42,8 @@ Signale lassen sich in folgende Kategorien unterteilen:
 
 |  | Wertkontinuierlich | Wertdiskret |
 |--|--|--|
-| **Wert** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \R, t \in \R$ |
-| **Zeit** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \R, t \in \R$ |
+| **Zeitkontinuierlich** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \R, t \in \R$ |
+| **Zeitdiskret** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \R, t \in \R$ |
 
 
 
@@ -52,7 +52,7 @@ Signale lassen sich in folgende Kategorien unterteilen:
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjAxNTU2OCwxMTE4ODM4NjA4LC02NT
-YwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4
-LDE1NjY5MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbOTgzNDMxMjAsMTExODgzODYwOCwtNjU2MD
+E3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEyOCwx
+NTY2OTA1ODY1XX0=
 -->

@@ -58,6 +58,9 @@ $I(b) = - log_2 (P(b)) = - log_2 (0,12) \approx 3,06$
 
 $H(x) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a)) = P(a) * I(a) + P(b) * I(b) \approx 0,53$
 
+#### Transinformationen (mutual information)
+-	Informationen, die über einen gedächtnislosen Kanal übermittlet werden
+
 ### 2.3 Signale
 
 Ein Signal $x$ ist
@@ -99,8 +102,9 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2NzczODYsMjAwODA4MzkzMiwtMjYyOD
-QyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIz
-MDgsMTExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMz
-c5MTQyMjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbLTE1MzU1MjQwOTQsNTU2NzczODYsMjAwOD
+A4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4
+NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOCwtNjU2MDE3NjAzLD
+E1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEyOCwxNTY2OTA1
+ODY1XX0=
 -->

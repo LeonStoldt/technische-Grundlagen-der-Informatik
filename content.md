@@ -38,12 +38,17 @@ Ein Signal $x$ ist
 
 Symbole können einer definierten Signaländerung $\Delta x$ zugewiesen werden.
 
+Signale lassen sich in folgende Kategorien unterteilen:
+
+
+
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjAxNzYwMywxNTIzMjIzMDk5LDM3OT
-E0MjIxMSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTYzMDUyNTA4NCwtNjU2MDE3NjAzLDE1Mj
+MyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1
+XX0=
 -->

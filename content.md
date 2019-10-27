@@ -60,13 +60,14 @@ $H(x) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a)) = P(a) * I(a) + P(b) * I
 
 #### Transinformationen (mutual information)
 
+-	Informationen, die über einen gedächtnislosen Kanal übermittelt werden
 -	gibt die Stärke des Zusammenhangs zweier Zufallsgrößen an
--	Transinformationen eines Kanals g
+-	Transinformationen eines Kanals stellt den mittleren Informationsgehalt dar, der vom Sender zum Empfänger gelangt
 
+gedächtni
 [![https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png](https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png)](https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png)
 
-
--	Informationen, die über einen gedächtnislosen Kanal übermittelt werden
+-	
 
 ### 2.3 Signale
 
@@ -109,9 +110,9 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE4MzMyMCwtMTE3Njk3NTk4MSw1NT
-Y3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1
-OCwtMTc1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC
-02NTYwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMjI5
-MTI4LDE1NjY5MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbOTYwMDgyMzY4LC0xMTc2OTc1OTgxLDU1Nj
+c3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4
+LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLT
+Y1NjAxNzYwMywxNTIzMjIzMDk5LDM3OTE0MjIxMSwxNDMyMjkx
+MjgsMTU2NjkwNTg2NV19
 -->

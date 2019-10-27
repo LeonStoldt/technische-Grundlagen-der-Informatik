@@ -38,7 +38,7 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 > $I = \text{Informationsgehalt}$
 > $P(a) = \text{Wahrscheinlichkeit eines Zeichens zum Zeitpunkt } t$
 > 
-> $I(P(a))$
+> $I(P(a)) = -log_2 (P(a))$
 
 ### 2.3 Signale
 
@@ -81,7 +81,7 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNTAwMTQ1LC0yMTQ0MjkyMzA4LDExMT
-g4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIzMDk5LDM3OTE0MjIx
-MSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMT
+ExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQy
+MjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

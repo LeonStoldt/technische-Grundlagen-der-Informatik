@@ -35,8 +35,10 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 -	Je seltener ein Zeichen, desto größer der Informationsgehalt
 -	Ein vorhersagbares Zeichen hat keinen Informationsgehalt
 
-> $I = Informationsgehalt$
-> $P(a) = $
+> $I = \text{Informationsgehalt}$
+> $P(a) = \text{Wahrscheinlichkeit eines Zeichens zum Zeitpunkt } t$
+> 
+> $I(P(a))$
 
 ### 2.3 Signale
 
@@ -79,7 +81,7 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzA5NzA5LC0yMTQ0MjkyMzA4LDExMT
+eyJoaXN0b3J5IjpbNjkxNTAwMTQ1LC0yMTQ0MjkyMzA4LDExMT
 g4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIzMDk5LDM3OTE0MjIx
 MSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
 -->

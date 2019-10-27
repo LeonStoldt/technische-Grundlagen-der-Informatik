@@ -62,6 +62,7 @@ $H(x) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a)) = P(a) * I(a) + P(b) * I
 
 [![https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png](https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png)](https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png)
 
+
 -	Informationen, die über einen gedächtnislosen Kanal übermittelt werden
 
 ### 2.3 Signale
@@ -105,9 +106,9 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY5NzU5ODEsNTU2NzczODYsMjAwOD
-A4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4
-NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOCwtNjU2MDE3NjAzLD
-E1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEyOCwxNTY2OTA1
-ODY1XX0=
+eyJoaXN0b3J5IjpbLTE5NTc1NzA2ODcsLTExNzY5NzU5ODEsNT
+U2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUw
+NTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOC
+wtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIy
+OTEyOCwxNTY2OTA1ODY1XX0=
 -->

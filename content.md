@@ -20,8 +20,21 @@ Das OSI-Modell [Open Systems Interconnection Model] stellt ein Referenzmodell f�
 ### 2.1 Einführung
  
 Der Physical Layer ist die erste Schicht des OSI-Schichtenmodells und wird auch Bitübertragungsschicht genannt.
-Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch elektromgnetische Wellen statt.
+Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch elektromagnetische Wellen statt.
+
+### 2.2 Nachrichten und Informationen
+
+-	Nachrichten bestehen aus Zeichen bzw
+
+
+### 2.3 Signale
+
+
+### 2.4 Kodierung und Impulsformung
+
+
+### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODE5OTg5NCwzNzkxNDIyMTEsMTQzMj
-I5MTI4LDE1NjY5MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbMjMwOTc4MjIwLDM3OTE0MjIxMSwxNDMyMj
+kxMjgsMTU2NjkwNTg2NV19
 -->

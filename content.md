@@ -1,5 +1,5 @@
 > # Inhaltsverzeichnis
-> ## 1. Das OSI
+> ## 1. Das OSI-Schichtenmodell
 > ## 2. Physical Layer
 > ### 2.1 Einführung
 > ### 2.2 Nachrichten und Informationen
@@ -10,9 +10,13 @@
 
 ---
 
-## 1. Physical Layer
-### 1.1 Einführung
+## Das OSI-Schichtenmodell
+
+
+
+## 2. Physical Layer
+### 2.1 Einführung
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU5MDQ3NiwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbLTEzNjMxMjUyMSwxNTY2OTA1ODY1XX0=
 -->

@@ -44,11 +44,14 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 
 #### Entropie
 -	der mittlere Informationsgehalt wird als Entropie $H$ bezeichnet
--	berechnet sich durch 
-$H = \sum\limits_{a \in \Sigma} P(a) * I(a) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a))$
+-	berechnet sich durch:
+$$H = \sum\limits_{a \in \Sigma} P(a) * I(a) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a))$$
 
 *Beispiel:*
 $\Sigma = \{a, b\}, P(b) = 0,12$
+$I(a) = ?, H(x) = ?$
+
+
 
 ### 2.3 Signale
 
@@ -91,8 +94,8 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNz
-U0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAx
-NzYwMywxNTIzMjIzMDk5LDM3OTE0MjIxMSwxNDMyMjkxMjgsMT
-U2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbMTM3MDQxNzY2MywtMjYyODQyMjI5LDE1NT
+c0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgz
+ODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLD
+E0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

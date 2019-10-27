@@ -50,17 +50,26 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 #### Analoge Signale
 
 -	stetig (nicht abzählbar)
+-	Beispiele
+	-	Schallplatte
+	-	analoges Telefon
+	-	VHS Magnetband
+	-	reden
 
 #### Digitale Signale
 
 -	diskret (abzählbar)
+-	Beispiele:
+	-	Ampel
+	-	mechanische Uhr
+	-	Handy-Foto
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTI5NjIsLTIxNDQyOTIzMDgsMTExOD
-gzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjEx
-LDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbLTE4ODQxMjI2NzYsLTIxNDQyOTIzMDgsMT
+ExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQy
+MjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

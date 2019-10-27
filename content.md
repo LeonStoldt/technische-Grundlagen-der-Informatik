@@ -47,15 +47,20 @@ Signale lassen sich in folgende Kategorien unterteilen:
 
 Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- und wertdiskrete Repräsentation überführt ($x = x(t), x \in \N, t \in \N$).
 
+#### Analoge Signale
 
+-	stetig (nicht abzählbar)
 
+#### Digitale Signale
+
+-	diskret (abzählbar)
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDQxMjM2OCwtMjE0NDI5MjMwOCwxMT
-E4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIy
-MTEsMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbLTM4NTI5NjIsLTIxNDQyOTIzMDgsMTExOD
+gzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjEx
+LDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

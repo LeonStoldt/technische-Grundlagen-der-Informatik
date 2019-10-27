@@ -60,6 +60,9 @@ $H(x) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a)) = P(a) * I(a) + P(b) * I
 
 #### Transinformationen (mutual information)
 
+-	gibt die Stärke des Zusammenhangs zweier Zufallsgrößen an
+-	Transinformationen eines Kanals g
+
 [![https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png](https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png)](https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png)
 
 
@@ -106,9 +109,9 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc1NzA2ODcsLTExNzY5NzU5ODEsNT
-U2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUw
-NTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOC
-wtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIy
-OTEyOCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbLTE4MjE4MzMyMCwtMTE3Njk3NTk4MSw1NT
+Y3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1
+OCwtMTc1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC
+02NTYwMTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMjI5
+MTI4LDE1NjY5MDU4NjVdfQ==
 -->

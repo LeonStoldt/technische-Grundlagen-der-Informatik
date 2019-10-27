@@ -24,7 +24,8 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 
 ### 2.2 Nachrichten und Informationen
 
--	Nachrichten bestehen aus Zeichen bzw
+-	Nachrichten bestehen aus Zeichen bzw. Zeichenketten.
+-	Zeichen bzw. Symbole sind atomare Elemente mit zugewiesener Bedeutung (z.B. Buchstaben des Alphabets)
 
 
 ### 2.3 Signale
@@ -35,6 +36,6 @@ Hier findet die Erzeugung der Signale in den entsprechenden Frequenzen durch ele
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwOTc4MjIwLDM3OTE0MjIxMSwxNDMyMj
-kxMjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbMTcxNzI2MDQ3NCwzNzkxNDIyMTEsMTQzMj
+I5MTI4LDE1NjY5MDU4NjVdfQ==
 -->

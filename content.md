@@ -64,12 +64,16 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 	-	mechanische Uhr
 	-	Handy-Foto
 
+#### Informationstheorie nach Shannon
+-	Ansatz zur statistischen Erfassung von Informationen
+-	Informationsgehalt 
+
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQxMjI2NzYsLTIxNDQyOTIzMDgsMT
+eyJoaXN0b3J5IjpbLTIwMjM3MTkzODYsLTIxNDQyOTIzMDgsMT
 ExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQy
 MjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

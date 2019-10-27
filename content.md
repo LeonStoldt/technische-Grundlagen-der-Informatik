@@ -12,14 +12,15 @@
 
 ## 1. Das OSI-Schichtenmodell
 
--	Das OSI-Modell stellt ein Referenzmodell für 
+Das OSI-Modell [Open Systems Interconnection Model] stellt ein Referenzmodell für Netzwerkprotokolle dar und ist folgendermaßen aufgebaut:
 
 [![OSI-Schichtenmodell - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg/2560px-ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg/2560px-ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg.png)
 
 ## 2. Physical Layer
 ### 2.1 Einführung
  
+ Der Physical Layer ist die erste Schicht des
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNTMwNTUxLDM3OTE0MjIxMSwxNDMyMj
+eyJoaXN0b3J5IjpbMzc1NTAyNTAyLDM3OTE0MjIxMSwxNDMyMj
 kxMjgsMTU2NjkwNTg2NV19
 -->

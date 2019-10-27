@@ -42,8 +42,8 @@ Signale lassen sich in folgende Kategorien unterteilen:
 
 |  | kontinuierlich | diskret |
 |--|--|--|
-| **Wert** |  |  |
-| **Zeit** |  |  |
+| **Wert** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \R, t \in \R$ |
+| **Zeit** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \R, t \in \R$ |
 
 
 
@@ -52,7 +52,7 @@ Signale lassen sich in folgende Kategorien unterteilen:
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODgzODYwOCwtNjU2MDE3NjAzLDE1Mj
-MyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1
-XX0=
+eyJoaXN0b3J5IjpbLTE5MDY2OTAzNTIsMTExODgzODYwOCwtNj
+U2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEy
+OCwxNTY2OTA1ODY1XX0=
 -->

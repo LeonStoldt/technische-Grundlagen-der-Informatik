@@ -90,10 +90,10 @@ Signale lassen sich in folgende Kategorien unterteilen:
 Größen, wie die Spannung $U$ und der Strom $I$ sind Wert- und Zeitkontinuierlich
 
 ``` mermaid
-graphTD
-U((U in V)) --R=U/I-- R((R in Ohm))
-U --I=U/R-- I((I in A))
-R --U=R*I-- I
+graphTD;
+U((U in V)) --R=U/I-- R((R in Ohm));
+U --I=U/R-- I((I in A));
+R --U=R*I-- I;
 ```
 
 **Probleme:**
@@ -140,9 +140,9 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMwNTMxODksLTExNzY5NzU5ODEsNT
-U2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUw
-NTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOC
-wtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIy
-OTEyOCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Nj
+c3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4
+LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLT
+Y1NjAxNzYwMywxNTIzMjIzMDk5LDM3OTE0MjIxMSwxNDMyMjkx
+MjgsMTU2NjkwNTg2NV19
 -->

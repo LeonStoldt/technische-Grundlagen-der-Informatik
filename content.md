@@ -64,10 +64,13 @@ $H(x) = - \sum\limits_{a \in \Sigma} P(a) * log_2(P(a)) = P(a) * I(a) + P(b) * I
 -	gibt die Stärke des Zusammenhangs zweier Zufallsgrößen an
 -	Transinformationen eines Kanals stellt den mittleren Informationsgehalt dar, der vom Sender zum Empfänger gelangt
 
-gedächtni
+Gedächtnisloser Kanal:
 [![https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png](https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png)](https://upload.wikimedia.org/wikipedia/commons/c/cf/Entroy_XY.png)
 
--	
+-	verbindet zwei Quellen miteinander
+-	die Transinformation fließt vom Sender zum Empfänger
+-	je mehr Quellen voneinander abhängen, desto mehr Transinformationen gibt es
+-	der Einfluss von Fehlinformationen wird durch $H(Y|X)$ abgebildet, da $Y$ die Sendequelle $X$ teilweise überlagert und es somit zum Informationsverlust kommt
 
 ### 2.3 Signale
 
@@ -83,6 +86,25 @@ Signale lassen sich in folgende Kategorien unterteilen:
 |--|--|--|
 | **Zeitkontinuierlich** | $x = x(t), x \in \R, t \in \R$ | $x = x(t), x \in \N, t \in \R$ |
 | **Zeitdiskret** | $x = x(t), x \in \R, t \in \N$ | $x = x(t), x \in \N, t \in \N$ |
+
+Größen, wie die Spannung $U$ und der Strom $I$ sind Wert- und Zeitkontinuierlich
+
+``` mermaid
+graphTD
+U((U in V)) --R=U/I-- R((R in Ohm))
+U --I=U/R-- I((I in A))
+R --U=R*I-- I
+```
+
+**Probleme:**
+-	Speicher ist begrenzt
+-	Rechenleistung ist begrenzt
+$\rightarrow$ Rechnerseitig müssen diese also Wert- und Zeitdiskret sein
+
+**Lösung:**
+Konvertierung des
+-	Zeitbereichs durch Abtastung
+-	Wertebereichs durch Quantisierung
 
 Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- und wertdiskrete Repräsentation überführt ($x = x(t), x \in \N, t \in \N$).
 
@@ -103,16 +125,24 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 	-	mechanische Uhr
 	-	Handy-Foto
 
+#### Aspekte der Übertragung von Nachrichten
 
+-	Periode $T$ in $ms$
+-	Frequenz $f = \frac{1}{T}$ in $Hz$
+-	Spektrum und Bandbreite $B$
+-	Phasenwinkel $\phi$
+-	Phasenverschiebung $\Delta\phi$
+
+#### Dirac-Distribution
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMDgyMzY4LC0xMTc2OTc1OTgxLDU1Nj
-c3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4
-LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLT
-Y1NjAxNzYwMywxNTIzMjIzMDk5LDM3OTE0MjIxMSwxNDMyMjkx
-MjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTEzNTMwNTMxODksLTExNzY5NzU5ODEsNT
+U2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUw
+NTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOC
+wtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIy
+OTEyOCwxNTY2OTA1ODY1XX0=
 -->

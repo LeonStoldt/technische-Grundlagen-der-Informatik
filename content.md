@@ -135,15 +135,18 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 [![https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dirac_distribution_PDF.svg/1200px-Dirac_distribution_PDF.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dirac_distribution_PDF.svg/1200px-Dirac_distribution_PDF.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dirac_distribution_PDF.svg/1200px-Dirac_distribution_PDF.svg.png)
 
+#### Faltung
+
+
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3ND
-Y1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMy
-LC0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMj
-E0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIy
-MzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNj
+U5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4
+NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMT
+c1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYw
+MTc2MDMsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4LD
+E1NjY5MDU4NjVdfQ==
 -->

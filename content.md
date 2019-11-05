@@ -89,12 +89,7 @@ Signale lassen sich in folgende Kategorien unterteilen:
 
 Größen, wie die Spannung $U$ und der Strom $I$ sind Wert- und Zeitkontinuierlich
 
-``` mermaid
-graphTD;
-U((U in V)) --R=U/I-- R((R in Ohm));
-U --I=U/R-- I((I in A));
-R --U=R*I-- I;
-```
+[![https://www.gut-erklaert.de/images/mathematik/ohmsches-gesetz-dreieck.jpg](https://www.gut-erklaert.de/images/mathematik/ohmsches-gesetz-dreieck.jpg)](https://www.gut-erklaert.de/images/mathematik/ohmsches-gesetz-dreieck.jpg)
 
 **Probleme:**
 -	Speicher ist begrenzt
@@ -110,7 +105,7 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 #### Analoge Signale
 
--	stetig (nicht abzählbar)
+-	**stetig** (nicht abzählbar)
 -	Beispiele
 	-	Schallplatte
 	-	analoges Telefon
@@ -119,7 +114,7 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 #### Digitale Signale
 
--	diskret (abzählbar)
+-	**diskret** (abzählbar)
 -	Beispiele:
 	-	Ampel
 	-	mechanische Uhr
@@ -140,9 +135,9 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Nj
-c3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4
-LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLT
-Y1NjAxNzYwMywxNTIzMjIzMDk5LDM3OTE0MjIxMSwxNDMyMjkx
-MjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNz
+Y5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5
+LDE1NTc0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMT
+ExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQy
+MjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
 -->

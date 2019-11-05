@@ -130,13 +130,14 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 #### Dirac-Distribution
 -	(uneigentliche Funktion)
+-	
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjIwMjU0LC02NTk5MjczMTYsOTc0Nj
+eyJoaXN0b3J5IjpbMTY0MDg5NDE3LC02NTk5MjczMTYsOTc0Nj
 U4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIs
 LTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMT
 Q0MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIz

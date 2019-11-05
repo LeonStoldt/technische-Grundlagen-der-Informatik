@@ -129,15 +129,16 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 -	Phasenverschiebung $\Delta\phi$
 
 #### Dirac-Distribution
+-	(uneigentliche Funktion)
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNz
-Y5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5
-LDE1NTc0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMT
-ExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQy
-MjExLDE0MzIyOTEyOCwxNTY2OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbMTg3MjIwMjU0LC02NTk5MjczMTYsOTc0Nj
+U4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIs
+LTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMT
+Q0MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIz
+MDk5LDM3OTE0MjIxMSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
 -->

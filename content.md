@@ -130,16 +130,19 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 #### Dirac-Distribution
 -	(uneigentliche Funktion)
--	
+-	ein Peek mit unbestimmter Höhe
+
+[](![https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dirac_distribution_PDF.svg/1200px-Dirac_distribution_PDF.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dirac_distribution_PDF.svg/1200px-Dirac_distribution_PDF.svg.png))
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDg5NDE3LC02NTk5MjczMTYsOTc0Nj
-U4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIs
-LTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMT
-Q0MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIz
-MDk5LDM3OTE0MjIxMSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTc1NzE1ODM4MywtNjU5OTI3MzE2LDk3ND
+Y1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMy
+LC0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMj
+E0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIy
+MzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ
+==
 -->

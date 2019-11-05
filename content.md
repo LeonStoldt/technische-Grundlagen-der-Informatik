@@ -131,6 +131,7 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 #### Dirac-Distribution
 -	(uneigentliche Funktion)
 -	ein Peek mit unbestimmter Höhe
+-	Anwendungsbeispiel: Faltungsoperationen
 
 [![https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dirac_distribution_PDF.svg/1200px-Dirac_distribution_PDF.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dirac_distribution_PDF.svg/1200px-Dirac_distribution_PDF.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dirac_distribution_PDF.svg/1200px-Dirac_distribution_PDF.svg.png)
 
@@ -139,7 +140,7 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTg5NTkwOCwtNjU5OTI3MzE2LDk3ND
+eyJoaXN0b3J5IjpbLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3ND
 Y1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMy
 LC0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMj
 E0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIy

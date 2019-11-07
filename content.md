@@ -179,7 +179,10 @@ In einem Netzwerk gilt:
 
 #### Abtastung
 Verfahren der Analog-Digital-Umwandlung
--	
+1.	Sample and hold
+-	s
+
+2.	Diskretisierung und Quantisierung
 
 
 
@@ -188,7 +191,7 @@ Verfahren der Analog-Digital-Umwandlung
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEwMjgxMjEsLTExMDA3NTM2NzAsMT
+eyJoaXN0b3J5IjpbLTE4MDAzMTQxNjEsLTExMDA3NTM2NzAsMT
 U5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAw
 MDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNj
 csLTExNzY5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYy

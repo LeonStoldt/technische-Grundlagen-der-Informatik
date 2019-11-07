@@ -196,7 +196,8 @@ Verfahren der Analog-Digital-Umwandlung
 *Die gestrichelte Linie zeigt mögliche andere Signale mit demselben Ergebnis bei der gegebenen Abtastrate*
 
 
-
+#### Allgemeine Werte
+-	Bandbreite
 
 
 
@@ -205,11 +206,11 @@ Verfahren der Analog-Digital-Umwandlung
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzQwODc5NywxMzMyNjEzMjk3LC0xMT
-AwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3
-ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMT
-YsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgw
-ODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyOD
-Y3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywx
-NTIzMjIzMDk5XX0=
+eyJoaXN0b3J5IjpbODA4MzA2Mzg2LDEzMzI2MTMyOTcsLTExMD
+A3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4
+ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMxNi
+w5NzQ2NTgxNjcsLTExNzY5NzU5ODEsNTU2NzczODYsMjAwODA4
+MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4Nj
+csLTIxNDQyOTIzMDgsMTExODgzODYwOCwtNjU2MDE3NjAzLDE1
+MjMyMjMwOTldfQ==
 -->

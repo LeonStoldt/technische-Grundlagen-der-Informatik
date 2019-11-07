@@ -264,12 +264,16 @@ und unterscheiden zwischen:
 -	crossover Kabel
 	-	Twisted-Pair Kabel (gewisse Kabeladern vertauscht)
 	-	verbindet zwei Computer bzw. Switches miteinander
+-	Lichtwellenleiter (Glasfaserkabel)
+	-	sehr hohe Datenrate
+	-	geringe Dämpfung und Verluste
+	-	sehr geringer Kerndurchmesser des Kabels
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxODM1NjEsMTM4OTU1NzIwNCwtMTE1Nz
-U2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUz
-NjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NS
-wtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0
-NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5Mz
-IsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0y
-MTQ0MjkyMzA4XX0=
+eyJoaXN0b3J5IjpbMTUzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMT
+U3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3
+NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4OD
+k1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5
+NzQ2NTgxNjcsLTExNzY5NzU5ODEsNTU2NzczODYsMjAwODA4Mz
+kzMiwtMjYyODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4Njcs
+LTIxNDQyOTIzMDhdfQ==
 -->

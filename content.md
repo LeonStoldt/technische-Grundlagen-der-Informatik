@@ -250,12 +250,15 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 Übertragungsmedien lassen sich unterteilen in:
 -	leistungsgebundene Übertragung
 -	nicht leistungsgebundene Übertragung
+und unterscheiden zwischen:
+-	akustischen Wellen
+-	elektromagnetischen Wellen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNDUzMTIzLC0xMTU3NTY3NzE1LC0xNT
-A3MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAz
-MTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNz
-AzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTEx
-NzY5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMj
-I5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgs
-MTExODgzODYwOF19
+eyJoaXN0b3J5IjpbLTExMDk4NjgzODgsLTExNTc1Njc3MTUsLT
+E1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3
+MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNT
+A3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2Nywt
+MTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4ND
+IyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMjE0NDI5MjMw
+OCwxMTE4ODM4NjA4XX0=
 -->

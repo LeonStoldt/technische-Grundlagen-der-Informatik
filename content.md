@@ -200,7 +200,7 @@ Verfahren der Analog-Digital-Umwandlung
 -	Bandbreite
 $$B = f_o - f_u = \text{obere Frequenz - untere Frequenz}$$
 -	Rauschen
-$$\bar{x} = \frac{1}{n} $$
+$$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 
 
 ### 2.4 Kodierung und Impulsformung
@@ -208,7 +208,7 @@ $$\bar{x} = \frac{1}{n} $$
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTEyNTMxMCwtMTUwNzA5ODg0MywxMz
+eyJoaXN0b3J5IjpbMTQ3MDU2NTg5NSwtMTUwNzA5ODg0MywxMz
 MyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIw
 ODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0Mj
 QwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1

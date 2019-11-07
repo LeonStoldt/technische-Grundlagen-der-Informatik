@@ -303,6 +303,13 @@ und unterscheiden zwischen:
 
 **3. Vermaschung:**
 -	vernetzte Knoten (auch untereinander)
+-	keine redundanten Vernetzungen
+
+**4. Vollvermascht:**
+-	Vermaschung mit zusätzlich redundanten Vernetzungen (transitive Hülle)
+
+**5. Baum:**
+-	Baumstruktur
 
 
 
@@ -310,11 +317,11 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDIwMDcxMzQsMTc2NzYyMDE2MCwxNT
-MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw
-OTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMj
-QxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMs
-LTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Nj
-k3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjks
-MTU1NzQxNTA1OF19
+eyJoaXN0b3J5IjpbLTQ1MjYwNDM3OCwxNzY3NjIwMTYwLDE1Mz
+MxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5
+ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyND
+EsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywt
+NTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OT
+c1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwx
+NTU3NDE1MDU4XX0=
 -->

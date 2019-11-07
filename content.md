@@ -226,10 +226,11 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 [![https://www.ijunoon.com/sw-store/images/dictionary/Return-to-zero.jpg](https://www.ijunoon.com/sw-store/images/dictionary/Return-to-zero.jpg)](https://www.ijunoon.com/sw-store/images/dictionary/Return-to-zero.jpg)
 
 -	Return-to-zero Leitungskodierung
+-	Nachricht ist zuende, wenn das Signal auf 0
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTMyNjYzMSwtMTUwNzA5ODg0MywxMz
+eyJoaXN0b3J5IjpbMTM0Nzk4ODg2NywtMTUwNzA5ODg0MywxMz
 MyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIw
 ODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0Mj
 QwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1

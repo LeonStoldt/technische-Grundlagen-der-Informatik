@@ -329,8 +329,7 @@ und unterscheiden zwischen:
 	-	Medienzugriffsverfahren
 	-	Fähigkeiten des Kommunikationspartners
 
-**simplex**
-
+![http://www.schreiben10.com/files/Elektronik/Schnittstellen_files/image002.gif](http://www.schreiben10.com/files/Elektronik/Schnittstellen_files/image002.gif)
 
 
 
@@ -339,11 +338,11 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjY0OTM3LC0xOTM4MjU4MzE2LDE1NT
-Y4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcy
-MDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5Ny
-wtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEw
-NzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OT
-I3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4Niwy
-MDA4MDgzOTMyXX0=
+eyJoaXN0b3J5IjpbMTE4NjExODQ3MSwtMTkzODI1ODMxNiwxNT
+U2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMzg5NTU3
+MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2MTMyOT
+csLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0x
+MDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OT
+kyNzMxNiw5NzQ2NTgxNjcsLTExNzY5NzU5ODEsNTU2NzczODYs
+MjAwODA4MzkzMl19
 -->

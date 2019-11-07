@@ -321,7 +321,7 @@ und unterscheiden zwischen:
 
 
 #### Nachrichtenflussdiagramm
-
+-	Knoten $i$ mit d
 
 
 
@@ -330,11 +330,11 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNz
-Y3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2
-NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNj
-cwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwt
-MTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0Nj
-U4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIs
-LTI2Mjg0MjIyOV19
+eyJoaXN0b3J5IjpbLTE0NjcxMzgzMTMsLTE5MzgyNTgzMTYsMT
+U1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1
+NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMj
+k3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwt
+MTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NT
+k5MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2
+LDIwMDgwODM5MzJdfQ==
 -->

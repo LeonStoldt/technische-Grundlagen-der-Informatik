@@ -320,17 +320,21 @@ und unterscheiden zwischen:
 -	Ausbreitungsverzögerung $t_p$ über die Distanz $d$ ist definiert durch $t_p = \frac{d}{v * c}$
 
 
+#### Nachrichtenflussdiagramm
+
+
+
 
 
 ### 3.2 Medienzugriff
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTMxNDYwNCwxNTU2ODIyODEzLDE3Nj
-c2MjAxNjAsMTUzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3
-NzE1LC0xNTA3MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2Nz
-AsMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0x
-OTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NT
-gxNjcsLTExNzY5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwt
-MjYyODQyMjI5XX0=
+eyJoaXN0b3J5IjpbLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNz
+Y3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2
+NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNj
+cwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwt
+MTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0Nj
+U4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIs
+LTI2Mjg0MjIyOV19
 -->

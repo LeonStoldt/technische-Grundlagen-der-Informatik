@@ -281,17 +281,25 @@ und unterscheiden zwischen:
 
 -	alle Knoten eines Netzwerks sind erreichbar
 -	alle Knoten lassen sich über physikalische Adressen identifizieren
+-	es findet keine Vermittlung der Pakete statt
+
+#### Aufgaben der Sicherungsschicht:
+-	Steuerung des Medienzugriffs
+-	Prüfung übertragener Nachrichten auf Fehler
+-	Adressierung innerhalb des Direktverbindungsnetzwerks
+
+
 
 
 ### 3.2 Medienzugriff
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDcwNTg3LDE3Njc2MjAxNjAsMTUzMz
-E5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4
-ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MS
-wtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01
-OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNzY5Nz
-U5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1
-NTc0MTUwNThdfQ==
+eyJoaXN0b3J5IjpbMTEyODczNDA1OCwxNzY3NjIwMTYwLDE1Mz
+MxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5
+ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyND
+EsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywt
+NTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OT
+c1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwx
+NTU3NDE1MDU4XX0=
 -->

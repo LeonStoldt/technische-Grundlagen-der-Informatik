@@ -152,17 +152,21 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 #### Taktsignal
 -	zur Synchronisation in Schaltwerken
 -	im Netzwerk dient es zur Synchronisation zwischen Sender und Empfänger
+-	idealerweise eine Folge von Rechtecksignalen
+-	relevante Kriterien
+	-	Frequenz bzw. Periode
+	-	Flanke
+	-	Amplitude
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkyOTM0NzEsLTEwNzUyNzg4OTUsLT
-E5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1
-ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC
-0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMjE0
-NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIyMz
-A5OSwzNzkxNDIyMTEsMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ==
-
+eyJoaXN0b3J5IjpbLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMT
+kwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4
+MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLT
+I2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMTQ0
+MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIzMD
+k5LDM3OTE0MjIxMSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
 -->

@@ -181,8 +181,10 @@ In einem Netzwerk gilt:
 Verfahren der Analog-Digital-Umwandlung
 1.	Sample and hold
 -	Der aktuelle Wert des Abtastzeitpunkts $f(t)$ wird genommen
+[![https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zeroorderhold.signal.svg/220px-Zeroorderhold.signal.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zeroorderhold.signal.svg/220px-Zeroorderhold.signal.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zeroorderhold.signal.svg/220px-Zeroorderhold.signal.svg.png)
 
 2.	Diskretisierung und Quantisierung
+-	
 
 
 
@@ -191,11 +193,11 @@ Verfahren der Analog-Digital-Umwandlung
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyMTMxNzEsLTExMDA3NTM2NzAsMTU5Nz
-AzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUw
-NzAzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLT
-ExNzY5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQy
-MjI5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMD
-gsMTExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5
-MTQyMjExXX0=
+eyJoaXN0b3J5IjpbMTc3MTQ5NDkwMCwtMTEwMDc1MzY3MCwxNT
+k3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAw
+NTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2Ny
+wtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4
+NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMjE0NDI5Mj
+MwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIyMzA5OSwz
+NzkxNDIyMTFdfQ==
 -->

@@ -185,7 +185,8 @@ Verfahren der Analog-Digital-Umwandlung
 
 2.	Diskretisierung und Quantisierung
 -	Zeitpunkte werden in einen diskreten Raum überführt (**Zeitdiskret**)
--	Signalwerte werden ebenfalls diskretisiert und dem Wert zugeordnet, der am nächsten dran ist (****)
+-	Signalwerte werden ebenfalls diskretisiert und dem Wert zugeordnet, der am nächsten dran ist (**Wertdiskret**)
+[![https://upload.wikimedia.org/wikipedia/commons/7/70/Quantized.signal.svg](https://upload.wikimedia.org/wikipedia/commons/7/70/Quantized.signal.svg)](https://upload.wikimedia.org/wikipedia/commons/7/70/Quantized.signal.svg)
 
 
 
@@ -194,7 +195,7 @@ Verfahren der Analog-Digital-Umwandlung
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDMxMDM3NywtMTEwMDc1MzY3MCwxNT
+eyJoaXN0b3J5IjpbMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNT
 k3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAw
 NTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2Ny
 wtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4

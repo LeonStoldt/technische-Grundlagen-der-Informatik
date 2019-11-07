@@ -254,10 +254,11 @@ und unterscheiden zwischen:
 -	akustischen Wellen
 -	elektromagnetischen Wellen
 	-	benötigen im Gegensatz zu Schall kein Medium
-	-	die Ausbreitung 
 	-	hat eine Wellenlänge $\lambda$, die die räumliche Ausdehnung bestimmt
+	-	hat eine Frequenz $f = \frac{c}{\lambda}$ (c ist die Ausbreitung)
+	-	die Ausbreitungsgeschwindigkeit 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg0NTkxNjYsLTExNTc1Njc3MTUsLT
+eyJoaXN0b3J5IjpbLTEyMDk3MTA2MjMsLTExNTc1Njc3MTUsLT
 E1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3
 MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNT
 A3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2Nywt

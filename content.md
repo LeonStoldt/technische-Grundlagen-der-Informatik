@@ -241,13 +241,13 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 	-	Sener und Empfänger lassen sich galvanisch trennen (Trennung der Stromkreisläufe)
 -	Nachteile:
 	-	die Bandbreite ist doppelt so groß wie bei z.B. NRZ
-	-	die Bitrate ist halb so groß wie die Baudrate (= Symbolübertragungs
-
+	-	die Bitrate (= Bitübertragungsrate) ist halb so groß wie die Baudrate (= Symbolübertragungsrate)
 
 
 ### 2.5 Übertragungsmedien
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY5NDMwMTEsLTE1MDcwOTg4NDMsMT
+eyJoaXN0b3J5IjpbLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMT
 MzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUy
 MDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyND
 I0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1

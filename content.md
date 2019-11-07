@@ -293,12 +293,16 @@ und unterscheiden zwischen:
 -	Adressierung innerhalb des Direktverbindungsnetzwerks
 
 #### verschiedene Aufbaustrukturen:
-**1. Point-to-Point:**
+**1. Punkt zu Punkt:**
 -	zwei direkt verbundene Knoten
 -	z.B.  über crossover Kabel
 
-**2. Star:**
--	
+**2. Stern:**
+-	viele Knoten sind zu einem zentralen Knoten verbunden
+-	z.B. über einen Hub oder Switch
+
+**3. Vermaschung:**
+-	vernetzte Knoten (auch untereinander)
 
 
 
@@ -306,11 +310,11 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMzY4NzAxLDE3Njc2MjAxNjAsMTUzMz
-E5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4
-ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MS
-wtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01
-OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNzY5Nz
-U5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1
-NTc0MTUwNThdfQ==
+eyJoaXN0b3J5IjpbLTIxMDIwMDcxMzQsMTc2NzYyMDE2MCwxNT
+MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw
+OTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMj
+QxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMs
+LTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Nj
+k3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjks
+MTU1NzQxNTA1OF19
 -->

@@ -140,16 +140,25 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 #### Heaviside-Funktion
 -	Einheitssprung
+-	Eingangssignal für die Ermittlung der Systemantwort
+
+#### Rechteckfunktion
+-	hergeleitet aus der Heaviside-Funktion
+-	begrenzt auf ein festes Intervall
+
+#### Rampenfunktion
+-	
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NTM3OSwtMTA3NTI3ODg5NSwtMTkwMD
-A1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4MTY3
-LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mj
-g0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMTQ0Mjky
-MzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIzMDk5LD
-M3OTE0MjIxMSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTIwOTAyOTU3NzIsLTEwNzUyNzg4OTUsLT
+E5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1
+ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC
+0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMjE0
+NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIyMz
+A5OSwzNzkxNDIyMTEsMTQzMjI5MTI4LDE1NjY5MDU4NjVdfQ==
+
 -->

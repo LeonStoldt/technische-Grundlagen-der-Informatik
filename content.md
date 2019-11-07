@@ -205,15 +205,17 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 
 ### 2.4 Kodierung und Impulsformung
 
--	kleinste Übertragungsfehler können 
+-	Zwischen Signalen und der realen physikalischen Größe bestehen signifikante Unterschiede
+-	kleinste Übertragungsfehler können das Ergebnis bereits unbrauchbar machen
+-	um Fehler erkennen zu können, werden weitere Protokolle benötigt
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NDU1ODM3LC0xNTA3MDk4ODQzLDEzMz
-I2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4
-ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyND
-AsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNzY5NzU5ODEsNTU2
-NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUwNT
-gsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOCwt
-NjU2MDE3NjAzXX0=
+eyJoaXN0b3J5IjpbMjE0NDk4NTQ5MCwtMTUwNzA5ODg0MywxMz
+MyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIw
+ODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0Mj
+QwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1
+Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MD
+U4LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgs
+LTY1NjAxNzYwM119
 -->

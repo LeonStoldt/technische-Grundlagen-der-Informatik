@@ -171,18 +171,18 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 
 
 #### Klassifizierung von Signalen
-
+-	Zwischen Signalen und der realen physikalischen Größe bestehen signifikante Unterschiede
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMD
-c1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTky
-NzMxNiw5NzQ2NTgxNjcsLTExNzY5NzU5ODEsNTU2NzczODYsMj
-AwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2
-MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOCwtNjU2MDE3Nj
-AzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEyOCwxNTY2
-OTA1ODY1XX0=
+eyJoaXN0b3J5IjpbLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMT
+I1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMx
+MjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNzY5NzU5OD
+EsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0
+MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzOD
+YwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0
+MzIyOTEyOF19
 -->

@@ -6,7 +6,10 @@
 > ### 2.3 Signale
 > ### 2.4 Kodierung und Impulsformung
 > ### 2.5 Übertragungsmedien
-> ## 3. //to be continued
+> ## 3. Sicherungsschicht
+> ### 3.1 Direktverbindungsnetze
+> ### 3.2 Medienzugriff
+> ### 3.3 R
 
 ---
 
@@ -272,11 +275,11 @@ und unterscheiden zwischen:
 #### Hub
 -	Kopplungselement zur Verbindung mehrerer Hosts eines Netzwerks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzYyMDE2MCwxNTMzMTkxMzgwLDEzOD
-k1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMzMjYx
-MzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MT
-AsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwt
-NjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3Nz
-M4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1OCwt
-MTc1NDYxMjg2N119
+eyJoaXN0b3J5IjpbMjI0NjM2NzksMTc2NzYyMDE2MCwxNTMzMT
+kxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4
+NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC
+0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5
+MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NT
+k4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1
+NzQxNTA1OF19
 -->

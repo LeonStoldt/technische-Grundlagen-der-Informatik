@@ -236,17 +236,19 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 -	logische 1 wird über eine fallende Flanke codiert
 -	logische 0 wird über eine steigende Flanke codiert
 -	Vorteile:
-	-	s
+	-	gleichanteilsfrei
+	-	Taktrückgewinnung ist möglich
+	-	Sener und Empfänger lassen sich galvanisch trennen ()
 
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NzUzNjAsLTE1MDcwOTg4NDMsMTMzMj
-YxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4
-MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MC
-wtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3
-NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1OC
-wtMTc1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC02
-NTYwMTc2MDNdfQ==
+eyJoaXN0b3J5IjpbMjc3ODc3NzAzLC0xNTA3MDk4ODQzLDEzMz
+I2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4
+ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyND
+AsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNzY5NzU5ODEsNTU2
+NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUwNT
+gsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOCwt
+NjU2MDE3NjAzXX0=
 -->

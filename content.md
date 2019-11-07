@@ -9,7 +9,7 @@
 > ## 3. Sicherungsschicht
 > ### 3.1 Direktverbindungsnetze
 > ### 3.2 Medienzugriff
-> ### 3.3 R
+> ### 3.3 Rahmenbildung
 
 ---
 
@@ -274,12 +274,24 @@ und unterscheiden zwischen:
 
 #### Hub
 -	Kopplungselement zur Verbindung mehrerer Hosts eines Netzwerks
+
+## 3. Sicherungsschicht
+
+### 3.1 Direktverbindungsnetze
+
+-	alle Knoten eines Netzwerks sind erreichbar
+-	alle Knoten lassen sich über physikalische Adressen identifizieren
+
+
+### 3.2 Medienzugriff
+
+### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NjM2NzksMTc2NzYyMDE2MCwxNTMzMT
-kxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4
-NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC
-0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5
-MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NT
-k4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1
-NzQxNTA1OF19
+eyJoaXN0b3J5IjpbLTczNDcwNTg3LDE3Njc2MjAxNjAsMTUzMz
+E5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4
+ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MS
+wtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01
+OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNzY5Nz
+U5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1
+NTc0MTUwNThdfQ==
 -->

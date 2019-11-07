@@ -235,6 +235,7 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 
 -	logische 1 wird über eine fallende Flanke codiert
 -	logische 0 wird über eine steigende Flanke codiert
+-	meist Kodierung in Netzwerken und LAN
 -	Vorteile:
 	-	gleichanteilsfrei
 	-	Taktrückgewinnung ist möglich
@@ -246,12 +247,15 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 
 ### 2.5 Übertragungsmedien
 
+Übertragungsmedien lassen sich unterteilen in:
+-	leistungsgebundene Übertragung
+-	nicht leistungsgebundene Übertragung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMT
-MzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUy
-MDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyND
-I0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1
-NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNT
-A1OCwtMTc1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4
-LC02NTYwMTc2MDNdfQ==
+eyJoaXN0b3J5IjpbMjMxNDUzMTIzLC0xMTU3NTY3NzE1LC0xNT
+A3MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAz
+MTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNz
+AzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTEx
+NzY5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMj
+I5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgs
+MTExODgzODYwOF19
 -->

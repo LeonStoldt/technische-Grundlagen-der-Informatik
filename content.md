@@ -215,7 +215,7 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 
 -	Non-return-to-zero Leitungskodierung
 -	Bsp. Kommunikation auf der Platine
--	Nachteile
+-	Nachteile:
 	-	nicht gleichanteilsfrei (= zeitlicher Mittelwert ist 0)
 	-	keine Taktrückgewinnung
 	-	unsicher bei längeren Nachrichten
@@ -233,17 +233,20 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 
 [![https://upload.wikimedia.org/wikipedia/commons/0/0a/Manchester_code.png](https://upload.wikimedia.org/wikipedia/commons/0/0a/Manchester_code.png)](https://upload.wikimedia.org/wikipedia/commons/0/0a/Manchester_code.png)
 
-
+-	logische 1 wird über eine fallende Flanke codiert
+-	logische 0 wird über eine steigende Flanke codiert
+-	Vorteile:
+	-	s
 
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMwNDI5NzMsLTE1MDcwOTg4NDMsMT
-MzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUy
-MDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyND
-I0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1
-NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNT
-A1OCwtMTc1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4
-LC02NTYwMTc2MDNdfQ==
+eyJoaXN0b3J5IjpbODQ1NzUzNjAsLTE1MDcwOTg4NDMsMTMzMj
+YxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4
+MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MC
+wtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3
+NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1OC
+wtMTc1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC02
+NTYwMTc2MDNdfQ==
 -->

@@ -253,8 +253,10 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 und unterscheiden zwischen:
 -	akustischen Wellen
 -	elektromagnetischen Wellen
+	-	benötigen im Gegensatz zu Schall kein Medium
+	-	hat eine Wellenlänge $\gamma$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk4NjgzODgsLTExNTc1Njc3MTUsLT
+eyJoaXN0b3J5IjpbLTEzMjEyMzkwNzYsLTExNTc1Njc3MTUsLT
 E1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3
 MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNT
 A3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2Nywt

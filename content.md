@@ -199,7 +199,8 @@ Verfahren der Analog-Digital-Umwandlung
 #### Allgemeine Werte
 -	Bandbreite
 $$B = f_o - f_u = \text{obere Frequenz - untere Frequenz}$$
-
+-	Rauschen
+$$\bar{x} = \frac{1}{n} $$
 
 
 ### 2.4 Kodierung und Impulsformung
@@ -207,11 +208,11 @@ $$B = f_o - f_u = \text{obere Frequenz - untere Frequenz}$$
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMT
-EwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUy
-Nzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3Mz
-E2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4
-MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMj
-g2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMs
-MTUyMzIyMzA5OV19
+eyJoaXN0b3J5IjpbMTkyOTEyNTMxMCwtMTUwNzA5ODg0MywxMz
+MyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIw
+ODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0Mj
+QwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1
+Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MD
+U4LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgs
+LTY1NjAxNzYwM119
 -->

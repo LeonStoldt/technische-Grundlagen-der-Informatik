@@ -170,16 +170,19 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 	-	dient zur Realisierung digitaler serieller Schnittstellen
 
 
+#### Klassifizierung von Signalen
+
+
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2MjAwODQ3LC0xMjUyMDg4MTAsLTEwNz
-UyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3
-MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMD
-A4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYx
-Mjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MD
-MsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4LDE1NjY5
-MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMD
+c1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTky
+NzMxNiw5NzQ2NTgxNjcsLTExNzY5NzU5ODEsNTU2NzczODYsMj
+AwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2
+MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOCwtNjU2MDE3Nj
+AzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEyOCwxNTY2
+OTA1ODY1XX0=
 -->

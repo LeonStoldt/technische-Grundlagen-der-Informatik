@@ -147,14 +147,18 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 -	begrenzt auf ein festes Intervall
 
 #### Rampenfunktion
--	
+-	Integral der Heaviside-Funktion
+
+#### Taktsignal
+-	zur Synchronisation in Schaltwerken
+-	im Netzwerk dient es zur Synchronisation zwischen Sender und Empfänger
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAyOTU3NzIsLTEwNzUyNzg4OTUsLT
+eyJoaXN0b3J5IjpbLTEyMzkyOTM0NzEsLTEwNzUyNzg4OTUsLT
 E5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1
 ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC
 0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMjE0

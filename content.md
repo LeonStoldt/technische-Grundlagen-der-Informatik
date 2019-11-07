@@ -211,7 +211,7 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 
 #### Basisimpuls 1 - NRZ
 -	Non-return-to-zero Leitungskodierung
--	Bsp. 
+-	Bsp. Kommunikation auf der Platine
 -	Nachteile
 	-	nicht gleichanteilsfrei (= zeitlicher Mittelwert ist 0)
 	-	keine Taktrückgewinnung
@@ -219,7 +219,7 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODYyMTI4OSwtMTUwNzA5ODg0MywxMz
+eyJoaXN0b3J5IjpbMTM4NDc2MzIxNywtMTUwNzA5ODg0MywxMz
 MyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIw
 ODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0Mj
 QwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1

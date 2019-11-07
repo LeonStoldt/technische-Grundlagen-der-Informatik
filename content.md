@@ -239,17 +239,19 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 	-	gleichanteilsfrei
 	-	Taktrückgewinnung ist möglich
 	-	Sener und Empfänger lassen sich galvanisch trennen (Trennung der Stromkreisläufe)
-	-	
+-	Nachteile:
+	-	die Bandbreite ist doppelt so groß wie bei z.B. NRZ
+	-	die Bitrate ist halb so groß wie die Baudrate (= Symbolübertragungs
 
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDAyNjg3NSwtMTUwNzA5ODg0MywxMz
-MyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIw
-ODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0Mj
-QwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1
-Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MD
-U4LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgs
-LTY1NjAxNzYwM119
+eyJoaXN0b3J5IjpbLTIxMjY5NDMwMTEsLTE1MDcwOTg4NDMsMT
+MzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUy
+MDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyND
+I0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1
+NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNT
+A1OCwtMTc1NDYxMjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4
+LC02NTYwMTc2MDNdfQ==
 -->

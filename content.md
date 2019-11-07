@@ -158,15 +158,22 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 	-	Flanke
 	-	Amplitude
 
+
+#### SPI und UART:
+-	SPI = Serial Peripheral Interface
+	-	Bussystem
+	-	
+
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMT
-kwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4
-MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLT
-I2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMTQ0
-MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIzMD
-k5LDM3OTE0MjIxMSwxNDMyMjkxMjgsMTU2NjkwNTg2NV19
+eyJoaXN0b3J5IjpbLTIyMDQ1NTcyMywtMTI1MjA4ODEwLC0xMD
+c1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTky
+NzMxNiw5NzQ2NTgxNjcsLTExNzY5NzU5ODEsNTU2NzczODYsMj
+AwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2
+MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzODYwOCwtNjU2MDE3Nj
+AzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0MzIyOTEyOCwxNTY2
+OTA1ODY1XX0=
 -->

@@ -198,7 +198,7 @@ Verfahren der Analog-Digital-Umwandlung
 
 #### Allgemeine Werte
 -	Bandbreite
-$$B = f_o - f_u = $$
+$$B = f_o - f_u = \text{obere Frequenz - untere Frequenz}$$
 
 
 
@@ -207,11 +207,11 @@ $$B = f_o - f_u = $$
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzQ1NTMzNywxMzMyNjEzMjk3LC0xMT
-AwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3
-ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMT
-YsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgw
-ODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyOD
-Y3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywx
-NTIzMjIzMDk5XX0=
+eyJoaXN0b3J5IjpbLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMT
+EwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUy
+Nzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3Mz
+E2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4
+MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMj
+g2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMs
+MTUyMzIyMzA5OV19
 -->

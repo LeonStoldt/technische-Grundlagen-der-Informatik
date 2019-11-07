@@ -164,17 +164,20 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 	-	Bussystem
 	-	synchroner serieller Datenbus
 	-	dient zur Verbindung zweier digitaler Schaltungen nach dem Master-Slave-Prinzip
+-	UART = Universal Asynchronous Receiver Transmitter
+	-	elektronische Schaltung
+	-	dient zur Realisierung digitaler serieller Schnittstellen
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2OTQ0MTM1LC0xMjUyMDg4MTAsLTEwNz
-UyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3
-MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMD
-A4MDgzOTMyLC0yNjI4NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYx
-Mjg2NywtMjE0NDI5MjMwOCwxMTE4ODM4NjA4LC02NTYwMTc2MD
-MsMTUyMzIyMzA5OSwzNzkxNDIyMTEsMTQzMjI5MTI4LDE1NjY5
-MDU4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE5MTcwMTQxMDIsLTEyNTIwODgxMCwtMT
+A3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5
+MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LD
+IwMDgwODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0
+NjEyODY3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNz
+YwMywxNTIzMjIzMDk5LDM3OTE0MjIxMSwxNDMyMjkxMjgsMTU2
+NjkwNTg2NV19
 -->

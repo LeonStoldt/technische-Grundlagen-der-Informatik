@@ -261,13 +261,15 @@ und unterscheiden zwischen:
 #### Kabel
 -	straight through Kabel
 	-	Netzwerkkabel von Computer zu Switch
--	crossover Ka
+-	crossover Kabel
+	-	Twisted-Pair Kabel (gewisse Kabeladern vertauscht)
+	-	verbindet zwei Computer bzw. Switches miteinander
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTIxMzgyOTYsMTM4OTU1NzIwNCwtMT
-E1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAw
-NzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3OD
-g5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYs
-OTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwOD
-M5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3
-LC0yMTQ0MjkyMzA4XX0=
+eyJoaXN0b3J5IjpbNzIxODM1NjEsMTM4OTU1NzIwNCwtMTE1Nz
+U2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUz
+NjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NS
+wtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0
+NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5Mz
+IsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0y
+MTQ0MjkyMzA4XX0=
 -->

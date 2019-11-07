@@ -321,7 +321,10 @@ und unterscheiden zwischen:
 
 
 #### Nachrichtenflussdiagramm
--	Knoten $i$ mit der Distanz zu Knoten $j$ überträgt in der Serialisierungszeit $t_s$ die Nachricht, die mit einer Ausbreitungsverzögerung $t_p$ bei $j$ ankommt. Die Gesamtzeit für das Senden und e
+-	Knoten $i$ mit der Distanz zu Knoten $j$ überträgt in der Serialisierungszeit $t_s$ die Nachricht, die mit einer Ausbreitungsverzögerung $t_p$ bei $j$ ankommt. Die Gesamtzeit für das Senden und Empfangen der Nachricht beträgt also $t_d = t_s + t_p$
+
+#### Verbindungsarten
+-	hängt von 
 
 
 
@@ -330,7 +333,7 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEyMTU4MDAsLTE5MzgyNTgzMTYsMT
+eyJoaXN0b3J5IjpbLTEzNjE3NTc0NDgsLTE5MzgyNTgzMTYsMT
 U1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1
 NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMj
 k3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwt

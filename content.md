@@ -316,7 +316,8 @@ und unterscheiden zwischen:
 
 #### Verbindungscharakteristik
 -	Übertragungsrate $r_{ij}$ in $\frac{bit}{s}$
--	Serialisierungszeit $t_s$ für die Nachricht der Länge $L$  ist definiert durch $ts = \frac{L}{r_{ij}}$
+-	Serialisierungszeit $t_s$ für die Nachricht der Länge $L$ in $Bit$  ist definiert durch $ts = \frac{L}{r_{ij}}$
+-	Ausbreitungsverzögerung $t_p$ über die Distanz $d$ ist definiert durch $t_p = \frac{d}{v * c}$
 
 
 
@@ -325,11 +326,11 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNTEwNTI0LDE1NTY4MjI4MTMsMTc2Nz
-YyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3
-MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MC
-wxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5
-MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1OD
-E2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0y
-NjI4NDIyMjldfQ==
+eyJoaXN0b3J5IjpbMjAzMTMxNDYwNCwxNTU2ODIyODEzLDE3Nj
+c2MjAxNjAsMTUzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3
+NzE1LC0xNTA3MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2Nz
+AsMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0x
+OTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NT
+gxNjcsLTExNzY5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwt
+MjYyODQyMjI5XX0=
 -->

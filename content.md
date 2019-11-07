@@ -189,17 +189,21 @@ Verfahren der Analog-Digital-Umwandlung
 [![https://upload.wikimedia.org/wikipedia/commons/7/70/Quantized.signal.svg](https://upload.wikimedia.org/wikipedia/commons/7/70/Quantized.signal.svg)](https://upload.wikimedia.org/wikipedia/commons/7/70/Quantized.signal.svg)
 
 
+#### Abtasttheorem nach Shannon
+-	
+
+
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNT
-k3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAw
-NTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2Ny
-wtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4
-NDIyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMjE0NDI5Mj
-MwOCwxMTE4ODM4NjA4LC02NTYwMTc2MDMsMTUyMzIyMzA5OSwz
-NzkxNDIyMTFdfQ==
+eyJoaXN0b3J5IjpbMTA2NjMyOTYzNiwxMzMyNjEzMjk3LC0xMT
+AwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3
+ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMT
+YsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgw
+ODM5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyOD
+Y3LC0yMTQ0MjkyMzA4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywx
+NTIzMjIzMDk5XX0=
 -->

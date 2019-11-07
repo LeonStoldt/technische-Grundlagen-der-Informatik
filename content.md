@@ -282,6 +282,8 @@ und unterscheiden zwischen:
 -	alle Knoten eines Netzwerks sind erreichbar
 -	alle Knoten lassen sich über physikalische Adressen identifizieren
 -	es findet keine Vermittlung der Pakete statt
+-	**Begrifflichkeiten:**
+	-	Durchmesser: maximale Entfern
 
 #### Aufgaben der Sicherungsschicht:
 -	Steuerung des Medienzugriffs
@@ -295,7 +297,7 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODczNDA1OCwxNzY3NjIwMTYwLDE1Mz
+eyJoaXN0b3J5IjpbMjAwNTg5NTU3OCwxNzY3NjIwMTYwLDE1Mz
 MxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5
 ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyND
 EsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywt

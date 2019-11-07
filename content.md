@@ -256,13 +256,13 @@ und unterscheiden zwischen:
 	-	benötigen im Gegensatz zu Schall kein Medium
 	-	hat eine Wellenlänge $\lambda$, die die räumliche Ausdehnung bestimmt
 	-	hat eine Frequenz $f = \frac{c}{\lambda}$ (c ist die Ausbreitung)
-	-	die Ausbreitungsgeschwindigkeit 
+	-	die Ausbreitungsgeschwindigkeit in Medien ergibt sich durch den Faktor $v$ in $v * c$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk3MTA2MjMsLTExNTc1Njc3MTUsLT
-E1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3
-MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNT
-A3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2Nywt
-MTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4ND
-IyMjksMTU1NzQxNTA1OCwtMTc1NDYxMjg2NywtMjE0NDI5MjMw
-OCwxMTE4ODM4NjA4XX0=
+eyJoaXN0b3J5IjpbMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMT
+UwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcw
+MzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MD
+cwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0x
+MTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0Mj
+IyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4
+LDExMTg4Mzg2MDhdfQ==
 -->

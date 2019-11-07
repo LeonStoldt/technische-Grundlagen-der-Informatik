@@ -314,6 +314,10 @@ und unterscheiden zwischen:
 **6.  Bus (Binary Unit System):**
 -	alle Knoten sind über eine Bus-Leitung physikalisch verbunden
 
+#### Verbindungscharakteristik
+-	Übertragungsrate $r_{ij}$ in $\frac{bit}{s}$
+-	Serialisierungszeit $t_s$ für die Nachricht
+
 
 
 
@@ -321,11 +325,11 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1Mz
-MxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5
-ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyND
-EsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywt
-NTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0xMTc2OT
-c1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0MjIyOSwx
-NTU3NDE1MDU4XX0=
+eyJoaXN0b3J5IjpbNTc1MzAyODA3LDE1NTY4MjI4MTMsMTc2Nz
+YyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3
+MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MC
+wxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5
+MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1OD
+E2NywtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0y
+NjI4NDIyMjldfQ==
 -->

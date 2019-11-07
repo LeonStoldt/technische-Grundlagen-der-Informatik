@@ -257,12 +257,17 @@ und unterscheiden zwischen:
 	-	hat eine Wellenlänge $\lambda$, die die räumliche Ausdehnung bestimmt
 	-	hat eine Frequenz $f = \frac{c}{\lambda}$ (c ist die Ausbreitung)
 	-	die Ausbreitungsgeschwindigkeit in Medien ergibt sich durch den Faktor $v$ in $v * c$
+
+#### Kabel
+-	straight through Kabel
+	-	Netzwerkkabel von Computer zu Switch
+-	crossover Ka
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMT
-UwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcw
-MzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MD
-cwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4MTY3LC0x
-MTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0Mj
-IyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMTQ0MjkyMzA4
-LDExMTg4Mzg2MDhdfQ==
+eyJoaXN0b3J5IjpbLTE1NTIxMzgyOTYsMTM4OTU1NzIwNCwtMT
+E1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAw
+NzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3OD
+g5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYs
+OTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwOD
+M5MzIsLTI2Mjg0MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3
+LC0yMTQ0MjkyMzA4XX0=
 -->

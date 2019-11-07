@@ -170,19 +170,22 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 	-	dient zur Realisierung digitaler serieller Schnittstellen
 
 
-#### Klassifizierung von Signalen
+#### s
 -	Zwischen Signalen und der realen physikalischen Größe bestehen signifikante Unterschiede
+
+#### 5-4-3 Regel
+-	In einem Netzwerk
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMT
-I1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMx
-MjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNjcsLTExNzY5NzU5OD
-EsNTU2NzczODYsMjAwODA4MzkzMiwtMjYyODQyMjI5LDE1NTc0
-MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOTIzMDgsMTExODgzOD
-YwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTksMzc5MTQyMjExLDE0
-MzIyOTEyOF19
+eyJoaXN0b3J5IjpbLTIwNDE4NjY0MjYsLTExMDA3NTM2NzAsMT
+U5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAw
+MDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNj
+csLTExNzY5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYy
+ODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOT
+IzMDgsMTExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTks
+Mzc5MTQyMjExXX0=
 -->

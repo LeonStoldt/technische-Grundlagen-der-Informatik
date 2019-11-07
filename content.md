@@ -229,11 +229,17 @@ $$\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_i$$
 -	Nachricht ist zu Ende, wenn das Signal auf 0 bleibt
 -	ist ebenfalls nicht gleichanteilsfrei
 
-#### Macn
+#### Basisimpuls 3 - Manchesterkodierung
+
+[![https://upload.wikimedia.org/wikipedia/commons/0/0a/Manchester_code.png](https://upload.wikimedia.org/wikipedia/commons/0/0a/Manchester_code.png)](https://upload.wikimedia.org/wikipedia/commons/0/0a/Manchester_code.png)
+
+
+
+
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAwMTkzMjUsLTE1MDcwOTg4NDMsMT
+eyJoaXN0b3J5IjpbLTE1NTMwNDI5NzMsLTE1MDcwOTg4NDMsMT
 MzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUy
 MDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyND
 I0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1

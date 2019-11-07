@@ -184,7 +184,7 @@ Verfahren der Analog-Digital-Umwandlung
 [![https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zeroorderhold.signal.svg/220px-Zeroorderhold.signal.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zeroorderhold.signal.svg/220px-Zeroorderhold.signal.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zeroorderhold.signal.svg/220px-Zeroorderhold.signal.svg.png)
 
 2.	Diskretisierung und Quantisierung
--	
+-	Zeitwerte werden in einen diskreten Raum überführt
 
 
 
@@ -193,7 +193,7 @@ Verfahren der Analog-Digital-Umwandlung
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTQ5NDkwMCwtMTEwMDc1MzY3MCwxNT
+eyJoaXN0b3J5IjpbLTcxMzYyMDg5NSwtMTEwMDc1MzY3MCwxNT
 k3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAw
 NTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2Ny
 wtMTE3Njk3NTk4MSw1NTY3NzM4NiwyMDA4MDgzOTMyLC0yNjI4

@@ -316,7 +316,7 @@ und unterscheiden zwischen:
 
 #### Verbindungscharakteristik
 -	Übertragungsrate $r_{ij}$ in $\frac{bit}{s}$
--	Serialisierungszeit $t_s$ für die Nachricht
+-	Serialisierungszeit $t_s$ für die Nachricht der Länge $L$  ist definiert durch $ts = \frac{L}{r_{ij}}$
 
 
 
@@ -325,7 +325,7 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MzAyODA3LDE1NTY4MjI4MTMsMTc2Nz
+eyJoaXN0b3J5IjpbNDcxNTEwNTI0LDE1NTY4MjI4MTMsMTc2Nz
 YyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3
 MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MC
 wxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5

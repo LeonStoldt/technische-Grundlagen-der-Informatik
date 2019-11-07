@@ -324,7 +324,13 @@ und unterscheiden zwischen:
 -	Knoten $i$ mit der Distanz zu Knoten $j$ überträgt in der Serialisierungszeit $t_s$ die Nachricht, die mit einer Ausbreitungsverzögerung $t_p$ bei $j$ ankommt. Die Gesamtzeit für das Senden und Empfangen der Nachricht beträgt also $t_d = t_s + t_p$
 
 #### Verbindungsarten
--	hängt von 
+-	abhängig von
+	-	Fähigkeiten des Übertragungskanals
+	-	Medienzugriffsverfahren
+	-	Fähigkeiten des Kommunikationspartners
+
+**simplex**
+
 
 
 
@@ -333,11 +339,11 @@ und unterscheiden zwischen:
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE3NTc0NDgsLTE5MzgyNTgzMTYsMT
-U1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1
-NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMj
-k3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwt
-MTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NT
-k5MjczMTYsOTc0NjU4MTY3LC0xMTc2OTc1OTgxLDU1Njc3Mzg2
-LDIwMDgwODM5MzJdfQ==
+eyJoaXN0b3J5IjpbMTgwNjY0OTM3LC0xOTM4MjU4MzE2LDE1NT
+Y4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcy
+MDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5Ny
+wtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEw
+NzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OT
+I3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4MSw1NTY3NzM4Niwy
+MDA4MDgzOTMyXX0=
 -->

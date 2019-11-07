@@ -174,18 +174,21 @@ Analogsignale werden durch den `ÀDC = Analog Digital Converter` in eine zeit- u
 -	Zwischen Signalen und der realen physikalischen Größe bestehen signifikante Unterschiede
 
 #### 5-4-3 Regel
--	In einem Netzwerk
+In einem Netzwerk gilt:
+-	maximal 5 Segmente
+-	mit 4 Repeatern
+-	und pro Segment maximal 3 Endstationen
 
 ### 2.4 Kodierung und Impulsformung
 
 
 ### 2.5 Übertragungsmedien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE4NjY0MjYsLTExMDA3NTM2NzAsMT
-U5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAw
-MDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMxNiw5NzQ2NTgxNj
-csLTExNzY5NzU5ODEsNTU2NzczODYsMjAwODA4MzkzMiwtMjYy
-ODQyMjI5LDE1NTc0MTUwNTgsLTE3NTQ2MTI4NjcsLTIxNDQyOT
-IzMDgsMTExODgzODYwOCwtNjU2MDE3NjAzLDE1MjMyMjMwOTks
-Mzc5MTQyMjExXX0=
+eyJoaXN0b3J5IjpbNjg3NDc2MjE5LC0xMTAwNzUzNjcwLDE1OT
+cwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1
+MDcwMywtNTkzMTI0MjQwLC02NTk5MjczMTYsOTc0NjU4MTY3LC
+0xMTc2OTc1OTgxLDU1Njc3Mzg2LDIwMDgwODM5MzIsLTI2Mjg0
+MjIyOSwxNTU3NDE1MDU4LC0xNzU0NjEyODY3LC0yMTQ0MjkyMz
+A4LDExMTg4Mzg2MDgsLTY1NjAxNzYwMywxNTIzMjIzMDk5LDM3
+OTE0MjIxMV19
 -->

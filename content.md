@@ -412,7 +412,7 @@ Bedingung:
 
 > **Prüfsummenbildung mit Hilfe von CRC (cyclic redundancy check)**
 > -	berechnet zu einem Datenblock eine Prüfsumme fester Länge
-> -	Fehlererkennung von allen 1-Bit Fehlern und isolierten 2-Bit Fehlern
+> -	Fehlererkennung von allen 1-Bit Fehlern und zusammenhängenden 2-Bit Fehlern
 > 
 > 1.	Die Nachricht $m$ erfüllt die Bedingung $|m| \lt k$, wobei $k$ der Grad des Generatorpolynoms $g$ ist
 > 2.	Die Nachricht $m$ erhält am Ende $k$ Nullen ($w \circ 0^k$)
@@ -422,10 +422,13 @@ Bedingung:
 > *Beispiel*
 > Generatorpolynom $g = 100111 \implies k = 5$ (da $g = x^5 + x^2 + x^1 + x^0$)
 > Nachricht: $m = 100101110011101 \implies |m| = 15$
+> 
+> Polynomdivision:
+> 100101110011101
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjAyMjI3Nyw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbLTI0NjY0NjI4NCw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

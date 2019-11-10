@@ -349,6 +349,11 @@ Verfahren:
 	- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
 	- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
 	- deutlich höhere Effizienz als ALOHA, aber nicht optimal
+- Token passing
+	-	Kollisionsvermeidung durch Weitergabe eines Tokens
+	-	Bildung eines Token-Rings
+	-	nur die Station mit dem Token darf senden und gibt diesen danach weiter
+	-	Problem: fehlerhafte Knoten stören das gesamte Netz
 
 **asynchron**
 
@@ -370,19 +375,16 @@ Verfahren:
 		-	Knoten senden vor der Nachricht ein *RTS - Request to send*
 		-	Router antwortet idealerweise mit *CTS - Clear to send*
 		-	Kollisionen werden verringert (die Datenrate allerdings auch)
--	Token passing
-	-	Kollisionsvermeidung durch Weitergabe eines Tokens
-	-	Bildung eines Token-Rings
-	-	nur die Station mit dem Token darf senden und gibt diesen danach weiter
-	-	Problem: fehlerhafte Knoten 
 
 ### 3.3 Rahmenbildung
+
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQwMTYxODUsNTQ0MzQwMTgxLC0xMD
-Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
-ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
-wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz
-MzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1Mj
-A4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQy
-NDAsLTY1OTkyNzMxNl19
+eyJoaXN0b3J5IjpbNDg0Mjg2MTU3LDU0NDM0MDE4MSwtMTA2ND
+g3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgz
+MTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMT
+M4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMy
+NjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwOD
+gxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQw
+LC02NTk5MjczMTZdfQ==
 -->

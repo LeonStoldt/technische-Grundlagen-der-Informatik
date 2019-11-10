@@ -348,7 +348,7 @@ oder
 		- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
 		- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
 		- deutlich höhere Effizienz als ALOHA, aber nicht optimal
-	- CSMA
+	- CSMA (Carrier Sense Multiple Access)
 		- simple Verbesserung des Slotted ALOHA
 		- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
 		- 
@@ -362,11 +362,11 @@ oder
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NjM5MDgsNTQ0MzQwMTgxLC0xMDY0OD
-c5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMx
-NiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMz
-g5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2
-MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4OD
-EwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAs
-LTY1OTkyNzMxNl19
+eyJoaXN0b3J5IjpbMjEzMTczNDc5Nyw1NDQzNDAxODEsLTEwNj
+Q4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4
+MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLD
+EzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMz
+MjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMD
+g4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0
+MCwtNjU5OTI3MzE2XX0=
 -->

@@ -445,15 +445,12 @@ Bedingung:
 >            00101100
 >              100111
 >              ------
->              00101100
->                100111
->                ------
->                001011
+>              0010110 = r
 > ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU4OTY1NTIsNzE0ODcwNjI3LDU0ND
+eyJoaXN0b3J5IjpbLTEyODc0NjgzMDgsNzE0ODcwNjI3LDU0ND
 M0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5
 NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLD
 E1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUw

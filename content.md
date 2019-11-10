@@ -416,7 +416,7 @@ Bedingung:
 > 
 > 1.	Die Nachricht $m$ erfüllt die Bedingung $|m| \gt k$, wobei $k$ der Grad des Generatorpolynoms $g$ ist
 > 2.	Die Nachricht $m$ erhält am Ende $k$ Nullen ($w \circ 0^k$)
-> 3.	Die Nachricht mit den zusätzlichen Nullen wird mit dem Generatorpolynom $g$ *XOR* verknüpft $$(0 \oplus 0 = 0 \0 \oplus 1 = 1, 1 \oplus 0 = 1, 1 \oplus 1 = 0)$$
+> 3.	Die Nachricht mit den zusätzlichen Nullen wird mit dem Generatorpolynom $g$ *XOR* verknüpft $$0 \oplus 0 = 0 \\ 0 \oplus 1 = 1 \\ 1 \oplus 0 = 1 \\ 1 \oplus 1 = 0$$
 > 4.	Der Rest $r$ mit $|r| \leq k$ wird an die ursprüngliche Nachricht angehängt
 > 
 > *Beispiel*
@@ -442,12 +442,15 @@ Bedingung:
 >         000101100
 >            100111 
 >            ------
->            
+>            00101100
+>              100111
+>              ------
+>              001011
 > ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3MzgxMjAyLDcxNDg3MDYyNyw1NDQzND
+eyJoaXN0b3J5IjpbODUzODMzNTc5LDcxNDg3MDYyNyw1NDQzND
 AxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUz
 LC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNT
 MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw

@@ -368,14 +368,16 @@ Verfahren:
 		-	CSMA/CA (Collision Avoidance)
 		-	Übertragung wird von der Basisstation (Bsp. Router) gesteuert
 		-	Knoten senden vor der Nachricht ein *RTS - Request to send*
+		-	Router antwortet idealerweise mit *CTS - Clear to send*
+		-	Kollisionen werden verringert (die Datenrate allerdings auch)
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MzcyODE4LDU0NDM0MDE4MSwtMTA2ND
-g3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgz
-MTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMT
-M4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMy
-NjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwOD
-gxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQw
-LC02NTk5MjczMTZdfQ==
+eyJoaXN0b3J5IjpbNDUwMDcyNzgsNTQ0MzQwMTgxLC0xMDY0OD
+c5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMx
+NiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMz
+g5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2
+MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4OD
+EwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAs
+LTY1OTkyNzMxNl19
 -->

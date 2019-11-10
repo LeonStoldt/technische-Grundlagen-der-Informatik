@@ -484,10 +484,11 @@ Kollisionsdomäne
 -	Alle Knoten konkurrieren um den Zugriff auf ein Übertragungsmedium (geteilte Ressource)
 -	Bridges unterteilen Netzte in kleinere Kollisionsdomänen
 -	Nachrichten aus einer Kollisionsdomäne in eine andere werden im Switch kurz zwischengespeichert und schließlich an das Ziel weitergeleitet.
+-	Wenn jeder Knoten 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjE3MjI3Myw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbMjEzMjEwODY5NSw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

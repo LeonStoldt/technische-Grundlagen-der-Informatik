@@ -416,7 +416,7 @@ Bedingung:
 > 
 > 1.	Die Nachricht $m$ erfüllt die Bedingung $|m| \gt k$, wobei $k$ der Grad des Generatorpolynoms $g$ ist
 > 2.	Die Nachricht $m$ erhält am Ende $k$ Nullen ($w \circ 0^k$)
-> 3.	Die Nachricht mit den zusätzlichen Nullen wird mit dem Generatorpolynom $g$ *XOR* verknüpft
+> 3.	Die Nachricht mit den zusätzlichen Nullen wird mit dem Generatorpolynom $g$ *XOR* verknüpft ($$)
 > 4.	Der Rest $r$ mit $|r| \leq k$ wird an die ursprüngliche Nachricht angehängt
 > 
 > *Beispiel*
@@ -447,11 +447,11 @@ Bedingung:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA5OTM5NjMsNzE0ODcwNjI3LDU0ND
-M0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5
-NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLD
-E1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUw
-NzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMz
-EyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcw
-MywtNTkzMTI0MjQwXX0=
+eyJoaXN0b3J5IjpbNzgzOTA5ODc4LDcxNDg3MDYyNyw1NDQzND
+AxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUz
+LC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNT
+MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw
+OTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMj
+QxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMs
+LTU5MzEyNDI0MF19
 -->

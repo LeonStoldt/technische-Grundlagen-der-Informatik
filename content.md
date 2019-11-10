@@ -382,8 +382,7 @@ Verfahren:
 
 ### 3.3 Rahmenbildung
 
-Auseinanderhalten von Nachrichten in einer Sequenz von 
-Wie können einzelne Nachrichten aus einer Sequenz von Bits auseinander gehalten werden?
+Auseinanderhalten von Nachrichten in einer Sequenz von Bits
 
 1.	Nachrichtenlänge angeben durch
 -	**Steuerzeichen:** Symbole, die nicht in der Nachricht vorkommen und Start bzw. Ende der Nachricht kodieren. (Bsp. Beispiel: **11000 10001** 10111 01011 01110 **01101 00111**)
@@ -409,15 +408,18 @@ Bedingung:
 |:--:|:--:|:--:|:--:|:--:|
 | Empfänger | Sender | optional - für die Unterstützung virtueller LANs über Ethernet | PDU = Protocol Data Unit | zur Fehlererkennung |
 
-Wie können Übertragungsfehler erkannt und korrigiert werden?
+Übertragungsfehler erkennen und korrigieren
+
+> **Prüfsummenbildung mit Hilfe von CRC (cyclic redundancy check)**
+> 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzNjE3Niw3MTQ4NzA2MjcsNTQ0MzQwMT
-gxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1Mywt
-MTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMz
-E5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4
-ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MS
-wtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01
-OTMxMjQyNDBdfQ==
+eyJoaXN0b3J5IjpbMTQyNzY4NDAxNCw3MTQ4NzA2MjcsNTQ0Mz
+QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
+MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
+UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3
+MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMT
+I0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAz
+LC01OTMxMjQyNDBdfQ==
 -->

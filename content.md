@@ -433,11 +433,13 @@ Bedingung:
 >     ------
 >     00101111
 >       100111 
+>       ------
+>       
 > ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMDA2Njk4LDcxNDg3MDYyNyw1NDQzND
+eyJoaXN0b3J5IjpbNDE2ODU3ODQyLDcxNDg3MDYyNyw1NDQzND
 AxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUz
 LC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNT
 MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw

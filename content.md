@@ -339,33 +339,34 @@ und unterscheiden zwischen:
 oder
 - zeitliche Aufteilung des Zugriffs auf den Kanal
 
-	- synchron
-		- Probleme:
-			- Kanal wird statisch aufgeteilt
-			- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
-		- Verfahren:
-			- Slotted ALOHA
-				- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
-				- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
-				- deutlich höhere Effizienz als ALOHA, aber nicht optimal
-			- CSMA
-				- simple Verbesserung des Slotted ALOHA
-				- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
-				- 
-	- asynchron
-		- ALOHA
-				- Jede Station sendet an eine zentrale Station
-				- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
-				- erfolgreiche Nachrichten werden quittiert
-				- nicht optimal im Hinblick auf Effizienz
+**synchron**
+- Probleme:
+	- Kanal wird statisch aufgeteilt
+	- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
+- Verfahren:
+	- Slotted ALOHA
+		- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
+		- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
+		- deutlich höhere Effizienz als ALOHA, aber nicht optimal
+	- CSMA
+		- simple Verbesserung des Slotted ALOHA
+		- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
+		- 
+
+**asynchron**
+- ALOHA
+		- Jede Station sendet an eine zentrale Station
+		- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
+		- erfolgreiche Nachrichten werden quittiert
+		- nicht optimal im Hinblick auf Effizienz
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU5ODU2NTgsNTQ0MzQwMTgxLC0xMD
-Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
-ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
-wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz
-MzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1Mj
-A4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQy
-NDAsLTY1OTkyNzMxNl19
+eyJoaXN0b3J5IjpbNTM1NjM5MDgsNTQ0MzQwMTgxLC0xMDY0OD
+c5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMx
+NiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMz
+g5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2
+MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4OD
+EwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAs
+LTY1OTkyNzMxNl19
 -->

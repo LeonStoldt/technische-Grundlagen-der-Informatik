@@ -404,14 +404,14 @@ Bedingung:
 
 -	Aufbau der Adressierung innerhalb eines Direktverbindungsnetzes:
 
-| Ziel MAC-Adresse | Ursprungs MAC-Adresse | (Control) |  |  |
-|--|--|--|--|--|
-|  |  |  |  |  |
+| Ziel MAC-Adresse | Ursprungs MAC-Adresse | (Control) | L3-PDU (Daten) | Prüfsumme |
+|--|--|--|--:|:--:|
+|  |  | optional - für die Unterstützung virtueller LANs über Ethernet | übertragene Daten |  |
 
 
 Wie können Übertragungsfehler erkannt und korrigiert werden?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzUyNTEzMSw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbLTQ5NTg0NTExMSw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

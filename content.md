@@ -342,11 +342,13 @@ oder
 		- Probleme:
 			- Kanal wird statisch aufgeteilt
 			- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
-		- Lösung:
+		- Verfahren:
 			- Slotted ALOHA
 				- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
-				- Zuweisung von Time Slots für das Senden von Nachrichten
+				- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
 				- deutlich höhere Effizienz als ALOHA, aber nicht optimal
+			- CSMA
+				- simple 
 	- asynchron
 		- ALOHA
 				- Jede Station sendet an eine zentrale Station
@@ -356,7 +358,7 @@ oder
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTg3NjIwLDU0NDM0MDE4MSwtMTA2ND
+eyJoaXN0b3J5IjpbLTE3NDg2MzMwLDU0NDM0MDE4MSwtMTA2ND
 g3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgz
 MTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMT
 M4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMy

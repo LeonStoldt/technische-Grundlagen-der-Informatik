@@ -374,11 +374,12 @@ Verfahren:
 	- Bei Kollisionen wird ein sog. "Jam-Signal" gesendet
 	- Problem: funktioniert nicht in Funknetzen
 	- Lösung:
-		-	CSMA/CA (Collision Avoidance)
+		-	CSMA/CD (Collision Detection)
 		-	Übertragung wird von der Basisstation (Bsp. Router) gesteuert
 		-	Knoten senden vor der Nachricht ein *RTS - Request to send*
 		-	Router antwortet idealerweise mit *CTS - Clear to send*
 		-	Kollisionen werden verringert (die Datenrate allerdings auch)
+		-	Bsp. Ethernet
 
 ### 3.3 Rahmenbildung
 
@@ -484,11 +485,11 @@ Kollisionsdomäne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTU1NjQyLDcxNDg3MDYyNyw1NDQzND
-AxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUz
-LC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNT
-MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw
-OTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMj
-QxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMs
-LTU5MzEyNDI0MF19
+eyJoaXN0b3J5IjpbLTE3MzU0ODE1MTcsNzE0ODcwNjI3LDU0ND
+M0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5
+NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLD
+E1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUw
+NzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMz
+EyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcw
+MywtNTkzMTI0MjQwXX0=
 -->

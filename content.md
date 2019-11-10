@@ -423,6 +423,7 @@ Bedingung:
 > Generatorpolynom $g = 100111 \implies k = 5$ (da $g = x^5 + x^2 + x^1 + x^0$)
 > Nachricht: $m = 100101110011101 \implies |m| = 15$
 > 
+> 1.	$|m| \lt k = 15 \lt 5$
 > Polynomdivision:
 > ``` j
 > 100101110011101
@@ -437,13 +438,15 @@ Bedingung:
 >       00100010
 >         100111
 >         ------
->         000101
->         100111 
+>         000101100
+>            100111 
+>            ------
+>            
 > ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjgzNDAwOCw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbLTMzOTczMTc5Niw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

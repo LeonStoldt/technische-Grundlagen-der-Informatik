@@ -482,13 +482,13 @@ Kollisionsdomäne
 - Teilbereich aus Teilnehmerstationen (Knoten)
 -	Hub verbindet die Knoten physikalisch zu einer Kollisionsdomäne
 -	Alle Knoten konkurrieren um den Zugriff auf ein Übertragungsmedium (geteilte Ressource)
--	Bridges unterteilen Netzte in kleinere Kollisionsdomänen
+-	**Bridge**s unterteilen Netzte in kleinere Kollisionsdomänen
 -	Nachrichten aus einer Kollisionsdomäne in eine andere werden im Switch kurz zwischengespeichert und schließlich an das Ziel weitergeleitet.
--	Wenn jeder Knoten 
+-	Jeder Knoten kann in eine einzelne Kollisionsdomäne aufgeteilt werden, damit es keine Kollisionen mehr gibt. Hierbei handelt es sich dann um einen **Switch**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjEwODY5NSw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbMTkyMDYzNTk5Nyw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

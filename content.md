@@ -478,10 +478,12 @@ Bedingung:
 
 Kollisionsdomäne
 
+- Teilbereich aus Teilnehmerstationen
+-	Hub verbindet die Knoten physikalisch zu einer Kollisionsdomäne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjQwMDc5OSw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbMTQ0MjAxNzQ0MSw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

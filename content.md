@@ -335,15 +335,19 @@ und unterscheiden zwischen:
 
 ### 3.2 Medienzugriff
 
--
+- Aufteilung des Kanals in verschiedene Frequenzbänder für die Kommunikationspartner
+oder
+- zeitliche Aufteilung des Zugriffs auf den Kanal
+	- synchron
+	- asynchron
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNT
-Q3ODA5OTUzLC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYy
-MDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MT
-UsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwx
-NTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MD
-AwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2
-NywtMTE3Njk3NTk4MV19
+eyJoaXN0b3J5IjpbMTgwMTE0MjQ0MCwtMTA2NDg3OTM2NSwxMz
+gwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1Njgy
+MjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNC
+wtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0x
+MTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NT
+I3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5Mjcz
+MTYsOTc0NjU4MTY3XX0=
 -->

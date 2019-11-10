@@ -418,6 +418,7 @@ Bedingung:
 > 2.	Die Nachricht $m$ erhält am Ende $k$ Nullen ($w \circ 0^k$)
 > 3.	Die Nachricht mit den zusätzlichen Nullen wird mit dem Generatorpolynom $g$ *XOR* verknüpft $$0 \oplus 0 = 0 \\ 0 \oplus 1 = 1 \\ 1 \oplus 0 = 1 \\ 1 \oplus 1 = 0$$
 > 4.	Der Rest $r$ mit $|r| \leq k$ wird an die ursprüngliche Nachricht angehängt
+> 5.	Der Empfänger der Nachricht mit Prüfsumme teilt diese durch das Generatorpolynom und sollte nach der fehlerfreien Übertragung keinen Rest erhalten.
 > 
 > *Beispiel*
 > Generatorpolynom $g = 100111 \implies k = 5$ (da $g = x^5 + x^2 + x^1 + x^0$)
@@ -451,14 +452,15 @@ Bedingung:
 > 4.	$|r| \leq k = 5 \leq 5 = true$
 > $m \circ r = 10010 11100 11101 \circ 10110 = 10010 11100 11101 10110$
 > 
+> 5.	Empränger prüft auf Korrektheit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NDA4OTI5LDcxNDg3MDYyNyw1NDQzND
-AxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUz
-LC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNT
-MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw
-OTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMj
-QxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMs
-LTU5MzEyNDI0MF19
+eyJoaXN0b3J5IjpbLTI5MDk2NTY2MSw3MTQ4NzA2MjcsNTQ0Mz
+QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
+MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
+UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3
+MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMT
+I0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAz
+LC01OTMxMjQyNDBdfQ==
 -->

@@ -15,7 +15,9 @@
 > ### 4.2 Adressierung im Internet
 > ### 4.3 ICMP
 > ### 4.4 DHCP
-> ### 4.5 
+> ### 4.5 IPv6
+> ### 4.6 Statisches Routing
+> ### 4-7 Dynamisches Routing
 
 ---
 
@@ -493,12 +495,30 @@ Kollisionsdomäne
 -	Jeder Knoten kann in eine einzelne Kollisionsdomäne aufgeteilt werden, damit es keine Kollisionen mehr gibt. Hierbei handelt es sich dann um einen **Switch**
 
 
+## 4. Vermittlungsschicht
+
+### 4.1 Vermittlungsarten
+
+>WIP
+
+### 4.2 Adressierung im Internet
+
+### 4.3 ICMP
+
+### 4.4 DHCP
+
+### 4.5 IPv6
+
+### 4.6 Statisches Routing
+
+### 4-7 Dynamisches Routing
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjgyNTI2LC0xOTM4MzAwMTIxLDcxND
-g3MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2
-NCwtNTQ3ODA5OTUzLC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMT
-c2NzYyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1
-Njc3MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1Mz
-Y3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUs
-LTE5MDAwNTA3MDNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNz
+E0ODcwNjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1
+NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMy
+wxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1
+NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNz
+UzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5
+NSwtMTkwMDA1MDcwM119
 -->

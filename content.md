@@ -339,11 +339,14 @@ und unterscheiden zwischen:
 oder
 - zeitliche Aufteilung des Zugriffs auf den Kanal
 	- synchron
+		- Probleme:
+			- Kanal wird statisch aufgeteilt
+			- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
 	- asynchron
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTE0MjQ0MCwtMTA2NDg3OTM2NSwxMz
+eyJoaXN0b3J5IjpbLTIzMDkxNTI0MiwtMTA2NDg3OTM2NSwxMz
 gwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1Njgy
 MjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNC
 wtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0x

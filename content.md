@@ -385,13 +385,13 @@ Verfahren:
 Wie können einzelne Nachrichten aus einer Sequenz von Bits auseinander gehalten werden?
 
 1.	Nachrichtenlänge angeben durch
--	Symbole, die nicht in der Nachricht vorkommen und Start bzw. Ende der Nachricht angeben (Bsp. Beispiel: **11000 10001** 10111 01011 01110 **01101 00111**
+-	Symbole, die nicht in der Nachricht vorkommen und Start bzw. Ende der Nachricht kodieren (Bsp. Beispiel: **11000 10001** 10111 01011 01110 **01101 00111**)
 
-2.	s
+2.	Anfang und Ende einer Nachricht werden mit einer bestimmten Bitfolge markiert
 
 Wie können Übertragungsfehler erkannt und korrigiert werden?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTY3MDI0OCw1NDQzNDAxODEsLTEwNj
+eyJoaXN0b3J5IjpbLTg3NjcwNzE0Myw1NDQzNDAxODEsLTEwNj
 Q4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4
 MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLD
 EzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMz

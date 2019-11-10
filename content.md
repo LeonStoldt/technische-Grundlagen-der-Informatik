@@ -348,7 +348,8 @@ oder
 				- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
 				- deutlich höhere Effizienz als ALOHA, aber nicht optimal
 			- CSMA
-				- simple 
+				- simple Verbesserung des Slotted ALOHA
+				- 
 	- asynchron
 		- ALOHA
 				- Jede Station sendet an eine zentrale Station
@@ -358,11 +359,11 @@ oder
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg2MzMwLDU0NDM0MDE4MSwtMTA2ND
-g3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgz
-MTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMT
-M4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMy
-NjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwOD
-gxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQw
-LC02NTk5MjczMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDMzMTk5NjYsNTQ0MzQwMTgxLC0xMD
+Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
+ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
+wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz
+MzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1Mj
+A4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQy
+NDAsLTY1OTkyNzMxNl19
 -->

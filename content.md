@@ -371,12 +371,14 @@ Verfahren:
 		-	Router antwortet idealerweise mit *CTS - Clear to send*
 		-	Kollisionen werden verringert (die Datenrate allerdings auch)
 -	Token passing
-	-	Kollisionsvermeidung durch 
+	-	Kollisionsvermeidung durch Weitergabe eines Tokens
 	-	Bildung eines Token-Rings
+	-	nur die Station mit dem Token darf senden und gibt diesen danach weiter
+	-	Problem: fehlerhafte Knoten 
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkzNTE2OTgsNTQ0MzQwMTgxLC0xMD
+eyJoaXN0b3J5IjpbLTIxMzQwMTYxODUsNTQ0MzQwMTgxLC0xMD
 Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
 ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
 wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz

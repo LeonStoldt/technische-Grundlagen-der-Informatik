@@ -414,17 +414,21 @@ Bedingung:
 > -	berechnet zu einem Datenblock eine Prüfsumme fester Länge
 > -	Fehlererkennung von allen 1-Bit Fehlern und isolierten 2-Bit Fehlern
 > 
-> 1.	Die Nachricht $m$ erfüllt die Bedingung $|m| > k$, wobei $k$ der Grad des Generatorpolynoms $g$ ist
+> 1.	Die Nachricht $m$ erfüllt die Bedingung $|m| \lt k$, wobei $k$ der Grad des Generatorpolynoms $g$ ist
 > 2.	Die Nachricht $m$ erhält am Ende $k$ Nullen ($w \circ 0^k$)
 > 3.	Die Nachricht mit den zusätzlichen Nullen wird mit dem Generatorpolynom $g$ *XOR* verknüpft
+> 4.	Der Rest $r$ mit $|r| \leq k$ wird an die ursprüngliche Nachricht angehängt
+> 
+> *Beispiel*
+> $$Gene$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NzIzMTU1LDcxNDg3MDYyNyw1NDQzND
-AxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUz
-LC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNT
-MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw
-OTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMj
-QxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMs
-LTU5MzEyNDI0MF19
+eyJoaXN0b3J5IjpbMTkwNzM2ODUzNiw3MTQ4NzA2MjcsNTQ0Mz
+QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
+MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
+UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3
+MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMT
+I0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAz
+LC01OTMxMjQyNDBdfQ==
 -->

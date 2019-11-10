@@ -19,6 +19,8 @@ Das OSI-Modell [Open Systems Interconnection Model] stellt ein Referenzmodell f�
 
 [![OSI-Schichtenmodell - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg/2560px-ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg/2560px-ISO-OSI-7-Schichten-Modell%28in_Deutsch%29.svg.png)
 
+---
+
 ## 2. Physical Layer
 ### 2.1 Einführung
  
@@ -275,6 +277,8 @@ und unterscheiden zwischen:
 #### Hub
 -	Kopplungselement zur Verbindung mehrerer Hosts eines Netzwerks
 
+---
+
 ## 3. Sicherungsschicht
 
 ### 3.1 Direktverbindungsnetze
@@ -378,15 +382,17 @@ Verfahren:
 
 ### 3.3 Rahmenbildung
 
--	Wie können einzelne Nachrichten aus einer Sequenz von Bits auseinander gehalten werden?
--	
--	Wie können Übertragungsfehler erkannt und korrigiert werden?
+Wie können einzelne Nachrichten aus einer Sequenz von Bits auseinander gehalten werden?
+
+1.	Nachrichtenlänge festleg
+
+Wie können Übertragungsfehler erkannt und korrigiert werden?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjAwNzEwMSw1NDQzNDAxODEsLTEwNj
-Q4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4
-MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLD
-EzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMz
-MjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMD
-g4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0
-MCwtNjU5OTI3MzE2XX0=
+eyJoaXN0b3J5IjpbLTExMzM0OTAzNDIsNTQ0MzQwMTgxLC0xMD
+Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
+ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
+wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz
+MzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1Mj
+A4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQy
+NDAsLTY1OTkyNzMxNl19
 -->

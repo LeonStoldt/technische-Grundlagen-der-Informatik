@@ -397,18 +397,21 @@ Bedingung:
 -	Eindeutige Identifikation im Direktverbindungsnetz
 -	Eine *Broadcast-Adresse*, die alle Knoten im Netz adressiert werden kann.
 
-**Adressen dieser Schicht sind die MAC-Adressen (Media Access Control)** 
--	MAC-Adresse ist im ROM (read only memory) hinterlegt
--	bestehen aus einer Herstellerkennung (Bsp. Intel *00-07-E9*) und einer eindeutigen Gerätenummer
--	Beispielhafte MAC-Adresse `00-07-E9-01-37-A2`
+> **MAC-Adressen (Media Access Control)** 
+> -	MAC-Adresse ist im ROM (read only memory) hinterlegt
+> -	bestehen aus einer Herstellerkennung (Bsp. Intel *00-07-E9*) und einer eindeutigen Gerätenummer
+> -	Beispielhafte MAC-Adresse `00-07-E9-01-37-A2`
+
+-	Aufbau der Adressierung innerhalb eines Direktverbindungsnetzes:
+-	
 
 Wie können Übertragungsfehler erkannt und korrigiert werden?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2ND
-g3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgz
-MTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMT
-M4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMy
-NjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwOD
-gxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQw
-LC02NTk5MjczMTZdfQ==
+eyJoaXN0b3J5IjpbMjA5MDQwMTg0NSw3MTQ4NzA2MjcsNTQ0Mz
+QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
+MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
+UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3
+MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMT
+I0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAz
+LC01OTMxMjQyNDBdfQ==
 -->

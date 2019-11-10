@@ -343,23 +343,24 @@ oder
 			- Kanal wird statisch aufgeteilt
 			- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
 		- Lösung:
-			- ALOHA
+			- Slotted ALOHA
+				- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
+				- Zuweisung von Time Slots für das Senden von Nachrichten
+				- deutlich höhere Effizienz als ALOHA, aber nicht optimal
+	- asynchron
+		- ALOHA
 				- Jede Station sendet an eine zentrale Station
 				- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
 				- erfolgreiche Nachrichten werden quittiert
 				- nicht optimal im Hinblick auf Effizienz
-			- Slotted ALOHA
-				- Zuweisung von Time Slots für das Senden von Nachrichten
-				- deutlich höhere Effizienz als ALOHA, aber nicht optimal
-	- asynchron
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEzOD
-A1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMxNiwxNTU2ODIy
-ODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMzg5NTU3MjA0LC
-0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2MTMyOTcsLTEx
-MDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mj
-c4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMx
-Niw5NzQ2NTgxNjddfQ==
+eyJoaXN0b3J5IjpbLTYxMTg3NjIwLDU0NDM0MDE4MSwtMTA2ND
+g3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgz
+MTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMT
+M4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMy
+NjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwOD
+gxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQw
+LC02NTk5MjczMTZdfQ==
 -->

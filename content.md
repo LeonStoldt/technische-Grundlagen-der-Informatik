@@ -482,10 +482,11 @@ Kollisionsdomäne
 - Teilbereich aus Teilnehmerstationen (Knoten)
 -	Hub verbindet die Knoten physikalisch zu einer Kollisionsdomäne
 -	Alle Knoten konkurrieren um den Zugriff auf ein Übertragungsmedium (geteilte Ressource)
+-	Bridges unterteilen Netzte in kleinere Kollisionsdomänen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU0ODE1MTcsNzE0ODcwNjI3LDU0ND
+eyJoaXN0b3J5IjpbLTEzNjcxMDg1NDMsNzE0ODcwNjI3LDU0ND
 M0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5
 NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLD
 E1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUw

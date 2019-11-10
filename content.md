@@ -398,10 +398,11 @@ Bedingung:
 -	Eine *Broadcast-Adresse*, die alle Knoten im Netz adressiert werden kann.
 
 **Adressen dieser Schicht sind die MAC-Adressen (Media Access Control)** 
+-	MAC-Adresse ist im ROM (read only memory) hinterlegt
 
 Wie können Übertragungsfehler erkannt und korrigiert werden?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjYxMTg1Miw1NDQzNDAxODEsLTEwNj
+eyJoaXN0b3J5IjpbMTEwNzI1NTY5OCw1NDQzNDAxODEsLTEwNj
 Q4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4
 MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLD
 EzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMz

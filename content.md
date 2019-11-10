@@ -344,15 +344,20 @@ oder
 			- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
 		- Lösung:
 			- ALOHA
+				- Jede Station sendet an eine zentrale Station
+				- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
+				- erfolgreiche Nachrichten werden quittiert
+				- nicht optimal im Hinblick auf Effizienz
+			- 
 	- asynchron
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODA2ODEwMiwtMTA2NDg3OTM2NSwxMz
-gwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1Njgy
-MjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNC
-wtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0x
-MTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgxMCwtMTA3NT
-I3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQwLC02NTk5Mjcz
-MTYsOTc0NjU4MTY3XX0=
+eyJoaXN0b3J5IjpbMzYwODQ4OTUsLTEwNjQ4NzkzNjUsMTM4MD
+U3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4MzE2LDE1NTY4MjI4
+MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLT
+ExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEw
+MDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNz
+g4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2
+LDk3NDY1ODE2N119
 -->

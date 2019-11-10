@@ -420,11 +420,11 @@ Bedingung:
 > 4.	Der Rest $r$ mit $|r| \leq k$ wird an die ursprüngliche Nachricht angehängt
 > 
 > *Beispiel*
-> $$Gene$$
+> Generatorpolynom $g = 100111 \implies k = 5$ (da $g = x^5 + x$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzM2ODUzNiw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbLTc4NDMxODA3NSw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

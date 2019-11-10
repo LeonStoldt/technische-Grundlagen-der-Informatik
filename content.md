@@ -370,14 +370,17 @@ Verfahren:
 		-	Knoten senden vor der Nachricht ein *RTS - Request to send*
 		-	Router antwortet idealerweise mit *CTS - Clear to send*
 		-	Kollisionen werden verringert (die Datenrate allerdings auch)
+-	Token passing
+	-	Kollisionsvermeidung durch 
+	-	Bildung eines Token-Rings
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMDcyNzgsNTQ0MzQwMTgxLC0xMDY0OD
-c5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMx
-NiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMz
-g5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2
-MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4OD
-EwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAs
-LTY1OTkyNzMxNl19
+eyJoaXN0b3J5IjpbLTEyNDkzNTE2OTgsNTQ0MzQwMTgxLC0xMD
+Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
+ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
+wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz
+MzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1Mj
+A4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQy
+NDAsLTY1OTkyNzMxNl19
 -->

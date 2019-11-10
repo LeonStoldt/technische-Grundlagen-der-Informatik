@@ -415,11 +415,11 @@ Bedingung:
 > -	Fehlererkennung von allen 1-Bit Fehlern und isolierten 2-Bit Fehlern
 > 
 > 1.	Die Nachricht $m$ erfüllt die Bedingung $|m| > k$, wobei $k$ der Grad des Generatorpolynoms ist
-> 2.	
+> 2.	Die Nachricht $m$ erhält am Ende $k$ Nullen ($w \circ 0^k$)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTA3ODI0MSw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbLTM3NDI4MjcxOCw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

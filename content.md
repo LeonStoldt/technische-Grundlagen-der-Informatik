@@ -480,7 +480,7 @@ Bedingung:
 Kollisionsdomäne
 
 - Teilbereich aus Teilnehmerstationen (Knoten)
--	Hub verbindet die Knoten physikalisch zu einer Kollisionsdomäne
+-	Ein **Hub** verbindet die Knoten physikalisch zu einer Kollisionsdomäne
 -	Alle Knoten konkurrieren um den Zugriff auf ein Übertragungsmedium (geteilte Ressource)
 -	**Bridge**s unterteilen Netzte in kleinere Kollisionsdomänen
 -	Nachrichten aus einer Kollisionsdomäne in eine andere werden im Switch kurz zwischengespeichert und schließlich an das Ziel weitergeleitet.
@@ -488,11 +488,11 @@ Kollisionsdomäne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDYzNTk5Nyw3MTQ4NzA2MjcsNTQ0Mz
-QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
-MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
-UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3
-MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMT
-I0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAz
-LC01OTMxMjQyNDBdfQ==
+eyJoaXN0b3J5IjpbLTE5MzgzMDAxMjEsNzE0ODcwNjI3LDU0ND
+M0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5
+NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLD
+E1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUw
+NzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMz
+EyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcw
+MywtNTkzMTI0MjQwXX0=
 -->

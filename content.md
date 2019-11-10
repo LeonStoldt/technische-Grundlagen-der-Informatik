@@ -413,10 +413,13 @@ Bedingung:
 > **Prüfsummenbildung mit Hilfe von CRC (cyclic redundancy check)**
 > -	berechnet zu einem Datenblock eine Prüfsumme fester Länge
 > -	Fehlererkennung von allen 1-Bit Fehlern und isolierten 2-Bit Fehlern
+> 
+> 1.	Die Nachricht $m$ erfüllt die Bedingung $|m| > k$, wobei $k$ der Grad des Generatorpolynoms ist
+> 2.	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzUxNzE2Myw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbMTA2OTA3ODI0MSw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

@@ -10,6 +10,12 @@
 > ### 3.1 Direktverbindungsnetze
 > ### 3.2 Medienzugriff
 > ### 3.3 Rahmenbildung
+> ## 4. Vermittlungsschicht
+> ### 4.1 Vermittlungsarten
+> ### 4.2 Adressierung im Internet
+> ### 4.3 ICMP
+> ### 4.4 DHCP
+> ### 4.5 
 
 ---
 
@@ -488,11 +494,11 @@ Kollisionsdomäne
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgzMDAxMjEsNzE0ODcwNjI3LDU0ND
-M0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5
-NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLD
-E1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUw
-NzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMz
-EyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcw
-MywtNTkzMTI0MjQwXX0=
+eyJoaXN0b3J5IjpbLTU3NjgyNTI2LC0xOTM4MzAwMTIxLDcxND
+g3MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2
+NCwtNTQ3ODA5OTUzLC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMT
+c2NzYyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1
+Njc3MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1Mz
+Y3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUs
+LTE5MDAwNTA3MDNdfQ==
 -->

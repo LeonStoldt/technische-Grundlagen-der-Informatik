@@ -404,17 +404,18 @@ Bedingung:
 
 -	Aufbau der Adressierung innerhalb eines Direktverbindungsnetzes:
 
-| Ziel MAC-Adresse | s |
+| Ziel MAC-Adresse | Ursprungs MAC-Adresse | (Control) |  |  |
 |--|--|--|--|--|
+|  |  |  |  |  |
 
 
 Wie können Übertragungsfehler erkannt und korrigiert werden?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYyNjAxODQsNzE0ODcwNjI3LDU0ND
-M0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5
-NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLD
-E1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUw
-NzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMz
-EyNDEsLTEyNTIwODgxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcw
-MywtNTkzMTI0MjQwXX0=
+eyJoaXN0b3J5IjpbMTMxMzUyNTEzMSw3MTQ4NzA2MjcsNTQ0Mz
+QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
+MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
+UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3
+MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMT
+I0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAz
+LC01OTMxMjQyNDBdfQ==
 -->

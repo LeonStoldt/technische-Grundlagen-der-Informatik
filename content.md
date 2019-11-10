@@ -400,15 +400,15 @@ Bedingung:
 **Adressen dieser Schicht sind die MAC-Adressen (Media Access Control)** 
 -	MAC-Adresse ist im ROM (read only memory) hinterlegt
 -	bestehen aus einer Herstellerkennung (Bsp. Intel *00-07-E9*) und einer eindeutigen Gerätenummer
--	Beispielhafte MAC-Adresse `00-07-E9-37-xx-xx`
+-	Beispielhafte MAC-Adresse `00-07-E9-01-37-A2`
 
 Wie können Übertragungsfehler erkannt und korrigiert werden?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMyOTE5MSw1NDQzNDAxODEsLTEwNj
-Q4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4
-MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLD
-EzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMz
-MjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMD
-g4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0
-MCwtNjU5OTI3MzE2XX0=
+eyJoaXN0b3J5IjpbNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2ND
+g3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgz
+MTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMT
+M4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMy
+NjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwOD
+gxMCwtMTA3NTI3ODg5NSwtMTkwMDA1MDcwMywtNTkzMTI0MjQw
+LC02NTk5MjczMTZdfQ==
 -->

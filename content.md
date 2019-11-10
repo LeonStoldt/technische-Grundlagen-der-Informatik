@@ -363,14 +363,17 @@ Verfahren:
 	- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
 	- Die Stationen warten nach einer Kollision eine zufällige Zeit, um die Kollisionswahrscheinlichkeit zu reduzieren
 	- Bei Kollisionen wird ein sog. "Jam-Signal" gesendet
+	- Problem: funktioniert nicht in Funknetzen
+	- Lösung:
+		-	CSMA/CA (
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE0MzQzOTQsNTQ0MzQwMTgxLC0xMD
-Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
-ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
-wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz
-MzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1Mj
-A4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQy
-NDAsLTY1OTkyNzMxNl19
+eyJoaXN0b3J5IjpbLTQzMzQ5NDYxOSw1NDQzNDAxODEsLTEwNj
+Q4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4
+MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLD
+EzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMz
+MjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMD
+g4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0
+MCwtNjU5OTI3MzE2XX0=
 -->

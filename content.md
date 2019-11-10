@@ -348,16 +348,18 @@ oder
 				- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
 				- erfolgreiche Nachrichten werden quittiert
 				- nicht optimal im Hinblick auf Effizienz
-			- 
+			- Slotted ALOHA
+				- Zuweisung von Time Slots für das Senden von Nachrichten
+				- deutlich höhere Effizienz als ALOHA, aber nicht optimal
 	- asynchron
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwODQ4OTUsLTEwNjQ4NzkzNjUsMTM4MD
-U3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4MzE2LDE1NTY4MjI4
-MTMsMTc2NzYyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLT
-ExNTc1Njc3MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEw
-MDc1MzY3MCwxNTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNz
-g4OTUsLTE5MDAwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2
-LDk3NDY1ODE2N119
+eyJoaXN0b3J5IjpbNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEzOD
+A1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMxNiwxNTU2ODIy
+ODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMzg5NTU3MjA0LC
+0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2MTMyOTcsLTEx
+MDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4ODEwLC0xMDc1Mj
+c4ODk1LC0xOTAwMDUwNzAzLC01OTMxMjQyNDAsLTY1OTkyNzMx
+Niw5NzQ2NTgxNjddfQ==
 -->

@@ -448,11 +448,12 @@ Bedingung:
 >              0010110 = r
 > ```
 > 
-> 4.	$|r| \leq k = 4 \leq 5$
+> 4.	$|r| \leq k = 5 \leq 5 = true$
+> $m = 100101110011101 \circ r = 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODc4NTc4MCw3MTQ4NzA2MjcsNTQ0Mz
+eyJoaXN0b3J5IjpbMTAwNTg3ODUzMSw3MTQ4NzA2MjcsNTQ0Mz
 QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
 MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
 UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3

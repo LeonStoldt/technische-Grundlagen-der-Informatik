@@ -342,11 +342,13 @@ oder
 		- Probleme:
 			- Kanal wird statisch aufgeteilt
 			- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
+		- Lösung:
+			- ALOHA
 	- asynchron
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDkxNTI0MiwtMTA2NDg3OTM2NSwxMz
+eyJoaXN0b3J5IjpbMTg1ODA2ODEwMiwtMTA2NDg3OTM2NSwxMz
 gwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1Njgy
 MjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNC
 wtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0x

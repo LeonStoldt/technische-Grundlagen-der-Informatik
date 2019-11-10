@@ -478,16 +478,17 @@ Bedingung:
 
 Kollisionsdomäne
 
-- Teilbereich aus Teilnehmerstationen
+- Teilbereich aus Teilnehmerstationen (Knoten)
 -	Hub verbindet die Knoten physikalisch zu einer Kollisionsdomäne
+-	Alle Knoten konkurrieren um den Zugriff auf ein Übertragungsmedium (geteilte Ressource)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjAxNzQ0MSw3MTQ4NzA2MjcsNTQ0Mz
-QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
-MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
-UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3
-MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMT
-I0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAz
-LC01OTMxMjQyNDBdfQ==
+eyJoaXN0b3J5IjpbMTkzNTU1NjQyLDcxNDg3MDYyNyw1NDQzND
+AxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUz
+LC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNT
+MzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcw
+OTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMj
+QxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMs
+LTU5MzEyNDI0MF19
 -->

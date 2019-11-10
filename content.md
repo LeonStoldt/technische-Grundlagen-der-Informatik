@@ -338,6 +338,7 @@ und unterscheiden zwischen:
 - Aufteilung des Kanals in verschiedene Frequenzbänder für die Kommunikationspartner
 oder
 - zeitliche Aufteilung des Zugriffs auf den Kanal
+
 	- synchron
 		- Probleme:
 			- Kanal wird statisch aufgeteilt
@@ -349,6 +350,7 @@ oder
 				- deutlich höhere Effizienz als ALOHA, aber nicht optimal
 			- CSMA
 				- simple Verbesserung des Slotted ALOHA
+				- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
 				- 
 	- asynchron
 		- ALOHA
@@ -359,7 +361,7 @@ oder
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMzMTk5NjYsNTQ0MzQwMTgxLC0xMD
+eyJoaXN0b3J5IjpbLTIwMDU5ODU2NTgsNTQ0MzQwMTgxLC0xMD
 Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
 ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
 wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz

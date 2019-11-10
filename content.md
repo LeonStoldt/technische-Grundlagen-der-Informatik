@@ -382,6 +382,7 @@ Verfahren:
 
 ### 3.3 Rahmenbildung
 
+Auseinanderhalten von Nachrichten in einer Sequenz von 
 Wie können einzelne Nachrichten aus einer Sequenz von Bits auseinander gehalten werden?
 
 1.	Nachrichtenlänge angeben durch
@@ -408,14 +409,15 @@ Bedingung:
 |:--:|:--:|:--:|:--:|:--:|
 | Empfänger | Sender | optional - für die Unterstützung virtueller LANs über Ethernet | PDU = Protocol Data Unit | zur Fehlererkennung |
 
-
 Wie können Übertragungsfehler erkannt und korrigiert werden?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDYwOTExNSw3MTQ4NzA2MjcsNTQ0Mz
-QwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1
-MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMT
-UzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3
-MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMT
-I0MSwtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAz
-LC01OTMxMjQyNDBdfQ==
+eyJoaXN0b3J5IjpbOTMzNjE3Niw3MTQ4NzA2MjcsNTQ0MzQwMT
+gxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1Mywt
+MTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMz
+E5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4
+ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MS
+wtMTI1MjA4ODEwLC0xMDc1Mjc4ODk1LC0xOTAwMDUwNzAzLC01
+OTMxMjQyNDBdfQ==
 -->

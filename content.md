@@ -384,11 +384,14 @@ Verfahren:
 
 Wie können einzelne Nachrichten aus einer Sequenz von Bits auseinander gehalten werden?
 
-1.	Nachrichtenlänge festleg
+1.	Nachrichtenlänge angeben
+-	vorangestellte Längenangabe des
+
+2.	s
 
 Wie können Übertragungsfehler erkannt und korrigiert werden?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM0OTAzNDIsNTQ0MzQwMTgxLC0xMD
+eyJoaXN0b3J5IjpbLTE5MzUwNzgzMzksNTQ0MzQwMTgxLC0xMD
 Y0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1
 ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MC
 wxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEz

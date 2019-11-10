@@ -333,17 +333,17 @@ und unterscheiden zwischen:
 [![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHSneyZshgPRp7iPzsxLBFQeFLQdCSaiSxcu-xyOxHan2Fjk4kA&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHSneyZshgPRp7iPzsxLBFQeFLQdCSaiSxcu-xyOxHan2Fjk4kA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHSneyZshgPRp7iPzsxLBFQeFLQdCSaiSxcu-xyOxHan2Fjk4kA&s)
 
 
-
-
 ### 3.2 Medienzugriff
+
+-
 
 ### 3.3 Rahmenbildung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOT
-M4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMzMTkx
-MzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOTg4ND
-MsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQxLC0x
-MjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MDAwNTA3MDMsLTU5Mz
-EyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2NywtMTE3Njk3NTk4
-MSw1NTY3NzM4Nl19
+eyJoaXN0b3J5IjpbLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNT
+Q3ODA5OTUzLC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYy
+MDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MT
+UsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwx
+NTk3MDMxMjQxLC0xMjUyMDg4MTAsLTEwNzUyNzg4OTUsLTE5MD
+AwNTA3MDMsLTU5MzEyNDI0MCwtNjU5OTI3MzE2LDk3NDY1ODE2
+NywtMTE3Njk3NTk4MV19
 -->

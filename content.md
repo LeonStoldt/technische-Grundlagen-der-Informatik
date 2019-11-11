@@ -539,6 +539,8 @@ Kollisionsdomäne
 > 0xC0A8 0x0203
 > 
 > `4500 + 3621 + 1211 + 4000 + 0108 + B29B + 4D3A + C0A8 + 0203 = 90BC`
+> 
+> Einerkomplement (Hex in Binär, Bits flippen und in Hex zurück umwandeln)
 
 
 #### IPv6
@@ -554,7 +556,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUwMzkyMjYsMTM5MzEwMDk1MiwtMT
+eyJoaXN0b3J5IjpbLTEzNzYxNjA5NjIsMTM5MzEwMDk1MiwtMT
 I5MzgxOTUxOSwzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4
 OTU2NywtMTIxMDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5Nz
 E5LC0xOTM4MzAwMTIxLDcxNDg3MDYyNyw1NDQzNDAxODEsLTEw

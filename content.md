@@ -516,7 +516,8 @@ Kollisionsdomäne
 	-	Pufferung kleiner Pakete, statt großer Nachrichten
 	-	Bei Verlust gehen nur einzelne Nachrichten verloren und können erneut gesendet werden
 -	Nachteile
-	-	
+	-	zusätzliche Header für einzelne Pakete sorgen für Overhead
+	-	Empfänger muss die Nach
 
 ### 4.2 Adressierung im Internet
 
@@ -531,7 +532,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTI4MDU1LC0xMjEwNDM0ODc0LDEwMz
+eyJoaXN0b3J5IjpbNTA3MjMyMzE2LC0xMjEwNDM0ODc0LDEwMz
 k2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcw
 NjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC
 01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3

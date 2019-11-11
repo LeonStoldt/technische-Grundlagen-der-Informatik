@@ -521,7 +521,6 @@ Kollisionsdomäne
 
 ### 4.2 Adressierung im Internet
 
-
 -	Internet Protokoll zur Adressierung in globalen Netzwerken
 -	IP Adressen werden zur Adressierung über Netze hinweg genutzt
 -	IPv4 Header 20 Bytes lang
@@ -545,8 +544,7 @@ Kollisionsdomäne
 > $90BC_{16} = 1001 0000 1011 1100_2$
 > Bits flippen: $0110 1111 0100 0011_2 = 6F43_{16}$
 
-
-#### IPv6
+#### ARP - Address Resolution Protocol
 
 ### 4.3 ICMP
 
@@ -559,7 +557,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDQxMzI5MywxODk5ODAyMTM1LDEzOT
+eyJoaXN0b3J5IjpbMjA3MDU2NDQzNiwxODk5ODAyMTM1LDEzOT
 MxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5Nzcy
 MjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNjU1Ni
 wtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0

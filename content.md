@@ -507,7 +507,7 @@ Kollisionsdomäne
 -	Pfad im Netzwerkgraph für eine Nachricht
 -	Nachricht mit vorangestelltem Header, der Informationen zu Sender und Empfänger enthält
 -	Vorteil: Phasen der verbindungsorientierten Verbindung entfallen
--	Nachteil: Falls Knoten zwischendrin ausgelastet sind müssen Nachrichten gepuffert werden
+-	Nachteil: Falls Knoten zwischendrin ausgelastet sind, müssen Nachrichten gepuffert werden. Wenn der Puffer voll ist, gehen Nachrichten verloren
 
 3.	Paketvermittlung
 -	Nachrichten werden in Einzelpakete zerlegt und nach dem Prinzip der Nachrichtenvermittlung verschickt
@@ -525,7 +525,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDI3MjY1NCwtMTIxMDQzNDg3NCwxMD
+eyJoaXN0b3J5IjpbMTMwNDQ0ODkyMSwtMTIxMDQzNDg3NCwxMD
 M5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3
 MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NC
 wtNTQ3ODA5OTUzLC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2

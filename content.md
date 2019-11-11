@@ -521,7 +521,11 @@ Kollisionsdomäne
 
 ### 4.2 Adressierung im Internet
 
-#### I
+#### IPv4
+
+
+
+#### IPv6
 
 ### 4.3 ICMP
 
@@ -534,7 +538,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM0MjAyNDAsLTEyMTA0MzQ4NzQsMT
+eyJoaXN0b3J5IjpbLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMT
 AzOTYxNjU1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4
 NzA2MjcsNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1Nj
 QsLTU0NzgwOTk1MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3

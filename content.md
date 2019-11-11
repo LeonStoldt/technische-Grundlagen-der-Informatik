@@ -525,10 +525,13 @@ Kollisionsdomäne
 -	Internet Protokoll zur Adressierung in globalen Netzwerken
 -	IPv4 Header 20 Bytes lang
 
-Checksumme berechnen
-1.	Alle bis auf die Checksumme addieren
-2.	Übertrag in jedem Schritt hinzuzählen
-3.	Einerkomplement des Ergebnis bilden
+> Checksumme berechnen (Hexadezimal)
+> 1.	Alle bis auf die Checksumme addieren
+> 2.	Übertrag in jedem Schritt hinzuzählen
+> 3.	Einerkomplement des Ergebnis bilden
+> 
+> *Beispiel*
+
 
 #### IPv6
 
@@ -543,11 +546,11 @@ Checksumme berechnen
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMz
-Y5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYx
-NjU1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4NzA2Mj
-csNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0
-NzgwOTk1MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2Mj
-AxNjAsMTUzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1
-LC0xNTA3MDk4ODQzXX0=
+eyJoaXN0b3J5IjpbNDQ5MjY5Njk3LC0xMjkzODE5NTE5LDM4OD
+M0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEwNDM0
+ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMj
+EsNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgw
+NTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1NjgyMj
+gxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNCwt
+MTE1NzU2NzcxNV19
 -->

@@ -502,8 +502,11 @@ Kollisionsdomäne
 1.	Leitungsvermittlung
 -	zugeteilte Leitungen zwischen Sender und Empfänger
 -	Verbindungsaufbau $\rightarrow$ Datenaustausch $\rightarrow$ Verbindungsabbau
+
 2.	Nachrichtenvermittlung
 -	Pfad im Netzwerkgraph für eine Nachricht
+-	
+
 3.	Paketvermittlung
 -	Nachrichten werden in Einzelpakete zerlegt und nach dem Prinzip der Nachrichtenvermittlung verschickt
 
@@ -520,11 +523,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTYxNjU1NiwtMTQ5MDk3OTcxOSwtMT
-kzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0MzQwMTgxLC0xMDY0ODc5
-MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMxNi
-wxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMzg5
-NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2MT
-MyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4ODEw
-LC0xMDc1Mjc4ODk1XX0=
+eyJoaXN0b3J5IjpbMTgzMzI0OTcwNywxMDM5NjE2NTU2LC0xND
+kwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3MDYyNyw1NDQzNDAx
+ODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC
+0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMz
+MTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOT
+g4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQx
+LC0xMjUyMDg4MTBdfQ==
 -->

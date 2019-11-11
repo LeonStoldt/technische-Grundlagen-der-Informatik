@@ -527,7 +527,8 @@ Kollisionsdomäne
 
 Checksumme berechnen
 1.	Alle bis auf die Checksumme addieren
-2.	Übertrag in jedem Schrhinzurechnen
+2.	Übertrag in jedem Schritt hinzuzählen
+3.	Einerkomplement des Ergebnis bilden
 
 #### IPv6
 
@@ -542,7 +543,7 @@ Checksumme berechnen
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYzNjY3NzMsMzg4MzQ1OTk0LC0yMz
+eyJoaXN0b3J5IjpbLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMz
 Y5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYx
 NjU1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4NzA2Mj
 csNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0

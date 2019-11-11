@@ -547,6 +547,10 @@ Kollisionsdomäne
 #### ARP - Address Resolution Protocol
 -	wird von IPv4 verwendet
 -	wird zur Ermittlung der MAC Adressen zu gegebenen IP Adressen verwendet
+-	hinterlegt die Zuordnung in ARP-Tabellen auf dem Rechner
+
+ARP Spoofing
+-	softwareseitige Manipulation 
 
 ### 4.3 ICMP
 
@@ -559,11 +563,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMzMDc5MzQsMTg5OTgwMjEzNSwxMz
-kzMTAwOTUyLC0xMjkzODE5NTE5LDM4ODM0NTk5NCwtMjM2OTc3
-MjI2LC0xNzYwNDg5NTY3LC0xMjEwNDM0ODc0LDEwMzk2MTY1NT
-YsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcwNjI3LDU0
-NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MD
-k5NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYw
-LDE1MzMxOTEzODBdfQ==
+eyJoaXN0b3J5IjpbOTU0NzQ0MDIzLDE4OTk4MDIxMzUsMTM5Mz
+EwMDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OTQsLTIzNjk3NzIy
+NiwtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwxMDM5NjE2NTU2LC
+0xNDkwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3MDYyNyw1NDQz
+NDAxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OT
+UzLC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwx
+NTMzMTkxMzgwXX0=
 -->

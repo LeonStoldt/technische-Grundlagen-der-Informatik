@@ -564,7 +564,8 @@ G-->D((D))
 ```
 
 Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze (A, B) und (C, D)
-1.	Host A 
+1.	Host A erkennt, dass Host D nicht in dem Direktnetz liegt
+2.	Host A löst die MAC-Adresse zu der, des Gateways auf und schickt die Nachricht los
 
 
 ### 4.3 ICMP
@@ -578,7 +579,7 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwODAyODIyLC0xNTM0MTQ0Njg3LDIwMj
+eyJoaXN0b3J5IjpbNjE5MDYyMTc4LC0xNTM0MTQ0Njg3LDIwMj
 IyOTQ2MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5
 NTE5LDM4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC
 0xMjEwNDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5

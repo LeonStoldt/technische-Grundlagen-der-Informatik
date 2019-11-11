@@ -502,8 +502,9 @@ Kollisionsdomäne
 1.	Leitungsvermittlung
 -	zugeteilte Leitungsn zwischen Sender und Empfänger
 2.	Nachrichtenvermittlung
--	
+-	Pfad im Netzwerkgraph für eine Nachricht
 3.	Paketvermittlung
+-	Nachrichten werden in Einzelpakete zerlegt und nach dem Prinzip der Nachrichtenvermittlung verschickt
 
 ### 4.2 Adressierung im Internet
 
@@ -518,11 +519,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ4ODU0MzEsLTE0OTA5Nzk3MTksLT
-E5MzgzMDAxMjEsNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2NDg3
-OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgzMT
-YsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4
-OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5ODg0MywxMzMyNj
-EzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEsLTEyNTIwODgx
-MCwtMTA3NTI3ODg5NV19
+eyJoaXN0b3J5IjpbMjAwMDM5MzM1MywtMTQ5MDk3OTcxOSwtMT
+kzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0MzQwMTgxLC0xMDY0ODc5
+MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMxNi
+wxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUzMzE5MTM4MCwxMzg5
+NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MDk4ODQzLDEzMzI2MT
+MyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0MSwtMTI1MjA4ODEw
+LC0xMDc1Mjc4ODk1XX0=
 -->

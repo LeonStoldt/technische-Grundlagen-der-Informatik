@@ -515,6 +515,8 @@ Kollisionsdomäne
 -	Vorteile
 	-	Pufferung kleiner Pakete, statt großer Nachrichten
 	-	Bei Verlust gehen nur einzelne Nachrichten verloren und können erneut gesendet werden
+-	Nachteile
+	-	
 
 ### 4.2 Adressierung im Internet
 
@@ -529,11 +531,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjE2ODQ3MiwtMTIxMDQzNDg3NCwxMD
-M5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3
-MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NC
-wtNTQ3ODA5OTUzLC0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2
-NzYyMDE2MCwxNTMzMTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Nj
-c3MTUsLTE1MDcwOTg4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3
-MCwxNTk3MDMxMjQxXX0=
+eyJoaXN0b3J5IjpbMjEyOTI4MDU1LC0xMjEwNDM0ODc0LDEwMz
+k2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcw
+NjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC
+01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3
+NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2Nz
+cxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcw
+LDE1OTcwMzEyNDFdfQ==
 -->

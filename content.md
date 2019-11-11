@@ -545,6 +545,7 @@ Kollisionsdomäne
 > Bits flippen: $0110 1111 0100 0011_2 = 6F43_{16}$
 
 #### ARP - Address Resolution Protocol
+-	wird von IPv4 verwendet
 
 ### 4.3 ICMP
 
@@ -557,7 +558,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDU2NDQzNiwxODk5ODAyMTM1LDEzOT
+eyJoaXN0b3J5IjpbLTYxNDY4MTQzNywxODk5ODAyMTM1LDEzOT
 MxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5Nzcy
 MjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNjU1Ni
 wtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0

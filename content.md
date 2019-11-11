@@ -512,7 +512,8 @@ Kollisionsdomäne
 3.	Paketvermittlung
 -	Nachrichten werden in Einzelpakete zerlegt und nach dem Prinzip der Nachrichtenvermittlung verschickt
 -	Jedes Nachrichtenpaket erhält einen eigenen Header u.a. mit Informationen zur Zusammensetzung
--	
+-	Vorteile
+	-	Pufferung kleiner Pakete, statt großer Nachrichten
 
 ### 4.2 Adressierung im Internet
 
@@ -527,7 +528,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjcyNTM0LC0xMjEwNDM0ODc0LDEwMz
+eyJoaXN0b3J5IjpbNzY0MjM5MzE4LC0xMjEwNDM0ODc0LDEwMz
 k2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcw
 NjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC
 01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3

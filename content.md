@@ -505,7 +505,7 @@ Kollisionsdomäne
 
 2.	Nachrichtenvermittlung
 -	Pfad im Netzwerkgraph für eine Nachricht
--	
+-	Phasen 
 
 3.	Paketvermittlung
 -	Nachrichten werden in Einzelpakete zerlegt und nach dem Prinzip der Nachrichtenvermittlung verschickt
@@ -523,11 +523,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzI0OTcwNywxMDM5NjE2NTU2LC0xND
-kwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3MDYyNyw1NDQzNDAx
-ODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC
-0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMz
-MTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOT
-g4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQx
-LC0xMjUyMDg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTczMjk1MTQyLDEwMzk2MTY1NTYsLTE0OT
+A5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcwNjI3LDU0NDM0MDE4
+MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLT
+E5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMx
+OTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2NzcxNSwtMTUwNzA5OD
+g0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcwLDE1OTcwMzEyNDEs
+LTEyNTIwODgxMF19
 -->

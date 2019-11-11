@@ -517,9 +517,11 @@ Kollisionsdomäne
 	-	Bei Verlust gehen nur einzelne Nachrichten verloren und können erneut gesendet werden
 -	Nachteile
 	-	zusätzliche Header für einzelne Pakete sorgen für Overhead
-	-	Empfänger muss die Nach
+	-	Empfänger muss die Nachricht zusammenbauen
 
 ### 4.2 Adressierung im Internet
+
+#### I
 
 ### 4.3 ICMP
 
@@ -532,11 +534,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3MjMyMzE2LC0xMjEwNDM0ODc0LDEwMz
-k2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcw
-NjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC
-01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3
-NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2Nz
-cxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcw
-LDE1OTcwMzEyNDFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjM0MjAyNDAsLTEyMTA0MzQ4NzQsMT
+AzOTYxNjU1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4
+NzA2MjcsNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1Nj
+QsLTU0NzgwOTk1MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3
+Njc2MjAxNjAsMTUzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NT
+Y3NzE1LC0xNTA3MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2
+NzAsMTU5NzAzMTI0MV19
 -->

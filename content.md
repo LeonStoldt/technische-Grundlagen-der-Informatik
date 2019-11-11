@@ -505,7 +505,8 @@ Kollisionsdomäne
 
 2.	Nachrichtenvermittlung
 -	Pfad im Netzwerkgraph für eine Nachricht
--	Phasen der verbindungsorientierten Verbindung entfallen
+-	Vorteil: Phasen der verbindungsorientierten Verbindung entfallen
+-	Nachricht mit vorangestelltem Header, der Informationen zu Sender und Empfänger enthält
 
 3.	Paketvermittlung
 -	Nachrichten werden in Einzelpakete zerlegt und nach dem Prinzip der Nachrichtenvermittlung verschickt
@@ -523,11 +524,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjA3ODUyOSwxMDM5NjE2NTU2LC0xND
-kwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3MDYyNyw1NDQzNDAx
-ODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC
-0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMz
-MTkxMzgwLDEzODk1NTcyMDQsLTExNTc1Njc3MTUsLTE1MDcwOT
-g4NDMsMTMzMjYxMzI5NywtMTEwMDc1MzY3MCwxNTk3MDMxMjQx
-LC0xMjUyMDg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMT
+Q5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0MzQw
+MTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1My
+wtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAsMTUz
+MzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NTY3NzE1LC0xNTA3MD
+k4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2NzAsMTU5NzAzMTI0
+MSwtMTI1MjA4ODEwXX0=
 -->

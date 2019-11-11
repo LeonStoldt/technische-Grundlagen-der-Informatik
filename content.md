@@ -568,10 +568,12 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 2.	$Host A$ löst die MAC-Adresse zu der Adresse des Gateways auf und schickt die Nachricht mit der IP Adresse von $Host D$ los
 3.	Das Gateway kennt die IP Adresse des Ziels und löst diese dann im anderen Netz auf die MAC-Adresse auf und leitet die Nachricht an das Ziel $Host D$ weiter
 
--	Beim Routing werden die Ziel-MAC-Adressen zwischendurch verändert, aber die IP-Adr
+:information_source: Beim Routing werden die Ziel-MAC-Adressen zwischendurch verändert, aber die IP-Adresse bleibt gleich.
 
 
-### 4.3 ICMP
+### 4.3 ICMP - Internet Control Message Protocol
+
+> WIP
 
 ### 4.4 DHCP
 
@@ -582,11 +584,11 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc1MzI1NTEsLTE1MzQxNDQ2ODcsMj
-AyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4
-MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0ODk1Nj
-csLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OTcxOSwt
-MTkzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0MzQwMTgxLC0xMDY0OD
-c5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1MywtMTkzODI1ODMx
-NiwxNTU2ODIyODEzXX0=
+eyJoaXN0b3J5IjpbLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMD
+IyMjk0NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5Mzgx
+OTUxOSwzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2Ny
+wtMTIxMDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0x
+OTM4MzAwMTIxLDcxNDg3MDYyNyw1NDQzNDAxODEsLTEwNjQ4Nz
+kzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4MzE2
+LDE1NTY4MjI4MTNdfQ==
 -->

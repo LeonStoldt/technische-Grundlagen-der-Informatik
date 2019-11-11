@@ -511,7 +511,7 @@ Kollisionsdomäne
 
 3.	Paketvermittlung
 -	Nachrichten werden in Einzelpakete zerlegt und nach dem Prinzip der Nachrichtenvermittlung verschickt
--	Jedes Nachrichtenpaket erhält einen eigenen Header mit Informationen zur Zusammensetzung
+-	Jedes Nachrichtenpaket erhält einen eigenen Header u.a. mit Informationen zur Zusammensetzung
 -	
 
 ### 4.2 Adressierung im Internet
@@ -527,11 +527,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUyMzczMjQsLTEyMTA0MzQ4NzQsMT
-AzOTYxNjU1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4
-NzA2MjcsNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1Nj
-QsLTU0NzgwOTk1MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3
-Njc2MjAxNjAsMTUzMzE5MTM4MCwxMzg5NTU3MjA0LC0xMTU3NT
-Y3NzE1LC0xNTA3MDk4ODQzLDEzMzI2MTMyOTcsLTExMDA3NTM2
-NzAsMTU5NzAzMTI0MV19
+eyJoaXN0b3J5IjpbMjA0NjcyNTM0LC0xMjEwNDM0ODc0LDEwMz
+k2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcw
+NjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC
+01NDc4MDk5NTMsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3
+NjIwMTYwLDE1MzMxOTEzODAsMTM4OTU1NzIwNCwtMTE1NzU2Nz
+cxNSwtMTUwNzA5ODg0MywxMzMyNjEzMjk3LC0xMTAwNzUzNjcw
+LDE1OTcwMzEyNDFdfQ==
 -->

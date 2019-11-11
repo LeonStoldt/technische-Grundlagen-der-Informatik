@@ -542,6 +542,7 @@ Kollisionsdomäne
 > 
 > Einerkomplement (Hex in Binär, Bits flippen und in Hex zurück umwandeln): 
 > $90BC_{16} = 1001 0000 1011 1100_2$
+> Bits flippen: $0110 1111 0100 0011_2 = 6F43_{16}$
 
 
 #### IPv6
@@ -557,7 +558,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTgzMDMzMywxMzkzMTAwOTUyLC0xMj
+eyJoaXN0b3J5IjpbMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMj
 kzODE5NTE5LDM4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5
 NTY3LC0xMjEwNDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MT
 ksLTE5MzgzMDAxMjEsNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2

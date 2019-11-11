@@ -565,8 +565,10 @@ G-->D((D))
 
 Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze (A, B) und (C, D)
 1.	$Host A$ erkennt, dass $Host D$ nicht in dem Direktnetz liegt
-2.	$Host A$ löst die MAC-Adresse zu der Adresse des Gateways auf und schickt die Nachricht mit der IP Adresse von $Host D los
-3.	Das Gateway kennt die IP Adresse des Ziels
+2.	$Host A$ löst die MAC-Adresse zu der Adresse des Gateways auf und schickt die Nachricht mit der IP Adresse von $Host D$ los
+3.	Das Gateway kennt die IP Adresse des Ziels und löst diese dann im anderen Netz auf die MAC-Adresse auf und leitet die Nachricht an das Ziel $Host D$ weiter
+
+-	Beim Routing werden die Ziel-MAC-Adressen zwischendurch verändert, aber die IP-Adr
 
 
 ### 4.3 ICMP
@@ -580,7 +582,7 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA5NTUwMzcsLTE1MzQxNDQ2ODcsMj
+eyJoaXN0b3J5IjpbLTEyNTc1MzI1NTEsLTE1MzQxNDQ2ODcsMj
 AyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4
 MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0ODk1Nj
 csLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OTcxOSwt

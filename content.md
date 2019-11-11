@@ -521,9 +521,9 @@ Kollisionsdomäne
 
 ### 4.2 Adressierung im Internet
 
-#### IPv4
+
 -	Internet Protokoll zur Adressierung in globalen Netzwerken
--	IP Adressen werden zu
+-	IP Adressen werden zur Adressierung über Netze hinweg genutzt
 -	IPv4 Header 20 Bytes lang
 
 > Checksumme berechnen (Hexadezimal)
@@ -559,11 +559,11 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDYwMzQsMTg5OTgwMjEzNSwxMzkzMT
-AwOTUyLC0xMjkzODE5NTE5LDM4ODM0NTk5NCwtMjM2OTc3MjI2
-LC0xNzYwNDg5NTY3LC0xMjEwNDM0ODc0LDEwMzk2MTY1NTYsLT
-E0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcwNjI3LDU0NDM0
-MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NT
-MsLTE5MzgyNTgzMTYsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1
-MzMxOTEzODBdfQ==
+eyJoaXN0b3J5IjpbMTU0MDQxMzI5MywxODk5ODAyMTM1LDEzOT
+MxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5Nzcy
+MjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNjU1Ni
+wtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0
+MzQwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOT
+k1MywtMTkzODI1ODMxNiwxNTU2ODIyODEzLDE3Njc2MjAxNjAs
+MTUzMzE5MTM4MF19
 -->

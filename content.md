@@ -500,7 +500,9 @@ Kollisionsdomäne
 ### 4.1 Vermittlungsarten
 
 1.	Leitungsvermittlung
+-	zugeteilte Leitungsn zwischen Sender und Empfänger
 2.	Nachrichtenvermittlung
+-	
 3.	Paketvermittlung
 
 ### 4.2 Adressierung im Internet
@@ -516,7 +518,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAxNzA3MjEsLTE0OTA5Nzk3MTksLT
+eyJoaXN0b3J5IjpbLTEzODQ4ODU0MzEsLTE0OTA5Nzk3MTksLT
 E5MzgzMDAxMjEsNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2NDg3
 OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMsLTE5MzgyNTgzMT
 YsMTU1NjgyMjgxMywxNzY3NjIwMTYwLDE1MzMxOTEzODAsMTM4

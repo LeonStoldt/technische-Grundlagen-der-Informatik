@@ -499,13 +499,13 @@ Kollisionsdomäne
 
 ### 4.1 Vermittlungsarten
 
-1.	Leitungsvermittlung (Verbindungsorientierte 
+1.	Leitungsvermittlung (verbindungsorientierte Verbindung)
 -	zugeteilte Leitungen zwischen Sender und Empfänger
 -	Verbindungsaufbau $\rightarrow$ Datenaustausch $\rightarrow$ Verbindungsabbau
 
 2.	Nachrichtenvermittlung
 -	Pfad im Netzwerkgraph für eine Nachricht
--	Phasen der 
+-	Phasen der verbindungsorientierten Verbindung entfallen
 
 3.	Paketvermittlung
 -	Nachrichten werden in Einzelpakete zerlegt und nach dem Prinzip der Nachrichtenvermittlung verschickt
@@ -523,7 +523,7 @@ Kollisionsdomäne
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTQ3ODA3OCwxMDM5NjE2NTU2LC0xND
+eyJoaXN0b3J5IjpbMTU5NjA3ODUyOSwxMDM5NjE2NTU2LC0xND
 kwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3MDYyNyw1NDQzNDAx
 ODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC
 0xOTM4MjU4MzE2LDE1NTY4MjI4MTMsMTc2NzYyMDE2MCwxNTMz

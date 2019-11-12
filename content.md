@@ -770,19 +770,20 @@ A --11--> C((C))
 C -- -9--> B
 ```
 
-|  | A | B | C |
+| Kante | A | B | C |
 |:--:|:--:|:--:|:--:|
-|  | 0 | $\infty$ | $\infty$ |
-|  | 0 | $\infty$ | $\infty$ |
+| A, B | 0 | $\infty$ | $\infty$ |
+| B, C | 0 | 3 (A) | $\infty$ |
+| A, C | 0 | 3 (A) | 11 |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjExMjU5NzAsLTE1NDg3Mzk2NTAsOD
-kxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3
-NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Ny
-w4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4Nzg1
-NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwODk1NDEsMj
-EyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMsLTE0OTcx
-NjkwMDhdfQ==
+eyJoaXN0b3J5IjpbLTY1OTg1NjkyOSwtMTU0ODczOTY1MCw4OT
+E2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTExMjc1
+MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNTM1Mjg3LD
+g0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4NjcsNTg3ODU1
+MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OTU0MSwyMT
+I0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMTQ5NzE2
+OTAwOF19
 -->

@@ -700,12 +700,21 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 3.	Initialisierung einer Prioritätswarteschlange der Nachbarknoten nach Entfernung
 4.	Prioritätswarteschlange abbauen und Distanzen eintragen
 
+*Beispiel:*
+
+``` mermaid
+graph LR
+A((A)) --100--> B((B))
+
+
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMD
-g5NTQxLDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEz
-LC0xNDk3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MT
-UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
-NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
-wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx
-MDQzNDg3NF19
+eyJoaXN0b3J5IjpbMTg3MjY3MTkxMSwxODcyNTc2NDAwLDM1Nz
+czMDI2Myw3ODIwODk1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4
+LC0yNTg2MTAyMTMsLTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MD
+g3MTgwOTgsLTcxNTIzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0
+Njg3LDIwMjIyOTQ2MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC
+0xMjkzODE5NTE5LDM4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYw
+NDg5NTY3XX0=
 -->

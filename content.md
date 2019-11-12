@@ -595,9 +595,10 @@ Die Zuteilung von IP-Adressen kann auf zwei Wegen erfolgen:
 
 ``` mermaid
 graph LR
-H((Host)) --DHCP-Discover--> D((DHCP))
-D --DHCP-Offer--> H
-
+H((Host)) --1. DHCP-Discover--> D((DHCP))
+D --2. DHCP-Offer--> H
+H --3. DHCP-Request--> D
+D --DHCP-ACK/NACK--> H
 ```
 
 -	Der Host sendet ein *DCHP-Discover* und erhält vom DHCP-Server ein *DHCP-Offer* mit der angebotenen IP-Adresse.
@@ -611,7 +612,7 @@ D --DHCP-Offer--> H
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzYzMjg3NSwtNzE1MjMzMzAxLC05NT
+eyJoaXN0b3J5IjpbMTY4MzU2OTQ0NSwtNzE1MjMzMzAxLC05NT
 M5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAy
 MTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC
 0yMzY5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAz

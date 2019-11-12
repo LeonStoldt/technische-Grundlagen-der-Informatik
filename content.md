@@ -619,13 +619,13 @@ IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde 
 
 ### 4.6 Statisches Routing
 
-#### A
+#### Adressklassen-Classfull Routing
 
 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNTM0NjU2LC01MDg3MTgwOTgsLTcxNT
+eyJoaXN0b3J5IjpbNzIwODAxNDU4LC01MDg3MTgwOTgsLTcxNT
 IzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2
 MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LD
 M4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEw

@@ -866,6 +866,8 @@ verbindungslose Transportdienste
 -	die einzelnen Pakete sollten korrekt zusammengesetzt werden
 -	falls Segmente verloren gehen, müssen diese Identifiziert und neu angefordert werden
 
+Der Drei-Wege-Handschlag besteht aus 3 Phasen
+
 
 ### 5.2 Verbindungsorientierte Übertragung
 
@@ -875,11 +877,11 @@ verbindungslose Transportdienste
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI2NjQ3NTgsLTE4NDI4MDQ0MzQsMT
-Y5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0
-MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NT
-gsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0x
-Njk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMD
-gzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwx
-MjMxOTMyODY3XX0=
+eyJoaXN0b3J5IjpbLTk3ODgyOTg5OCwtMTg0MjgwNDQzNCwxNj
+k2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQy
+MDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OC
+wtMTU0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2
+OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwOD
+M3MCwxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEy
+MzE5MzI4NjddfQ==
 -->

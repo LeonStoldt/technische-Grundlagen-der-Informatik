@@ -577,7 +577,9 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 -	dient zur Paketumleitung
 -	überprüft die Erreichbarkeit des Hosts (*Ping*)
 	-	Es wird ein Echo Request an den Zielhost geschickt
-	-	Der Zielhost antwortet mit ein
+	-	Der Zielhost antwortet nach erhalt des Echo Request mit einem Echo Reply
+	-	Sollte der Zielhost nichts erhalten, wird eine ICMP-Nachricht mit dem Fehlercode an den Absender zurück geschickt
+		-	Dies kann durch Ablaufen der TTL (Time to life
 
 ### 4.4 DHCP
 
@@ -588,7 +590,7 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMzM4OTU1LC05NTM5OTk3MDAsLTE1Mz
+eyJoaXN0b3J5IjpbMTYyMjEyMDA0LC05NTM5OTk3MDAsLTE1Mz
 QxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5
 NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLT
 E3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5

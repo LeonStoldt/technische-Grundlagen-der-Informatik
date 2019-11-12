@@ -580,6 +580,7 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 	-	Der Zielhost antwortet nach erhalt des Echo Request mit einem Echo Reply
 	-	Sollte der Zielhost nichts erhalten, wird eine ICMP-Nachricht mit dem Fehlercode an den Absender zurück geschickt
 		-	Dies kann durch Ablaufen der TTL (Time to live) passieren
+		-	Traceroute: 
 
 ### 4.4 DHCP
 
@@ -590,11 +591,11 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTIzMzMwMSwtOTUzOTk5NzAwLC0xNT
-M0MTQ0Njg3LDIwMjIyOTQ2MDgsMTg5OTgwMjEzNSwxMzkzMTAw
-OTUyLC0xMjkzODE5NTE5LDM4ODM0NTk5NCwtMjM2OTc3MjI2LC
-0xNzYwNDg5NTY3LC0xMjEwNDM0ODc0LDEwMzk2MTY1NTYsLTE0
-OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0ODcwNjI3LDU0NDM0MD
-E4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0LC01NDc4MDk5NTMs
-LTE5MzgyNTgzMTZdfQ==
+eyJoaXN0b3J5IjpbLTExMDIxNzE2MzgsLTcxNTIzMzMwMSwtOT
+UzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2MDgsMTg5OTgw
+MjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LDM4ODM0NTk5NC
+wtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEwNDM0ODc0LDEw
+Mzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0OD
+cwNjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0
+LC01NDc4MDk5NTNdfQ==
 -->

@@ -582,8 +582,15 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 		-	Dies kann durch Ablaufen der TTL (Time to live) passieren
 		-	Traceroute: Die Pakete werden mit einer TTL von 1 losgeschickt und somit beim nächsten Knoten verworfen und es wird eine Time Exceeded Nachricht an den Sender geschickt. Dieser erhöht die TTL um 1 und sendet erneut. Somit kann der Pfad zum Ziel herausgefunden werden.
 
+
 ### 4.4 DHCP
 
+Die Zuteilung von IP-Adressen kann auf zwei Wegen erfolgen:
+
+1.	statisch
+-	manuel
+
+2.	dynamisch
 
 
 ### 4.5 IPv6
@@ -593,11 +600,11 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Njc5MDc1NSwtNzE1MjMzMzAxLC05NT
-M5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAy
-MTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC
-0yMzY5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAz
-OTYxNjU1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4Nz
-A2MjcsNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQs
-LTU0NzgwOTk1M119
+eyJoaXN0b3J5IjpbOTUyNTMwNzMyLC03MTUyMzMzMDEsLTk1Mz
+k5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4MDIx
+MzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OTQsLT
+IzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwxMDM5
+NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3MD
+YyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwt
+NTQ3ODA5OTUzXX0=
 -->

@@ -690,10 +690,15 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 	-	Pfade im Graphen werden zunächst vollständig in die Tiefe durchsucht und danach werden abzweigende Pfade aufgebaut.
 
 -	Breitensuche
-	-	Im Gegensatz zur Tiefensuche werden erst alle direkt erreichbaren Knoten durchsucht und Stück für Stück 
+	-	Im Gegensatz zur Tiefensuche werden erst alle direkt erreichbaren Knoten durchsucht und erst nachdem kein unbekannter Knoten in direkter Verbindung steht wird der nächste Knoten betrachtet.
+
+
+#### Dijkstra-Algorithmus
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTMxMDMzMyw3ODIwODk1NDEsMjEyND
+eyJoaXN0b3J5IjpbMTU5MTgwNzE3OCw3ODIwODk1NDEsMjEyND
 A0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMsLTE0OTcxNjkw
 MDgsNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNTIzMzMwMSwtOT
 UzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2MDgsMTg5OTgw

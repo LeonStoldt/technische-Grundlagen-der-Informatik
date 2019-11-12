@@ -630,7 +630,7 @@ IP-Adresse: 192.168.178.20 = `1100 0000 . 1010 1000 . 1011 0010 . 0001 0100`
 Subnetzmaske: 255.255.255.0 = `1111 1111 . 1111 1111 . 1111 1111 . 0000 0000`
 kombinierte Schreibweise für IP-Adresse mit Subnetzmaske: `192.168.178.20/24`
 
-> :information_source: In diesem Fall sind die ersten drei Blöcke (24-Bit) der Netzanteil und der letzte Block der Hostanteil (8-Bit), woraus sich 256 Adressen ergeben. Der Hostanteil wird durch die Anzahl der Nullen der Subnetzmaske bestimmt bzw. der Netzanteil durch die Anzahl der Einsen.
+> :information_source: In diesem Fall sind die ersten drei Blöcke (24-Bit) der Netzanteil und der letzte Block der Hostanteil (8-Bit), woraus sich 256 Adressen [0000 0000 bis 1111 1111] ergeben. Der Hostanteil wird durch die Anzahl der Nullen der Subnetzmaske bestimmt bzw. der Netzanteil durch die Anzahl der Einsen.
 
 Berechnung der Netzadresse durch die *UND*-Verknüpfung:
 ``` json
@@ -647,11 +647,11 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNT
-IzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2
-MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LD
-M4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEw
-NDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMD
-AxMjEsNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwx
-MzgwNTc1NTY0XX0=
+eyJoaXN0b3J5IjpbLTE0MjgyMzk0MSw3NjkzNDcxNDMsLTUwOD
+cxODA5OCwtNzE1MjMzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2
+ODcsMjAyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5NTIsLT
+EyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0
+ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OT
+cxOSwtMTkzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0MzQwMTgxLC0x
+MDY0ODc5MzY1XX0=
 -->

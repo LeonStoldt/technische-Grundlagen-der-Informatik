@@ -761,6 +761,7 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 
 1.	Distanz vom Startknoten zu jedem anderen Knoten auf unendlich setzen
 2.	Alle Kanten müssen nach dem kürzesten Weg überprüft werden
+3.	Der Algorithmus ist beendet, wenn in einer Iteration keine Änderungen mehr zur vorherigen Iteration auftreten. Sollte dies der Fall sein, enthält der Graph einen negativen Zyklus
 
 
 ``` mermaid
@@ -779,17 +780,17 @@ C -- -9--> B
 | 2 | B, C | 0 | 11 + (-9) = 2 [C] < 3 [A] $\implies$ 2 [C] | 11 [A] |
 | 2 | A, C | 0 | 3 [A] | 11 [A] |
 | 3 | A, B | 0 | 3 [A] | 11 [A] |
-| 3| B, C | 0 | **2 [C]** | 11 [A] |
-| | A, C | 0 | 3 [A] | 11 [A] |
+| 3 | B, C | 0 | **2 [C]** | 11 [A] |
+| 3 | A, C | 0 | 3 [A] | 11 [A] |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1ODcwNzc5LC0xNTQ4NzM5NjUwLDg5MT
-Y0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUw
-MTc5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLDE2OTA1MzUyODcsOD
-QyMTc1OTM4LDE3MDkyOTAzNjAsMTIzMTkzMjg2Nyw1ODc4NTUx
-NjgsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQxLDIxMj
-QwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5
-MDA4XX0=
+eyJoaXN0b3J5IjpbMTU3ODUwMDkyOSwtMTU0ODczOTY1MCw4OT
+E2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTExMjc1
+MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNTM1Mjg3LD
+g0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4NjcsNTg3ODU1
+MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OTU0MSwyMT
+I0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMTQ5NzE2
+OTAwOF19
 -->

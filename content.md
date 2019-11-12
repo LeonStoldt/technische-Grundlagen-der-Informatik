@@ -630,7 +630,7 @@ IP-Adresse: 192.168.178.20 = `1100 0000 . 1010 1000 . 1011 0010 . 0001 0100`
 Subnetzmaske: 255.255.255.0 = `1111 1111 . 1111 1111 . 1111 1111 . 0000 0000`
 kombinierte Schreibweise für IP-Adresse mit Subnetzmaske: `192.168.178.20/24`
 
-:information_source: Die ersten drei Blöcke (24-Bit) bilden das Netz ab und der letzte Block den Host (8-Bit), woraus sich 256 Adressen ergeben.
+:information_source: In diesem Fall sind die ersten drei Blöcke (24-Bit) der Netzanteil und der letzte Block der Hostanteil (8-Bit), woraus sich 256 Adressen ergeben. Der Hostanteil wird durch die Anzahl der Nullen der Subnetzmaske bestimmt bzw.
 
 Berechnung der Netzadresse durch die *UND*-Verknüpfung:
 ``` json
@@ -645,7 +645,7 @@ Netzadresse: 192.168.178.0
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTUzNDI2MCwtNTA4NzE4MDk4LC03MT
+eyJoaXN0b3J5IjpbLTY3NjU2NzE4MywtNTA4NzE4MDk4LC03MT
 UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
 NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
 wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx

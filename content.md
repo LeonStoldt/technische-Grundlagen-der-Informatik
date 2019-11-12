@@ -622,14 +622,14 @@ IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde 
 #### Subetting
 
 -	Unterteilung von IP Netzen in Subnetze mit Hilfe einer 32-Bit Subnetzmaske
--	Subnetzmaske unterteilt die IP-Adresse in einen Host- und einen Hostanteil
--	
+-	Subnetzmaske unterteilt die IP-Adresse in einen Netz- und einen Hostanteil
+-	Die Netzadresse ergibt sich durch die logische *UND*-Verknüpfung der IP-Adresse und der Subne	
 
 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDM4ODQ5OSwtNTA4NzE4MDk4LC03MT
+eyJoaXN0b3J5IjpbLTM3Mjg1NTU2NywtNTA4NzE4MDk4LC03MT
 UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
 NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
 wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx

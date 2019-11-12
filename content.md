@@ -665,8 +665,6 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 -	Algorithmus zur Routenoptimierung muss zyklisch ausgeführt werden
 -	Auf Änderungen muss eingegangen werden können
 
-Die folgenden Algorithmen dienen zur Optimierun
-
 #### Kruskal Algorithmus
 -	für ungerichtete Graphen
 -	dient zur Bestimmung des minimal spannenden Baum (MST)
@@ -758,11 +756,11 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 | E | 300 | 300 | 230 | 350 | **250** | {} |
 
 
-
+#### Bellman-Ford Algorithmus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDcyNjg0MjUsLTE5Mzk0MDk2NDEsLT
+eyJoaXN0b3J5IjpbLTE3MDU3Mzg2MTEsLTE5Mzk0MDk2NDEsLT
 E2OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAw
 ODM3MCwxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLD
 EyMzE5MzI4NjcsNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMw

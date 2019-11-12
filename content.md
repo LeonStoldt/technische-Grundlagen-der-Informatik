@@ -621,15 +621,19 @@ IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde 
 
 #### Subetting
 
+-	Unterteilung von IP Netzen in Subnetze mit Hilfe einer 32-Bit Subnetzmaske
+-	Subnetzmaske unterteilt die IP-Adresse in einen Host- und einen Hostanteil
+-	
+
 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM1OTIxOTYsLTUwODcxODA5OCwtNz
-E1MjMzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5
-NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MT
-ksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0ODk1NjcsLTEy
-MTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OTcxOSwtMTkzOD
-MwMDEyMSw3MTQ4NzA2MjcsNTQ0MzQwMTgxLC0xMDY0ODc5MzY1
-LDEzODA1NzU1NjRdfQ==
+eyJoaXN0b3J5IjpbMTMwNDM4ODQ5OSwtNTA4NzE4MDk4LC03MT
+UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
+NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
+wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx
+MDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4Mz
+AwMTIxLDcxNDg3MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUs
+MTM4MDU3NTU2NF19
 -->

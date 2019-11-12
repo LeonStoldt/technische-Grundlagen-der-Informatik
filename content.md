@@ -669,9 +669,12 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 -	für ungerichtete Graphen
 -	dient zur Bestimmung des minimal spannenden Baum
 
+1.	Sortierung der Kanten nach Kantengewicht
+2.	Kante mit dem geringsten Gewicht wählen und 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM4MTg0MTIsMTg4NDA4NTk0OCwtMj
+eyJoaXN0b3J5IjpbLTEzNzkwMDgyNjAsMTg4NDA4NTk0OCwtMj
 U4NjEwMjEzLC0xNDk3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4
 MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4Ny
 wyMDIyMjk0NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5

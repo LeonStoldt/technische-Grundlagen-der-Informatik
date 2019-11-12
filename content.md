@@ -890,7 +890,7 @@ Verbesserung des Drei-Wege-Handschlag
 
 **Sliding Window Verfahren**
 
--	prinzipiell das gleiche Prinzip, wie der Drei-Wege-Handschlag
+-	gleiches Prinzip, wie der Drei-Wege-Handschlag
 -	
 
 
@@ -899,7 +899,7 @@ Verbesserung des Drei-Wege-Handschlag
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAyMzM5MjksMTgyNzYxMDg0MywtMT
+eyJoaXN0b3J5IjpbLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMT
 kwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0Mjgw
 NDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MC
 wtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5

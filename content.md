@@ -810,12 +810,12 @@ C -- -9--> B
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
 -	erfordert die Informationen, welche Ziele in den anderen autonomen Systemen erreichbar sind und worüber
--	Sobald durch das Inter-AS-Routing-Protokoll klar ist, über welches andere Ne
+-	Sobald durch das Inter-AS-Routing-Protokoll klar ist, wie und über welches Gateway das andere autonome Netz erreichbar ist, wird diese Information mit den Routern innerhalt des autonomen Systems geteilt
 
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjYyNjU3NiwxMDI0NjcwMjg2LDE5OT
+eyJoaXN0b3J5IjpbLTUxNTk3OTcxNiwxMDI0NjcwMjg2LDE5OT
 AxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5
 NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MDk0My
 w5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5

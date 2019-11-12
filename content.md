@@ -847,7 +847,10 @@ verbindungslose Transportdienste
 -	Segmente werden unabhängig voneinander übertragen (ohne Sequenznummern)
 -	daher existiert keine Garantie für die richtige Zusammensetzung der Segmente
 -	verloren gegangene Segmente werden nicht wiederholt
--	
+
+**UDP = User Datagram Protocol**
+-	kann Paketverlust aufweisen
+-	sehr einfacher Header und daher wenig Overhead
 
 
 ### 5.2 Verbindungsorientierte Übertragung
@@ -858,11 +861,11 @@ verbindungslose Transportdienste
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OT
-U2MTQ0NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0Njcw
-Mjg2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC
-0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4
-NjY3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5Mz
-gsMTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4Nzg1NTE2OCwxODcy
-NTc2NDAwXX0=
+eyJoaXN0b3J5IjpbLTY1OTU2MDU0OSwxNjk2NzI0MjU0LDE2ND
+U3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNjA3NjA0
+ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODczOTY1MC
+w4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTEx
+Mjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNTM1Mj
+g3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4NjcsNTg3
+ODU1MTY4XX0=
 -->

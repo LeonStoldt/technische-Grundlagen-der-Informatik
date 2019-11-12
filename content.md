@@ -669,6 +669,8 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 -	für ungerichtete Graphen
 -	dient zur Bestimmung des minimal spannenden Baum (MST)
 
+[![https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png](https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png)](https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png)
+
 1.	Sortierung der Kanten nach Kantengewicht
 2.	Zwei Mengen initialisieren (Menge der Kanten und Menge der Knoten des MST)
 3.	Kante mit dem geringsten Gewicht wählen und zur Menge der Kanten des MST hinzufügen, solange sich dadurch kein Kreis bildet.
@@ -676,11 +678,11 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA5MzY2NzgsMTg4NDA4NTk0OCwtMj
-U4NjEwMjEzLC0xNDk3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4
-MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4Ny
-wyMDIyMjk0NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5
-MzgxOTUxOSwzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OT
-U2NywtMTIxMDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5
-LC0xOTM4MzAwMTIxXX0=
+eyJoaXN0b3J5IjpbLTk1ODQ0MDg4MCwxODg0MDg1OTQ4LC0yNT
+g2MTAyMTMsLTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgw
+OTgsLTcxNTIzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LD
+IwMjIyOTQ2MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkz
+ODE5NTE5LDM4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NT
+Y3LC0xMjEwNDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTks
+LTE5MzgzMDAxMjFdfQ==
 -->

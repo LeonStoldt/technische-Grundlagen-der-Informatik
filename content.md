@@ -789,11 +789,11 @@ C -- -9--> B
 -	basiert intern auf den Bellman-Ford Algorithmus
 -	Prinzip: Den Nachbarn mitteilen, wie man selber die Welt sieht
 
-1.	Kostenmatrix erzeugen
+1.	Kostenmatrix erzeugen (Enthält die Kosten der direkten Nachbarn)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTM4NDY3OSwtMTU0ODczOTY1MCw4OT
+eyJoaXN0b3J5IjpbMTMwNjg1OTY1OSwtMTU0ODczOTY1MCw4OT
 E2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTExMjc1
 MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNTM1Mjg3LD
 g0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4NjcsNTg3ODU1

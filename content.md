@@ -749,7 +749,7 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 | Knoten | A | B | C | D | E | Queue |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | $\empty$ | 0 (300) | $\infty$ | $\infty$ | $\infty$ | $\infty$ | {A} |
-| A | 0 (300) | 100 | $\infty$ | 50 | $\infty$ | {D, B} |
+| A | 0 + 300 = 300 | 100 + 200 = 300 | $\infty$ | 50 + 300 = 350 | $\infty$ | {D, B} |
 | D | 0 (300) | 150 > 100 $\implies$ 100 | $\infty$ | 50 | 300 | {B, C, E} |
 | B | 0 (300) | 100 | 200 | 50 | 350 > 300 $\implies$ 300 | {C, E} |
 | C | 0 (300) | 100 | 200 | 50 | 250 < 300 $\implies$ 250 | {E} |
@@ -757,11 +757,11 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA4NDc3NzcsOTg2NjcwOTQzLDk0Nz
-AwODM3MCwxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYw
-LDEyMzE5MzI4NjcsNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3Nz
-MwMjYzLDc4MjA4OTU0MSwyMTI0MDQ1NzUxLDE4ODQwODU5NDgs
-LTI1ODYxMDIxMywtMTQ5NzE2OTAwOCw3NjkzNDcxNDMsLTUwOD
-cxODA5OCwtNzE1MjMzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2
-ODddfQ==
+eyJoaXN0b3J5IjpbMjY1NTA0Mjk5LDk4NjY3MDk0Myw5NDcwMD
+gzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwx
+MjMxOTMyODY3LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMD
+I2Myw3ODIwODk1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0y
+NTg2MTAyMTMsLTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MT
+gwOTgsLTcxNTIzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3
+XX0=
 -->

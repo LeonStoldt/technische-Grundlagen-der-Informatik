@@ -794,15 +794,15 @@ C -- -9--> B
 3.	Die Informationen anderer Router, welche Knoten sie am besten erreichen können wird nun in die eigene Informationsbasis einberechnet
 4.	Bei minimierten Kosten für den Zugriff auf direkte Nachbarn wird eine aktualisierte Form der Information-Zusammenstellung erneut an die Nachbarn gesendet
 
--	Sobald ein Netzwe
+-	Sobald ein Netzwerkknoten initialisiert wird, sendet er seinen Distanzvektor an die Nachbarknoten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDE2NTMyMSwxOTkwMTE3NDU4LC0xNT
-Q4NzM5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3
-ODcwMCwtMTEyNzUwMTc5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLD
-E2OTA1MzUyODcsODQyMTc1OTM4LDE3MDkyOTAzNjAsMTIzMTkz
-Mjg2Nyw1ODc4NTUxNjgsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNz
-gyMDg5NTQxLDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEw
-MjEzXX0=
+eyJoaXN0b3J5IjpbOTM4NjM3NDA2LDE5OTAxMTc0NTgsLTE1ND
+g3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4
+NzAwLC0xMTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMT
+Y5MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMy
+ODY3LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3OD
+IwODk1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAy
+MTNdfQ==
 -->

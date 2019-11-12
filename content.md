@@ -687,12 +687,13 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 #### Suchstrategien
 
 -	Tiefensuche
-	-	Pfade im Graphen werden zunächst vollständig in die Tiefe
+	-	Pfade im Graphen werden zunächst vollständig in die Tiefe durchsucht und danach werden abzweigende Pfade aufgebaut.
 
 -	Breitensuche
+	-	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk4NjQ0NzIsNzgyMDg5NTQxLDIxMj
+eyJoaXN0b3J5IjpbLTExODkxMDk3NDYsNzgyMDg5NTQxLDIxMj
 QwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5
 MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMzMDEsLT
 k1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4

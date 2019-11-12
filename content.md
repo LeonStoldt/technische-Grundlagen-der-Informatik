@@ -818,6 +818,8 @@ Interieur Gateway Protokolle:
 	-	das Gesamtnetzwerk muss bekannt sein
 	-	ist besser skalierbar als RIP
 
+:information_source: Grenzrouter 
+
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
 -	erfordert die Informationen, welche Ziele in den anderen autonomen Systemen erreichbar sind und worüber
@@ -826,7 +828,7 @@ Interieur Gateway Protokolle:
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODk4Mzg3MCwtNDM0MzQyMDU2LC0xNj
+eyJoaXN0b3J5IjpbMTUyMjU5MzE0MywtNDM0MzQyMDU2LC0xNj
 A3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODcz
 OTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MD
 AsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkw

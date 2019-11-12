@@ -648,13 +648,16 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 -	Tabelle mit Einträgen, die den (besten) Weg in einem Netzwerk zu einem bestimmten Ziel beschreiben
 -	Netzwerke, die direkt mit dem Router verbunden sind werden fort eingetragen
--	
+
+#### Longest Prefix Matching
+
+
 
 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxODExODcxLC0yNTg2MTAyMTMsLTE0OT
+eyJoaXN0b3J5IjpbMzcxNzMxNTc5LC0yNTg2MTAyMTMsLTE0OT
 cxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNTIzMzMw
 MSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2MDgsMT
 g5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LDM4ODM0

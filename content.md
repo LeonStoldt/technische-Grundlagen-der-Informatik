@@ -623,17 +623,21 @@ IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde 
 
 -	Unterteilung von IP Netzen in Subnetze mit Hilfe einer 32-Bit Subnetzmaske
 -	Subnetzmaske unterteilt die IP-Adresse in einen Netz- und einen Hostanteil
--	Die Netzadresse ergibt sich durch die logische *UND*-Verknüpfung der IP-Adresse und der Subne	
+-	Die Netzadresse ergibt sich durch die logische *UND*-Verknüpfung der IP-Adresse und der Subnetzmaske
+
+*Beispiel:*
+IP-Adresse: 192.168.178.20 = 
+Subnetzmaske: 255.255.255.0	
 
 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mjg1NTU2NywtNTA4NzE4MDk4LC03MT
-UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
-NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
-wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx
-MDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4Mz
-AwMTIxLDcxNDg3MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUs
-MTM4MDU3NTU2NF19
+eyJoaXN0b3J5IjpbNDQxMTk2NzA0LC01MDg3MTgwOTgsLTcxNT
+IzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2
+MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LD
+M4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEw
+NDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMD
+AxMjEsNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwx
+MzgwNTc1NTY0XX0=
 -->

@@ -826,7 +826,8 @@ Interieur Gateway Protokolle:
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
 -	erfordert die Informationen, welche Ziele in den anderen autonomen Systemen erreichbar sind und worüber
--	Sobald durch das Inter-AS-Routing-Protokoll klar ist, wie und über welches Gateway das andere autonome Netz erreichbar ist, wird diese Information mit den Routern innerhalt des autonomen Systems geteilt
+-	Sobald durch das Inter-AS-Routing-Protokoll klar ist, wie und über welches Gateway das andere autonome Netz erreichbar ist, wird diese Information mit den Routern innerhalb des autonomen Systems geteilt
+-	
 
 **EGP = Exterieur Gateway Protocol**
 -	BGP = Border Gateway Protocol
@@ -837,11 +838,11 @@ Interieur Gateway Protokolle:
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNj
-A3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODcz
-OTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MD
-AsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkw
-NTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4Nj
-csNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4
-OTU0MV19
+eyJoaXN0b3J5IjpbLTE2NTkyODQ4NjUsLTk5NTYxNDQ1MCwtND
+M0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDEx
+NzQ1OCwtMTU0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2ND
+EsLTE2OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0
+NzAwODM3MCwxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMz
+YwLDEyMzE5MzI4NjcsNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3
+NzMwMjYzXX0=
 -->

@@ -666,14 +666,16 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 -	Auf Änderungen muss eingegangen werden können
 
 #### Kruskal Algorithmus
+-	für ungerichtete Graphen
+-	dient zur Bestimmung des minimal spannenden Baum
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMDEwMzMwLDE4ODQwODU5NDgsLTI1OD
-YxMDIxMywtMTQ5NzE2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5
-OCwtNzE1MjMzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMj
-AyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4
-MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0ODk1Nj
-csLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OTcxOSwt
-MTkzODMwMDEyMV19
+eyJoaXN0b3J5IjpbLTEyNTM4MTg0MTIsMTg4NDA4NTk0OCwtMj
+U4NjEwMjEzLC0xNDk3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4
+MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4Ny
+wyMDIyMjk0NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5
+MzgxOTUxOSwzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OT
+U2NywtMTIxMDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5
+LC0xOTM4MzAwMTIxXX0=
 -->

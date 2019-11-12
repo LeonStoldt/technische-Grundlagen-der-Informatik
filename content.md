@@ -661,14 +661,17 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 ### 4-7 Dynamisches Routing
 
+-	Routen ändern sich (schnell)
+-	Algorithmus zur Routenoptimierung muss zyklisch ausgeführt werden
+-	Auf Änderungen muss adaptiv eingegangen werden
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU0ODY0ODgsLTI1ODYxMDIxMywtMT
-Q5NzE2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMz
-MzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOC
-wxODk5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4
-MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0Mz
-Q4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMDEy
-MSw3MTQ4NzA2MjddfQ==
+eyJoaXN0b3J5IjpbNTgyMzYxNDgzLC0yNTg2MTAyMTMsLTE0OT
+cxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNTIzMzMw
+MSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2MDgsMT
+g5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LDM4ODM0
+NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEwNDM0OD
+c0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEs
+NzE0ODcwNjI3XX0=
 -->

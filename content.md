@@ -720,11 +720,11 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 | A | 0 | 100 | $\infty$ | 50 | $\infty$ | {D, B} |
 | B | 0 | 100 | 200 | 50 | $\infty$ | {C, D} |
 | C | 0 | 100 | 200 | 50 | 250 | {D} |
-| D | 0 | 150 > 100 $\implies$ 100 | 200 | 50 | $\infty$ | {} |
+| D | 0 | 150 > 100 $\implies$ 100 | 200 | 50 | 300 | {} |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExMjExOTE3LDEyMzE5MzI4NjcsNTg3OD
+eyJoaXN0b3J5IjpbNjIwOTg3MzU4LDEyMzE5MzI4NjcsNTg3OD
 U1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OTU0MSwy
 MTI0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMTQ5Nz
 E2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMzMzAx

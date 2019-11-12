@@ -794,15 +794,15 @@ C -- -9--> B
 3.	Die Informationen anderer Router, welche Knoten sie am besten erreichen können wird nun in die eigene Informationsbasis einberechnet
 4.	Bei minimierten Kosten für den Zugriff auf direkte Nachbarn wird eine aktualisierte Form der Information-Zusammenstellung erneut an die Nachbarn gesendet
 
-
+-	Sobald ein Netzwe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDExNzQ1OCwtMTU0ODczOTY1MCw4OT
-E2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTExMjc1
-MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNTM1Mjg3LD
-g0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4NjcsNTg3ODU1
-MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OTU0MSwyMT
-I0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMTQ5NzE2
-OTAwOF19
+eyJoaXN0b3J5IjpbMTg0MDE2NTMyMSwxOTkwMTE3NDU4LC0xNT
+Q4NzM5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3
+ODcwMCwtMTEyNzUwMTc5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLD
+E2OTA1MzUyODcsODQyMTc1OTM4LDE3MDkyOTAzNjAsMTIzMTkz
+Mjg2Nyw1ODc4NTUxNjgsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNz
+gyMDg5NTQxLDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEw
+MjEzXX0=
 -->

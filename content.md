@@ -947,13 +947,13 @@ i                                                      j
 | <-------------AcknowledgeNumber = 6----------------- |
 ```
 
-
 ### 5.3 TCP
 
+> WIP
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODE1MDE2OCwxNzg3MTAwNzUsLTk3Mz
+eyJoaXN0b3J5IjpbLTUzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mz
 c5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIw
 MjI3LC02NjA4MzU0MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LD
 E2OTY3MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQz

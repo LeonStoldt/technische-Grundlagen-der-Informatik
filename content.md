@@ -750,17 +750,17 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | $\empty$ | 0 + 300 = 300 | $\infty$ | $\infty$ | $\infty$ | $\infty$ | {A} |
 | A | 300 | 100 + 200 = 300 | $\infty$ | 50 + 300 = 350 | $\infty$ | {B, D} |
-| B | 300 | 300 | 100 + 100 + 30 = 230 |  |  | {C, D} |
-| C | 300 | 300 | 100 + 100 + 30 = 230 |  |  | {C, D} |
+| B | 300 | 300 | 100 + 100 + 30 = 230 | 350 | 100 + 250 = 350 | {C, D} |
+| C | 300 | 300 | 100 + 100 + 30 = 230 | 350 | 100 + 100 + 50 = 250 < 350 $\implies$ 250 | {D} |
 | D | 300 | 50 + 100 + 200 = 350 > 300 $\implies$ 300 |  |  |  | {} |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTEzNDI4LC0xMTI3NTAxNzk3LDk4Nj
-Y3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5Mzgs
-MTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4Nzg1NTE2OCwxODcyNT
-c2NDAwLDM1NzczMDI2Myw3ODIwODk1NDEsMjEyNDA0NTc1MSwx
-ODg0MDg1OTQ4LC0yNTg2MTAyMTMsLTE0OTcxNjkwMDgsNzY5Mz
-Q3MTQzLC01MDg3MTgwOTgsLTcxNTIzMzMwMSwtOTUzOTk5NzAw
-XX0=
+eyJoaXN0b3J5IjpbMTc0MDg5Nzc0OCwtMTEyNzUwMTc5Nyw5OD
+Y2NzA5NDMsOTQ3MDA4MzcwLDE2OTA1MzUyODcsODQyMTc1OTM4
+LDE3MDkyOTAzNjAsMTIzMTkzMjg2Nyw1ODc4NTUxNjgsMTg3Mj
+U3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQxLDIxMjQwNDU3NTEs
+MTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5MDA4LDc2OT
+M0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcw
+MF19
 -->

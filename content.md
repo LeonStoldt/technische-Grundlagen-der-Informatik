@@ -880,19 +880,22 @@ i                                                          j
 | ---------------AcknowledgeNumber = y+1 ----------------> |
 ```
 
--	Nachteile
+Nachteile
 	-	es kann nur ein Segment übertragen und bestätigt werden
+
+Verbesserung des Drei-Wege-Handschlag
+-	
 
 ### 5.3 TCP
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDgzNTQyNCw3OTE5NjYwMTYsLTE4ND
-I4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0
-NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LD
-E5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5
-NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MD
-k0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcw
-OTI5MDM2MF19
+eyJoaXN0b3J5IjpbLTk0MDIwMDUwLC02NjA4MzU0MjQsNzkxOT
+Y2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEz
+MCwtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMT
+AyNDY3MDI4NiwxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0
+MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUwMT
+c5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLDE2OTA1MzUyODcsODQy
+MTc1OTM4XX0=
 -->

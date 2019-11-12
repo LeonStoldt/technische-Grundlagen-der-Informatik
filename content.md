@@ -891,15 +891,26 @@ Verbesserung des Drei-Wege-Handschlag
 **Sliding Window Verfahren**
 
 -	gleiches Prinzip, wie der Drei-Wege-Handschlag
--	mehrere Segmente werden ohne Acknowledgement gesendet
+-	mehrere Segmente werden ohne Acknowledgement gesendet und erst das letzte wird bestätigt
 
+*Beispiel: Sendefenster von 5 Segmenten*
+```
+i                                                          j
+| ----------------SequenceNumber = 0-----------------> |
+| ----------------SequenceNumber = 1-----------------> |
+| ----------------SequenceNumber = 2-----------------> |
+| ----------------SequenceNumber = 3-----------------> |
+| ----------------SequenceNumber = 4-----------------> |
+| <----AcknowledgeNumber = x+1---- |
+| ---------------AcknowledgeNumber = y+1 ----------------> |
+```
 
 ### 5.3 TCP
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Mjk1NDk2NCwtMjA5NTkyNTY5NCwxOD
+eyJoaXN0b3J5IjpbMTIxNzA1NzU3OSwtMjA5NTkyNTY5NCwxOD
 I3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2
 MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMC
 wtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAy

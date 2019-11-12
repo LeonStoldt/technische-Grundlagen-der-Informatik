@@ -646,17 +646,18 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 #### Routing Tabellen
 
--
+-	Tabelle mit Einträgen, die den Weg in einem Netzwerk zu einem bestimmten Ziel beschreiben
+-	
 
 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MDg2NDcxLC0xNDk3MTY5MDA4LDc2OT
-M0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcw
-MCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4MDIxMzUsMT
-M5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OTQsLTIzNjk3
-NzIyNiwtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwxMDM5NjE2NT
-U2LC0xNDkwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3MDYyNyw1
-NDQzNDAxODFdfQ==
+eyJoaXN0b3J5IjpbLTI1ODYxMDIxMywtMTQ5NzE2OTAwOCw3Nj
+kzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMzMzAxLC05NTM5OTk3
+MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAyMTM1LD
+EzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5
+NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNj
+U1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4NzA2Mjcs
+NTQ0MzQwMTgxXX0=
 -->

@@ -829,16 +829,19 @@ Interieur Gateway Protokolle:
 -	Sobald durch das Inter-AS-Routing-Protokoll klar ist, wie und über welches Gateway das andere autonome Netz erreichbar ist, wird diese Information mit den Routern innerhalt des autonomen Systems geteilt
 
 **EGP = Exterieur Gateway Protocol**
--	BGP = B
+-	BGP = Border Gateway Protocol
+	-	liefert Informationen zur Erreichbarkeit von benachbarten autonomen Netzen
+	-	ermöglicht die Weiterleitung solcher Informationen an die Router innerhalb des eigenen autonomen Systems
+	-	
 
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE2MTc4NzEsLTQzNDM0MjA1NiwtMT
-YwNzYwNDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3
-Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4Nz
-AwLC0xMTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5
-MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyOD
-Y3LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIw
-ODk1NDFdfQ==
+eyJoaXN0b3J5IjpbLTU2ODAwNzE0OSwtNDM0MzQyMDU2LC0xNj
+A3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODcz
+OTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MD
+AsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkw
+NTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4Nj
+csNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4
+OTU0MV19
 -->

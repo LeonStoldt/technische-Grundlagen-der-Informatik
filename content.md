@@ -886,18 +886,23 @@ Nachteile
 Verbesserung des Drei-Wege-Handschlag
 -	mehrere Segmente auf einmal Senden
 -	Sendefenster bestimmt der Empfänger (Flusskontrolle)
--	Fenstergröße kann durch algorithmische Anpassung 
+-	Fenstergröße kann durch algorithmische Anpassung an die Datenrate angepasst werden (Staukontrolle)
+
+**Sliding Window Verfahren**
+
+
+
 
 ### 5.3 TCP
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEwNDU3OTQsLTE5MDcxMjAyMjcsLT
-Y2MDgzNTQyNCw3OTE5NjYwMTYsLTE4NDI4MDQ0MzQsMTY5Njcy
-NDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0MjA1Ni
-wtMTYwNzYwNDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NTgsLTE1
-NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4OD
-c4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAs
-MTY5MDUzNTI4N119
+eyJoaXN0b3J5IjpbMTgyNzYxMDg0MywtMTkwNzEyMDIyNywtNj
+YwODM1NDI0LDc5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0
+MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC
+0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0
+ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nz
+g3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwx
+NjkwNTM1Mjg3XX0=
 -->

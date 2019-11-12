@@ -608,8 +608,10 @@ D --4. DHCP-ACK/NACK--> H
 
 ### 4.5 IPv6
 
-IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also 
--	
+IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde IPv6 entwickelt:
+-	IPv6 Header haben eine feste länge für schnellere Verarbeitung
+-	es bietet einen größeren Adressraum
+-	außerdem werden neue Features zur automati
 
 
 ### 4.6 Statisches Routing
@@ -617,11 +619,11 @@ IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MDc2NzgsLTUwODcxODA5OCwtNzE1Mj
-MzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYw
-OCwxODk5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMz
-g4MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0
-MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OTcxOSwtMTkzODMwMD
-EyMSw3MTQ4NzA2MjcsNTQ0MzQwMTgxLC0xMDY0ODc5MzY1LDEz
-ODA1NzU1NjRdfQ==
+eyJoaXN0b3J5IjpbMTMwOTEwMDIwNCwtNTA4NzE4MDk4LC03MT
+UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
+NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
+wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx
+MDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4Mz
+AwMTIxLDcxNDg3MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUs
+MTM4MDU3NTU2NF19
 -->

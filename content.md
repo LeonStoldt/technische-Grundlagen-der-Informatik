@@ -911,6 +911,7 @@ i                                                      j
 ```
 
 **Go-Back-N**
+-	Sender kann mehrere Datenpakete senden, ohne auf eine Bestätigung erwarten
 
 
 ### 5.3 TCP
@@ -918,7 +919,7 @@ i                                                      j
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTI2MjU2NCwtOTczNzk3MDc0LC0yMD
+eyJoaXN0b3J5IjpbMTQ2NzI5NDkxMiwtOTczNzk3MDc0LC0yMD
 k1OTI1Njk0LDE4Mjc2MTA4NDMsLTE5MDcxMjAyMjcsLTY2MDgz
 NTQyNCw3OTE5NjYwMTYsLTE4NDI4MDQ0MzQsMTY5NjcyNDI1NC
 wxNjQ1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0MjA1NiwtMTYw

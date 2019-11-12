@@ -651,17 +651,17 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 #### Longest Prefix Matching
 
-
+-	Router versucht möglichst effizient eine maximale Übereinstimmung der Zieladresse mit einer gespeicherten IP-Adresse aus der Routingtabelle herzustellen
 
 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNzMxNTc5LC0yNTg2MTAyMTMsLTE0OT
-cxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNTIzMzMw
-MSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2MDgsMT
-g5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LDM4ODM0
-NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEwNDM0OD
-c0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEs
-NzE0ODcwNjI3XX0=
+eyJoaXN0b3J5IjpbMTUzMDE5NTg0OCwtMjU4NjEwMjEzLC0xND
+k3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMz
+MDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LD
+E4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgz
+NDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIxMDQzND
+g3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4MzAwMTIx
+LDcxNDg3MDYyN119
 -->

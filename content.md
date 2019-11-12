@@ -861,6 +861,7 @@ verbindungslose Transportdienste
 
 
 #### Drei-Wege-Handschlag
+-	große Datenpakete wurden in Segmente aufgeteilt und die einzelnen Segm
 
 
 ### 5.2 Verbindungsorientierte Übertragung
@@ -871,11 +872,11 @@ verbindungslose Transportdienste
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNj
-Q1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0MjA1NiwtMTYwNzYw
-NDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NT
-AsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0x
-MTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNT
-I4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4
-Nzg1NTE2OF19
+eyJoaXN0b3J5IjpbLTUyODUwNjQxMiwtMTg0MjgwNDQzNCwxNj
+k2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQy
+MDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OC
+wtMTU0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2
+OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwOD
+M3MCwxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEy
+MzE5MzI4NjddfQ==
 -->

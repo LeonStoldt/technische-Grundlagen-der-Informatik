@@ -848,7 +848,7 @@ verbindungslose Transportdienste
 -	daher existiert keine Garantie für die richtige Zusammensetzung der Segmente
 -	verloren gegangene Segmente werden nicht wiederholt
 
-**UDP = User Datagram Protocol**
+#### UDP = User Datagram Protocol
 -	verbindungsloses Netzwerkprotokoll
 -	Vorteile:
 	-	keine Verzögerung durch Verbindungsaufbau
@@ -860,7 +860,7 @@ verbindungslose Transportdienste
 	-	keine Staukontrolle (bei hoher Belastung des Netzes kommt es zu hohen Verlustraten)
 
 
-****
+#### Drei-Wege-Handschlag
 
 
 ### 5.2 Verbindungsorientierte Übertragung
@@ -871,7 +871,7 @@ verbindungslose Transportdienste
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE1NTU3MTUsMTY5NjcyNDI1NCwxNj
+eyJoaXN0b3J5IjpbLTE4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNj
 Q1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0MjA1NiwtMTYwNzYw
 NDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NT
 AsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0x

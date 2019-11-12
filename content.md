@@ -718,15 +718,15 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 | aktueller Knoten | A | B | C | D | E | Queue
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | A | 0 | 100 | $\infty$ | 50 | $\infty$ | {D, B} |
-| B | 0 | 100 |  |  |
+| B | 0 | 100 | 200 |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTkzMjg2Nyw1ODc4NTUxNjgsMTg3Mj
-U3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQxLDIxMjQwNDU3NTEs
-MTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5MDA4LDc2OT
-M0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcw
-MCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4MDIxMzUsMT
-M5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OTQsLTIzNjk3
-NzIyNl19
+eyJoaXN0b3J5IjpbMjExNjM2NzcwNywxMjMxOTMyODY3LDU4Nz
+g1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwODk1NDEs
+MjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMsLTE0OT
+cxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNTIzMzMw
+MSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2MDgsMT
+g5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LDM4ODM0
+NTk5NF19
 -->

@@ -713,13 +713,16 @@ B --250--> E
 D --250--> E
 ```
 
-| Schritt | A | B | C | D | E |
-|--|--|--|--|--|--|
-| 1. | 0 | 100 | $\infty$ | 50 | $\infty$
+Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
+
+| Schritt | A | B | C | D | E | Queue
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1. | 0 | 100 | $\infty$ | 50 | $\infty$ |
+| 2. | 0 |  |  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYxNjIwNTYsMTg3MjU3NjQwMCwzNT
+eyJoaXN0b3J5IjpbLTE2MzM4NDkzNzEsMTg3MjU3NjQwMCwzNT
 c3MzAyNjMsNzgyMDg5NTQxLDIxMjQwNDU3NTEsMTg4NDA4NTk0
 OCwtMjU4NjEwMjEzLC0xNDk3MTY5MDA4LDc2OTM0NzE0MywtNT
 A4NzE4MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0

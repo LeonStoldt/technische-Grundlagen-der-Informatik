@@ -821,7 +821,7 @@ Interieur Gateway Protokolle:
 
 > :information_source: 
 > -	Grenzrouter stellen die Verbindung zu anderen autonomen Systemen her
-> -	Backbone Router
+> -	Backbone Router ist Kern des Netzes mit sehr hohen Datenübertragungsraten 
 
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
@@ -831,7 +831,7 @@ Interieur Gateway Protokolle:
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjUzOTU2OCwtNDM0MzQyMDU2LC0xNj
+eyJoaXN0b3J5IjpbMjAyNjM4MTA1MywtNDM0MzQyMDU2LC0xNj
 A3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODcz
 OTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MD
 AsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkw

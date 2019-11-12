@@ -853,7 +853,14 @@ verbindungslose Transportdienste
 -	Vorteile:
 	-	keine Verzögerung durch Verbindungsaufbau
 	-	sehr einfacher Header und daher wenig Overhead
-	-	gut ge
+	-	gut geeignet für Echtzeitanwendungen
+-	Nachteile
+	-	kann Paketverlust aufweisen
+	-	keine Flusskontrolle (Sender kann den Empfänger überfordern)
+	-	keine Staukontrolle (bei hoher Belastung des Netzes kommt es zu hohen Verlustraten)
+
+
+****
 
 
 ### 5.2 Verbindungsorientierte Übertragung
@@ -864,11 +871,11 @@ verbindungslose Transportdienste
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTcxNTM4OCwxNjk2NzI0MjU0LDE2ND
-U3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNjA3NjA0
-ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODczOTY1MC
-w4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTEx
-Mjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNTM1Mj
-g3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4NjcsNTg3
-ODU1MTY4XX0=
+eyJoaXN0b3J5IjpbLTIwODE1NTU3MTUsMTY5NjcyNDI1NCwxNj
+Q1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0MjA1NiwtMTYwNzYw
+NDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NT
+AsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0x
+MTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNT
+I4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4
+Nzg1NTE2OF19
 -->

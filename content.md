@@ -808,6 +808,9 @@ C -- -9--> B
 -	Verwendung des IGP = Interieur Gateway Protocol
 -	mit Hilfe des Intra-AS-Routing-Protokoll kann der kostengünstigste Pfad zum Gateway ermittelt werden
 
+**RIP - Routing Information Protocol**
+-	basiert auf dem Distanzvektor-Algorithmus
+
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
 -	erfordert die Informationen, welche Ziele in den anderen autonomen Systemen erreichbar sind und worüber
@@ -816,11 +819,11 @@ C -- -9--> B
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc2MDQ4OTMsMTAyNDY3MDI4NiwxOT
-kwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0MDQ0NCwtMTkzOTQw
-OTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUwMTc5Nyw5ODY2NzA5ND
-MsOTQ3MDA4MzcwLDE2OTA1MzUyODcsODQyMTc1OTM4LDE3MDky
-OTAzNjAsMTIzMTkzMjg2Nyw1ODc4NTUxNjgsMTg3MjU3NjQwMC
-wzNTc3MzAyNjMsNzgyMDg5NTQxLDIxMjQwNDU3NTEsMTg4NDA4
-NTk0OF19
+eyJoaXN0b3J5IjpbLTEzNTQyMTg1ODYsLTE2MDc2MDQ4OTMsMT
+AyNDY3MDI4NiwxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0
+MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUwMT
+c5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLDE2OTA1MzUyODcsODQy
+MTc1OTM4LDE3MDkyOTAzNjAsMTIzMTkzMjg2Nyw1ODc4NTUxNj
+gsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQxLDIxMjQw
+NDU3NTFdfQ==
 -->

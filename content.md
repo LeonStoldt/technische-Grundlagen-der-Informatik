@@ -874,22 +874,25 @@ Der Drei-Wege-Handschlag besteht aus 3 Phasen:
 3.	Verbindungsabbau
 
 ```
-i                                  j
+i                                                          j
 | ----------------SYN,SequenceNumber = x-----------------> |
 | <----SYN,SequenceNumber = y, AcknowledgeNumber = x+1---- |
 | ---------------AcknowledgeNumber = y+1 ----------------> |
 ```
+
+-	Nachteile
+	-	es kann nur ein Segment übertragen werden
 
 ### 5.3 TCP
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTc0Mjg1Nyw3OTE5NjYwMTYsLTE4ND
-I4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0
-NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LD
-E5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5
-NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MD
-k0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcw
-OTI5MDM2MF19
+eyJoaXN0b3J5IjpbLTEyMzYyMDYzODEsNzkxOTY2MDE2LC0xOD
+QyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0
+NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4Ni
+wxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0MDQ0NCwtMTkz
+OTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUwMTc5Nyw5ODY2Nz
+A5NDMsOTQ3MDA4MzcwLDE2OTA1MzUyODcsODQyMTc1OTM4LDE3
+MDkyOTAzNjBdfQ==
 -->

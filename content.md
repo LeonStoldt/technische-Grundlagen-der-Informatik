@@ -641,17 +641,17 @@ Berechnung der Netzadresse durch die *UND*-Verknüpfung:
 ```
 Netzadresse: 192.168.178.0
 
-Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letzte Adresse 
+Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letzte Adresse des Hostanteils ist. In diesem Fall lautet die Broadcastadresse 192.168.178.255
 
 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTUyNDQ3OCwtNTA4NzE4MDk4LC03MT
-UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
-NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
-wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx
-MDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4Mz
-AwMTIxLDcxNDg3MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUs
-MTM4MDU3NTU2NF19
+eyJoaXN0b3J5IjpbNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNT
+IzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2
+MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LD
+M4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEw
+NDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMD
+AxMjEsNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwx
+MzgwNTc1NTY0XX0=
 -->

@@ -795,14 +795,15 @@ C -- -9--> B
 4.	Bei minimierten Kosten für den Zugriff auf direkte Nachbarn wird eine aktualisierte Form der Information-Zusammenstellung erneut an die Nachbarn gesendet
 
 -	Sobald ein Netzwerkknoten initialisiert wird, sendet er seinen Distanzvektor an die Nachbarknoten
+-	Aktualisierte Distanzvektoren der Nachbarn werden intern mit Hilfe der Bellman-Ford Gleichung geprüft
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NjM3NDA2LDE5OTAxMTc0NTgsLTE1ND
-g3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4
-NzAwLC0xMTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMT
-Y5MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMy
-ODY3LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3OD
-IwODk1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAy
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzk2NDcxMzQsMTk5MDExNzQ1OCwtMT
+U0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4
+Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MC
+wxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5
+MzI4NjcsNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLD
+c4MjA4OTU0MSwyMTI0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYx
+MDIxM119
 -->

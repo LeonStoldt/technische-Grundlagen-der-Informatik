@@ -759,13 +759,15 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 #### Bellman-Ford Algorithmus
 -	kann im Gegensatz zu dem Dijkstra Algorithmus auch mit negativen Kanten gewichtet werden
 
+1.	Distanz vom Startknoten zu jedem anderen Knoten auf unendlich setzen
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNj
-k4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgz
-NzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMj
-MxOTMyODY3LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2
-Myw3ODIwODk1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNT
-g2MTAyMTMsLTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgw
-OThdfQ==
+eyJoaXN0b3J5IjpbLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOT
+M5NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3
+MDk0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMT
+cwOTI5MDM2MCwxMjMxOTMyODY3LDU4Nzg1NTE2OCwxODcyNTc2
+NDAwLDM1NzczMDI2Myw3ODIwODk1NDEsMjEyNDA0NTc1MSwxOD
+g0MDg1OTQ4LC0yNTg2MTAyMTMsLTE0OTcxNjkwMDgsNzY5MzQ3
+MTQzXX0=
 -->

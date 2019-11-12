@@ -811,6 +811,7 @@ C -- -9--> B
 **RIP - Routing Information Protocol**
 -	basiert auf dem Distanzvektor-Algorithmus
 -	ist ein altes Verfahren
+-	wird über UDP verschickt
 
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
@@ -820,11 +821,11 @@ C -- -9--> B
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE0MzE5ODUsLTE2MDc2MDQ4OTMsMT
-AyNDY3MDI4NiwxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0
-MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUwMT
-c5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLDE2OTA1MzUyODcsODQy
-MTc1OTM4LDE3MDkyOTAzNjAsMTIzMTkzMjg2Nyw1ODc4NTUxNj
-gsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQxLDIxMjQw
-NDU3NTFdfQ==
+eyJoaXN0b3J5IjpbLTY5OTc5MjQzOCwtMTYwNzYwNDg5MywxMD
+I0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQw
+NDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNz
+k3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIx
+NzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4Nzg1NTE2OC
+wxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwODk1NDEsMjEyNDA0
+NTc1MV19
 -->

@@ -912,6 +912,7 @@ i                                                      j
 
 **Go-Back-N**
 -	Sender kann mehrere Datenpakete senden, ohne auf eine Bestätigung erwarten
+-	es werden nur erwartbare Segmentnummern akzeptiert
 
 
 ### 5.3 TCP
@@ -919,11 +920,11 @@ i                                                      j
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzI5NDkxMiwtOTczNzk3MDc0LC0yMD
-k1OTI1Njk0LDE4Mjc2MTA4NDMsLTE5MDcxMjAyMjcsLTY2MDgz
-NTQyNCw3OTE5NjYwMTYsLTE4NDI4MDQ0MzQsMTY5NjcyNDI1NC
-wxNjQ1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0MjA1NiwtMTYw
-NzYwNDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3Mz
-k2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAw
-LC0xMTI3NTAxNzk3XX0=
+eyJoaXN0b3J5IjpbLTE3Mzc1NDQ2NjYsLTk3Mzc5NzA3NCwtMj
+A5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4
+MzU0MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNT
+QsMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2
+MDc2MDQ4OTMsMTAyNDY3MDI4NiwxOTkwMTE3NDU4LC0xNTQ4Nz
+M5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcw
+MCwtMTEyNzUwMTc5N119
 -->

@@ -770,23 +770,26 @@ A --11--> C((C))
 C -- -9--> B
 ```
 
-| Kante | A | B | C |
-|:--:|:--:|:--:|:--:|
-| A, B | 0 | $\infty$ | $\infty$ |
-| B, C | 0 | 3 [A] | $\infty$ |
-| A, C | 0 | 3 [A] | 11 [A] |
-| A, B | 0 | 3 [A] | 11 [A] |
-| B, C | 0 | 11 + (-9) = 2 [C] < 3 [A] $\implies$ **2 [C]** | 11 [A] |
-| A, C | 0 | 3 [A] | 11 [A] |
+| Iteration | Kante | A | B | C |
+|:--:|:--:|:--:|:--:|:--:|
+| 1 | A, B | 0 | $\infty$ | $\infty$ |
+| 1 | B, C | 0 | 3 [A] | $\infty$ |
+| 1 | A, C | 0 | 3 [A] | 11 [A] |
+| 2 | A, B | 0 | 3 [A] | 11 [A] |
+| 2 | B, C | 0 | 11 + (-9) = 2 [C] < 3 [A] $\implies$ 2 [C] | 11 [A] |
+| 2 | A, C | 0 | 3 [A] | 11 [A] |
+| 3 | A, B | 0 | 3 [A] | 11 [A] |
+| 3| B, C | 0 | **2 [C]** | 11 [A] |
+| | A, C | 0 | 3 [A] | 11 [A] |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYyODk2ODEsLTE1NDg3Mzk2NTAsOD
-kxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3
-NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Ny
-w4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4Nzg1
-NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwODk1NDEsMj
-EyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMsLTE0OTcx
-NjkwMDhdfQ==
+eyJoaXN0b3J5IjpbNTg1ODcwNzc5LC0xNTQ4NzM5NjUwLDg5MT
+Y0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUw
+MTc5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLDE2OTA1MzUyODcsOD
+QyMTc1OTM4LDE3MDkyOTAzNjAsMTIzMTkzMjg2Nyw1ODc4NTUx
+NjgsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQxLDIxMj
+QwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5
+MDA4XX0=
 -->

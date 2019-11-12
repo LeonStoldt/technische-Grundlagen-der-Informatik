@@ -875,9 +875,9 @@ Der Drei-Wege-Handschlag besteht aus 3 Phasen:
 
 ```
 i                                  j
-| ----SYN,SequenceNumber = x----> |
+| ----------------SYN,SequenceNumber = x-----------------> |
 | <----SYN,SequenceNumber = y, AcknowledgeNumber = x+1---- |
-| ----AcknowledgeNumber = 
+| ---------------AcknowledgeNumber = y+1 ----------------> |
 ```
 
 ### 5.3 TCP
@@ -885,7 +885,7 @@ i                                  j
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjI1NzA5Niw3OTE5NjYwMTYsLTE4ND
+eyJoaXN0b3J5IjpbMTg2NTc0Mjg1Nyw3OTE5NjYwMTYsLTE4ND
 I4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0
 NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LD
 E5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5

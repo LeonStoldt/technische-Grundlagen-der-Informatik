@@ -695,14 +695,15 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 #### Dijkstra-Algorithmus
 
-1.	Jeder Knoten erhält 
+1.	Jeder Knoten erhält die Eigenschaften "Vorgänger" und "Distanz"
+2.	Alle Knoten mit unbekannter Entfernung (alle Knoten, die keine direkten Nachbarn des Startknotens sind) erhalten die Entfernung $\undefi$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MTA4MjY3LDc4MjA4OTU0MSwyMTI0MD
-Q1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMTQ5NzE2OTAw
-OCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMzMzAxLC05NT
-M5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAy
-MTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC
-0yMzY5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAz
-OTYxNjU1Nl19
+eyJoaXN0b3J5IjpbLTE3ODQ4MDA5MDgsNzgyMDg5NTQxLDIxMj
+QwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5
+MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMzMDEsLT
+k1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4
+MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OT
+QsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwx
+MDM5NjE2NTU2XX0=
 -->

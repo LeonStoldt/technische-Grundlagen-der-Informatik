@@ -874,9 +874,8 @@ Der Drei-Wege-Handschlag besteht aus 3 Phasen:
 3.	Verbindungsabbau
 
 ```
-```
-`i`
-`|` ----SYN, SequenceNumber = x----> `|`
+i j
+| ----SYN, SequenceNumber = x----> |
 B ----SYN, SequenceNumber = y, Acknowledge = x+1----> A
 
 ```
@@ -886,7 +885,7 @@ B ----SYN, SequenceNumber = y, Acknowledge = x+1----> A
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODI0MDY4Miw3OTE5NjYwMTYsLTE4ND
+eyJoaXN0b3J5IjpbMTU5ODY0NTUyMiw3OTE5NjYwMTYsLTE4ND
 I4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0
 NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LD
 E5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5

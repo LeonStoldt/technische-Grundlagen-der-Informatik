@@ -735,10 +735,10 @@ Der obige Graph wurde mit zusätzlichen Distanzschätzungen vom Start (A) zum Zi
 
 ``` mermaid
 graph LR
-A((A - )) --100--> B((B))
-A --50--> D((D))
+A((A - 300)) --100--> B((B - 200))
+A --50--> D((D - 300))
 D --100--> B
-B --100--> C((C))
+B --100--> C((C - 30))
 C --50--> E((E))
 B --250--> E
 D --250--> E
@@ -757,11 +757,11 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTA2NzMxOSw5NDcwMDgzNzAsMTY5MD
-UzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3
-LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwOD
-k1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMs
-LTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNT
-IzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2
-MDhdfQ==
+eyJoaXN0b3J5IjpbOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNT
+M1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4Njcs
+NTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OT
+U0MSwyMTI0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywt
+MTQ5NzE2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1Mj
+MzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYw
+OF19
 -->

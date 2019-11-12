@@ -895,14 +895,19 @@ Verbesserung des Drei-Wege-Handschlag
 
 *Beispiel: Sendefenster von 5 Segmenten*
 ```
-i                                                          j
+i                                                      j
 | ----------------SequenceNumber = 0-----------------> |
 | ----------------SequenceNumber = 1-----------------> |
 | ----------------SequenceNumber = 2-----------------> |
 | ----------------SequenceNumber = 3-----------------> |
 | ----------------SequenceNumber = 4-----------------> |
-| <----AcknowledgeNumber = x+1---- |
-| ---------------AcknowledgeNumber = y+1 ----------------> |
+| <-------------AcknowledgeNumber = 5----------------- |
+| ----------------SequenceNumber = 4-----------------> |
+| ----------------SequenceNumber = 5-----------------> |
+| ----------------SequenceNumber = 6-----------------> |
+| ----------------SequenceNumber = 7-----------------> |
+| ----------------SequenceNumber = 8-----------------> |
+| <-------------AcknowledgeNumber = 9----------------- |
 ```
 
 ### 5.3 TCP
@@ -910,11 +915,11 @@ i                                                          j
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzA1NzU3OSwtMjA5NTkyNTY5NCwxOD
-I3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2
-MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMC
-wtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAy
-NDY3MDI4NiwxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0MD
-Q0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUwMTc5
-Nyw5ODY2NzA5NDNdfQ==
+eyJoaXN0b3J5IjpbLTIwMzI5OTIwNjUsLTIwOTU5MjU2OTQsMT
+gyNzYxMDg0MywtMTkwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2
+NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMz
+AsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEw
+MjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODczOTY1MCw4OTE2ND
+A0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTExMjc1MDE3
+OTcsOTg2NjcwOTQzXX0=
 -->

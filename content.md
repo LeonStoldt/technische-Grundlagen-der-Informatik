@@ -805,7 +805,7 @@ C -- -9--> B
 
 #### Intra-AS-Routing (innerhalb des autonomen Systems)
 
--	Verwendung des IGP = 
+-	Verwendung des IGP = Interieur Gateway Protocol
 
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
@@ -813,7 +813,7 @@ C -- -9--> B
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTg3OTYyMiwxMDI0NjcwMjg2LDE5OT
+eyJoaXN0b3J5IjpbLTk2NTM1NDc3NywxMDI0NjcwMjg2LDE5OT
 AxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5
 NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MDk0My
 w5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5

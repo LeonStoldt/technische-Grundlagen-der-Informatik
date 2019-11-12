@@ -678,10 +678,10 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 [![https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png](https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png)](https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png)
 
 #### Prim Algorithmus
--	funktioniert wie der K
+-	funktioniert wie der Kruskal-Algorithmus mit dem Unterschied, dass 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTM1MDM0OCwxODg0MDg1OTQ4LC0yNT
+eyJoaXN0b3J5IjpbMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNT
 g2MTAyMTMsLTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgw
 OTgsLTcxNTIzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LD
 IwMjIyOTQ2MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkz

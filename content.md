@@ -608,10 +608,13 @@ D --4. DHCP-ACK/NACK--> H
 
 ### 4.5 IPv6
 
-IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde IPv6 entwickelt:
+IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde IPv6 entwickelt
+
 -	IPv6 Header haben eine feste länge für schnellere Verarbeitung
 -	es bietet einen größeren Adressraum
 -	außerdem werden neue Features zur automatischen Konfiguration, Adressvergabe und zur Auffindung lokaler Gateways geboten
+-	IPv4 und IPv6 sind nicht kompatibel
+-	Die beiden Technologien können jedoch nebeneinander existieren
 
 
 ### 4.6 Statisches Routing
@@ -619,7 +622,7 @@ IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTQ3MDg3NywtNTA4NzE4MDk4LC03MT
+eyJoaXN0b3J5IjpbLTQzMDYwMDA2MywtNTA4NzE4MDk4LC03MT
 UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
 NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
 wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx

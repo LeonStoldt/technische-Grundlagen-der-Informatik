@@ -731,11 +731,31 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 -	Hierbei wird zusätzlich betrachtet ob die grobe Richtung stimmt und man sich dem Zielknoten nähert
 -	die geschätzten Kosten eines Knotens ergeben sich dabei durch die bekannten Kosten des nächsten Knotens und die geschätzten Kosten des nächsten Knotens zum Ziel
 
-Für das 
+``` mermaid
+graph LR
+A((A - )) --100--> B((B))
+A --50--> D((D))
+D --100--> B
+B --100--> C((C))
+C --50--> E((E))
+B --250--> E
+D --250--> E
+```
+
+Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
+
+| Knoten | A | B | C | D | E | Queue
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| $\empty$ | 0 | $\infty$ | $\infty$ | $\infty$ | $\infty$ | {A} |
+| A | 0 | 100 | $\infty$ | 50 | $\infty$ | {D, B} |
+| D | 0 | 150 > 100 $\implies$ 100 | $\infty$ | 50 | 300 | {B, C, E} |
+| B | 0 | 100 | 200 | 50 | 350 > 300 $\implies$ 300 | {C, E} |
+| C | 0 | 100 | 200 | 50 | 250 < 300 $\implies$ 250 | {E} |
+| E | 0 | 100 | 200 | 50 | **250** | {} |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjEyMjkyMyw5NDcwMDgzNzAsMTY5MD
+eyJoaXN0b3J5IjpbMTEyMjc1NTc1Niw5NDcwMDgzNzAsMTY5MD
 UzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3
 LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwOD
 k1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMs

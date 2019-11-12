@@ -678,14 +678,17 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 [![https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png](https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png)](https://www.oreilly.com/library/view/c-data-structures/9781788833738/assets/f5ee36e3-7ca4-425f-8907-e1830736b7bc.png)
 
 #### Prim Algorithmus
--	funktioniert wie der Kruskal-Algorithmus mit dem Unterschied, dass 
+-	funktioniert wie der Kruskal-Algorithmus mit dem Unterschied, dass ein beliebiger Knoten als Startpunkt festgelegt wird, von dem aus die Kanten mit den geringsten Gewichten betrachtet werden
+
+*Beispiel:*
+[![https://im-coder.com/images2/153780463448531.gif](https://im-coder.com/images2/153780463448531.gif)](https://im-coder.com/images2/153780463448531.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNT
-g2MTAyMTMsLTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgw
-OTgsLTcxNTIzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LD
-IwMjIyOTQ2MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkz
-ODE5NTE5LDM4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NT
-Y3LC0xMjEwNDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTks
-LTE5MzgzMDAxMjFdfQ==
+eyJoaXN0b3J5IjpbNzgyMDg5NTQxLDIxMjQwNDU3NTEsMTg4ND
+A4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5MDA4LDc2OTM0NzE0
+MywtNTA4NzE4MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcwMCwtMT
+UzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4MDIxMzUsMTM5MzEw
+MDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OTQsLTIzNjk3NzIyNi
+wtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwxMDM5NjE2NTU2LC0x
+NDkwOTc5NzE5XX0=
 -->

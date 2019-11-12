@@ -891,7 +891,7 @@ Verbesserung des Drei-Wege-Handschlag
 **Sliding Window Verfahren**
 
 -	gleiches Prinzip, wie der Drei-Wege-Handschlag
--	
+-	mehrere Segmente werden ohne Acknowledgement gesendet
 
 
 ### 5.3 TCP
@@ -899,11 +899,11 @@ Verbesserung des Drei-Wege-Handschlag
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMT
-kwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0Mjgw
-NDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MC
-wtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5
-MDExNzQ1OCwtMTU0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MD
-k2NDEsLTE2OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQz
-LDk0NzAwODM3MF19
+eyJoaXN0b3J5IjpbMjA1Mjk1NDk2NCwtMjA5NTkyNTY5NCwxOD
+I3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2
+MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMC
+wtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAy
+NDY3MDI4NiwxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0MD
+Q0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUwMTc5
+Nyw5ODY2NzA5NDNdfQ==
 -->

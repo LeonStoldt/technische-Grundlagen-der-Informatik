@@ -665,6 +665,8 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 -	Algorithmus zur Routenoptimierung muss zyklisch ausgeführt werden
 -	Auf Änderungen muss eingegangen werden können
 
+Die folgenden Algorithmen dienen zur Optimierun
+
 #### Kruskal Algorithmus
 -	für ungerichtete Graphen
 -	dient zur Bestimmung des minimal spannenden Baum (MST)
@@ -756,12 +758,15 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 | E | 300 | 300 | 230 | 350 | **250** | {} |
 
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLT
-ExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNTM1
-Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4NjcsNT
-g3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OTU0
-MSwyMTI0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMT
-Q5NzE2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMz
-MzAxXX0=
+eyJoaXN0b3J5IjpbLTEyNDcyNjg0MjUsLTE5Mzk0MDk2NDEsLT
+E2OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAw
+ODM3MCwxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLD
+EyMzE5MzI4NjcsNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMw
+MjYzLDc4MjA4OTU0MSwyMTI0MDQ1NzUxLDE4ODQwODU5NDgsLT
+I1ODYxMDIxMywtMTQ5NzE2OTAwOCw3NjkzNDcxNDMsLTUwODcx
+ODA5OF19
 -->

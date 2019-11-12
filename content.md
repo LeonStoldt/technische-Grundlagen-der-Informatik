@@ -17,8 +17,8 @@
 > ### 4.4 DHCP
 > ### 4.5 IPv6
 > ### 4.6 Statisches Routing
-> ### 4-7 Dynamisches Routing
-
+> ### 4.7 Dynamisches Routing
+> ## 5. Transportsc
 ---
 
 ## 1. Das OSI-Schichtenmodell
@@ -659,7 +659,7 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 -	das Verfahren wird sowohl für IPv4, als auch für IPv6 genutzt
 
 
-### 4-7 Dynamisches Routing
+### 4.7 Dynamisches Routing
 
 -	Routen ändern sich (schnell)
 -	Algorithmus zur Routenoptimierung muss zyklisch ausgeführt werden
@@ -799,11 +799,11 @@ C -- -9--> B
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk2NDcxMzQsMTk5MDExNzQ1OCwtMT
-U0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4
-Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MC
-wxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5
-MzI4NjcsNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLD
-c4MjA4OTU0MSwyMTI0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYx
-MDIxM119
+eyJoaXN0b3J5IjpbLTk3MjIzNjk1MCwxOTkwMTE3NDU4LC0xNT
+Q4NzM5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3
+ODcwMCwtMTEyNzUwMTc5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLD
+E2OTA1MzUyODcsODQyMTc1OTM4LDE3MDkyOTAzNjAsMTIzMTkz
+Mjg2Nyw1ODc4NTUxNjgsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNz
+gyMDg5NTQxLDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEw
+MjEzXX0=
 -->

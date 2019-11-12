@@ -683,12 +683,20 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 *Beispiel:*
 [![https://im-coder.com/images2/153780463448531.gif](https://im-coder.com/images2/153780463448531.gif)](https://im-coder.com/images2/153780463448531.gif)
 
+
+#### Suchstrategien
+
+-	Tiefensuche
+
+
+-	Breitensuche
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMDg5NTQxLDIxMjQwNDU3NTEsMTg4ND
-A4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5MDA4LDc2OTM0NzE0
-MywtNTA4NzE4MDk4LC03MTUyMzMzMDEsLTk1Mzk5OTcwMCwtMT
-UzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4MDIxMzUsMTM5MzEw
-MDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OTQsLTIzNjk3NzIyNi
-wtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwxMDM5NjE2NTU2LC0x
-NDkwOTc5NzE5XX0=
+eyJoaXN0b3J5IjpbNzkzMjUzNTAwLDc4MjA4OTU0MSwyMTI0MD
+Q1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMTQ5NzE2OTAw
+OCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMzMzAxLC05NT
+M5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAy
+MTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC
+0yMzY5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAz
+OTYxNjU1Nl19
 -->

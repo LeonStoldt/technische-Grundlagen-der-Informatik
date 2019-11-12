@@ -727,10 +727,11 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 
 #### A*-Algorithmus
 -	dient zur Berechnung des kürzesten Pfades zwischen zwei Knoten in einem Graph mit positiven Kantengewichten
+-	Verallgemeinerung und Erweiterung des Dijkstra Algorithmus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTU4NjI4LDE2OTA1MzUyODcsODQyMT
+eyJoaXN0b3J5IjpbOTQ3MDA4MzcwLDE2OTA1MzUyODcsODQyMT
 c1OTM4LDE3MDkyOTAzNjAsMTIzMTkzMjg2Nyw1ODc4NTUxNjgs
 MTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQxLDIxMjQwND
 U3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5MDA4

@@ -817,8 +817,11 @@ Interieur Gateway Protokolle:
 	-	verwendet Link-State-Routing-Algorithmus (Basis ist der Dijkstra-Algorithmus)
 	-	das Gesamtnetzwerk muss bekannt sein
 	-	ist besser skalierbar als RIP
+	-	wird im Backbone Router durchgeführt
 
-:information_source: Grenzrouter 
+> :information_source: 
+> -	Grenzrouter stellen die Verbindung zu anderen autonomen Systemen her
+> -	Backbone Router
 
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
@@ -828,7 +831,7 @@ Interieur Gateway Protokolle:
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjU5MzE0MywtNDM0MzQyMDU2LC0xNj
+eyJoaXN0b3J5IjpbMTMzMjUzOTU2OCwtNDM0MzQyMDU2LC0xNj
 A3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODcz
 OTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MD
 AsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkw

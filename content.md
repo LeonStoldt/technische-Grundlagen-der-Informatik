@@ -801,19 +801,19 @@ C -- -9--> B
 
 ### 4.8 Routing Protokolle
 
-**AS = Autonomes System** ist eine Menge von Routern, die mehrere Netzwerke verwalten u
+**AS = Autonomes System** ist eine Menge von Routern, die mehrere Netzwerke verwalten und Pakete innerhalb des autonomen Systems vermitteln. Das Internet besteht aus einem Verbund vieler autonomer Systeme.
 
-#### Intra-AS-Routing
+#### Intra-AS-Routing (innerhalb des autonomen Systems)
 
+-	Verwendung des IGP = 
 
-
-#### Inter-AS-Routing
+#### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
 
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU1MzQzMiwxMDI0NjcwMjg2LDE5OT
+eyJoaXN0b3J5IjpbMTAwOTg3OTYyMiwxMDI0NjcwMjg2LDE5OT
 AxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5
 NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MDk0My
 w5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5

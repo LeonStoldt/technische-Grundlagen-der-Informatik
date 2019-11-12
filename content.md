@@ -644,14 +644,19 @@ Netzadresse: 192.168.178.0
 Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letzte Adresse des Hostanteils ist. In diesem Fall lautet die Broadcastadresse 192.168.178.255
 
 
+#### Routing Tabellen
+
+
+
+
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgyMzk0MSw3NjkzNDcxNDMsLTUwOD
-cxODA5OCwtNzE1MjMzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2
-ODcsMjAyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5NTIsLT
-EyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0
-ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OT
-cxOSwtMTkzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0MzQwMTgxLC0x
-MDY0ODc5MzY1XX0=
+eyJoaXN0b3J5IjpbLTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MD
+g3MTgwOTgsLTcxNTIzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0
+Njg3LDIwMjIyOTQ2MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC
+0xMjkzODE5NTE5LDM4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYw
+NDg5NTY3LC0xMjEwNDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nz
+k3MTksLTE5MzgzMDAxMjEsNzE0ODcwNjI3LDU0NDM0MDE4MSwt
+MTA2NDg3OTM2NV19
 -->

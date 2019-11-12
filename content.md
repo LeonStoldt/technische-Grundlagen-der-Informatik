@@ -583,14 +583,16 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 		-	Traceroute: Die Pakete werden mit einer TTL von 1 losgeschickt und somit beim nächsten Knoten verworfen und es wird eine Time Exceeded Nachricht an den Sender geschickt. Dieser erhöht die TTL um 1 und sendet erneut. Somit kann der Pfad zum Ziel herausgefunden werden.
 
 
-### 4.4 DHCP
+### 4.4 DHCP - Dynamic Host Configuration Protocol
 
 Die Zuteilung von IP-Adressen kann auf zwei Wegen erfolgen:
 
-1.	statisch
--	manuel
+1.	Statisch
+-	manuelle Konfiguration
 
-2.	dynamisch
+2.	Dynamisch
+-	zugewiesene Adresse eines DHCP-Servers
+-	Der Host sendet ein *DCHP-Discover*
 
 
 ### 4.5 IPv6
@@ -600,7 +602,7 @@ Die Zuteilung von IP-Adressen kann auf zwei Wegen erfolgen:
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyNTMwNzMyLC03MTUyMzMzMDEsLTk1Mz
+eyJoaXN0b3J5IjpbMjk3MDczMTkwLC03MTUyMzMzMDEsLTk1Mz
 k5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4MDIx
 MzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OTQsLT
 IzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwxMDM5

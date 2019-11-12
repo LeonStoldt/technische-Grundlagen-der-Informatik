@@ -575,7 +575,9 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 
 -	benachrichtigt den Sender über auftretende Probleme beim Senden von Nachrichten
 -	dient zur Paketumleitung
--	überprüft die Erreichbarkeit des Hosts (Ping)
+-	überprüft die Erreichbarkeit des Hosts (*Ping*)
+	-	Es wird ein Echo Request an den Zielhost geschickt
+	-	Der Zielhost antwortet mit ein
 
 ### 4.4 DHCP
 
@@ -586,7 +588,7 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NzQwODkzLC05NTM5OTk3MDAsLTE1Mz
+eyJoaXN0b3J5IjpbODExMzM4OTU1LC05NTM5OTk3MDAsLTE1Mz
 QxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5
 NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLT
 E3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5

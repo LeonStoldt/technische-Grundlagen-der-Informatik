@@ -931,7 +931,8 @@ i                                                      j
 ```
 
 **Selective Repeat**
--	akzeptiere alle Sequenznummern 
+-	akzeptiere alle Sequenznummern im Empfangsfenster
+-	Segmente müssen gepuffert werden, 
 
 
 ### 5.3 TCP
@@ -939,11 +940,11 @@ i                                                      j
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzgyMzI5MywxNzg3MTAwNzUsLTk3Mz
-c5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIw
-MjI3LC02NjA4MzU0MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LD
-E2OTY3MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQz
-NDIwNTYsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4NiwxOTkwMTE3ND
-U4LC0xNTQ4NzM5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MSwt
-MTY5ODg3ODcwMF19
+eyJoaXN0b3J5IjpbNDU0OTkwMDk1LDE3ODcxMDA3NSwtOTczNz
+k3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4NDMsLTE5MDcxMjAy
+MjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLTE4NDI4MDQ0MzQsMT
+Y5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0
+MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NT
+gsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0x
+Njk4ODc4NzAwXX0=
 -->

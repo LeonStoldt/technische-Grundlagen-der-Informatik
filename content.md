@@ -614,19 +614,22 @@ IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde 
 -	es bietet einen größeren Adressraum
 -	außerdem werden neue Features zur automatischen Konfiguration, Adressvergabe und zur Auffindung lokaler Gateways geboten
 -	IPv4 und IPv6 sind nicht kompatibel
--	Die beiden Technologien können jedoch nebeneinander existieren
+-	Die beiden Technologien können jedoch nebeneinander existieren (Knoten verwenden häufig eine IPv4 Adresse und eine IPv6 Adresse)
 
 
 ### 4.6 Statisches Routing
 
+#### A
+
+
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDYwMDA2MywtNTA4NzE4MDk4LC03MT
-UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
-NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
-wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx
-MDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4Mz
-AwMTIxLDcxNDg3MDYyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUs
-MTM4MDU3NTU2NF19
+eyJoaXN0b3J5IjpbOTgwNTM0NjU2LC01MDg3MTgwOTgsLTcxNT
+IzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2
+MDgsMTg5OTgwMjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LD
+M4ODM0NTk5NCwtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEw
+NDM0ODc0LDEwMzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMD
+AxMjEsNzE0ODcwNjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwx
+MzgwNTc1NTY0XX0=
 -->

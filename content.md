@@ -665,13 +665,15 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 -	Algorithmus zur Routenoptimierung muss zyklisch ausgeführt werden
 -	Auf Änderungen muss eingegangen werden können
 
+#### Kruskal Algorithmus
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xND
-k3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMz
-MDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LD
-E4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgz
-NDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIxMDQzND
-g3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4MzAwMTIx
-LDcxNDg3MDYyN119
+eyJoaXN0b3J5IjpbNzEwMDEwMzMwLDE4ODQwODU5NDgsLTI1OD
+YxMDIxMywtMTQ5NzE2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5
+OCwtNzE1MjMzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMj
+AyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4
+MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLTE3NjA0ODk1Nj
+csLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5MDk3OTcxOSwt
+MTkzODMwMDEyMV19
 -->

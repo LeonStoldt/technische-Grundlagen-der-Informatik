@@ -690,14 +690,14 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 	-	Pfade im Graphen werden zunächst vollständig in die Tiefe durchsucht und danach werden abzweigende Pfade aufgebaut.
 
 -	Breitensuche
-	-	
+	-	Im Gegensatz zur Tiefensuche werden erst alle direkt erreichbaren Knoten durchsucht und Stück für Stück 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkxMDk3NDYsNzgyMDg5NTQxLDIxMj
-QwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xNDk3MTY5
-MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMzMDEsLT
-k1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4
-MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OT
-QsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwx
-MDM5NjE2NTU2XX0=
+eyJoaXN0b3J5IjpbMTM2MTMxMDMzMyw3ODIwODk1NDEsMjEyND
+A0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMsLTE0OTcxNjkw
+MDgsNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNTIzMzMwMSwtOT
+UzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2MDgsMTg5OTgw
+MjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LDM4ODM0NTk5NC
+wtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEwNDM0ODc0LDEw
+Mzk2MTY1NTZdfQ==
 -->

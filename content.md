@@ -830,14 +830,14 @@ Interieur Gateway Protokolle:
 
 **EGP = Exterieur Gateway Protocol**
 -	BGP = Border Gateway Protocol
-	-	liefert Informationen zur Erreichbarkeit von benachbarten autonomen Netzen
+	-	liefert Informationen zur Erreichbarkeit von benachbarten autonomen Netzen und teilt die Erreichbarkeit des eigenen Netzes mit
 	-	ermöglicht die Weiterleitung solcher Informationen an die Router innerhalb des eigenen autonomen Systems
-	-	
+	-	bestimmt gute Routen zu dem Zielnetzwerk
 
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODAwNzE0OSwtNDM0MzQyMDU2LC0xNj
+eyJoaXN0b3J5IjpbLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNj
 A3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODcz
 OTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MD
 AsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkw

@@ -873,10 +873,11 @@ Der Drei-Wege-Handschlag besteht aus 3 Phasen:
 2.	Datenübertragung
 3.	Verbindungsabbau
 
-``` mermaid
-graph LR
-A((1)) --SYN, SequenceNumber = x--> B((2))
-B --SYN, SequenceNumber = y, Acknowledge = x+1--> A
+```
+```
+`i`
+`|` ----SYN, SequenceNumber = x----> `|`
+B ----SYN, SequenceNumber = y, Acknowledge = x+1----> A
 
 ```
 
@@ -885,11 +886,11 @@ B --SYN, SequenceNumber = y, Acknowledge = x+1--> A
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NzM1MjMyLDc5MTk2NjAxNiwtMTg0Mj
-gwNDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1
-MCwtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMT
-k5MDExNzQ1OCwtMTU0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0
-MDk2NDEsLTE2OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOT
-QzLDk0NzAwODM3MCwxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5
-MjkwMzYwXX0=
+eyJoaXN0b3J5IjpbLTkxODI0MDY4Miw3OTE5NjYwMTYsLTE4ND
+I4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0
+NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LD
+E5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0xOTM5
+NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4NjY3MD
+k0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIxNzU5MzgsMTcw
+OTI5MDM2MF19
 -->

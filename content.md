@@ -814,8 +814,8 @@ C -- -9--> B
 -	wird über UDP verschickt
 
 **OSPF - Open Shortest Path First**
--	Berechnung erfolgt über Dijkstra-Algorithmus
--	
+-	verwendet Link-State-Routing-Algorithmus (Basis ist der Dijkstra-Algorithmus)
+-	das Gesamtnetzwerk muss bekannt sein
 
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
@@ -825,11 +825,11 @@ C -- -9--> B
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MjAwOTU3LC0xNjA3NjA0ODkzLDEwMj
-Q2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODczOTY1MCw4OTE2NDA0
-NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTExMjc1MDE3OT
-csOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkwNTM1Mjg3LDg0MjE3
-NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4NjcsNTg3ODU1MTY4LD
-E4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OTU0MSwyMTI0MDQ1
-NzUxXX0=
+eyJoaXN0b3J5IjpbLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMD
+I0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQw
+NDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNz
+k3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIx
+NzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4Nzg1NTE2OC
+wxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwODk1NDEsMjEyNDA0
+NTc1MV19
 -->

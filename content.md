@@ -717,7 +717,7 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 
 | Knoten | A | B | C | D | E | Queue
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| A | 0 | 100 | $\infty$ | 50 | $\infty$ | {A} |
+| $\empty$ | 0 | $\infty$ | $\infty$ | $\infty$ | $\infty$ | {A} |
 | A | 0 | 100 | $\infty$ | 50 | $\infty$ | {D, B} |
 | B | 0 | 100 | 200 | 50 | 350 | {C, D} |
 | C | 0 | 100 | 200 | 50 | 250 < 350 $\implies$ 250 | {D} |
@@ -725,7 +725,7 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgxNTE2MjgsMTIzMTkzMjg2Nyw1OD
+eyJoaXN0b3J5IjpbLTEyNzE4NDcwNTAsMTIzMTkzMjg2Nyw1OD
 c4NTUxNjgsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQx
 LDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xND
 k3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMz

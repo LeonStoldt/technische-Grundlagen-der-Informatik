@@ -816,6 +816,7 @@ Interieur Gateway Protokolle:
 -	OSPF - Open Shortest Path First
 	-	verwendet Link-State-Routing-Algorithmus (Basis ist der Dijkstra-Algorithmus)
 	-	das Gesamtnetzwerk muss bekannt sein
+	-	ist besser skalierbar als RIP
 
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
@@ -825,11 +826,11 @@ Interieur Gateway Protokolle:
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgyODQ3NjYsLTQzNDM0MjA1NiwtMT
-YwNzYwNDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3
-Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4Nz
-AwLC0xMTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5
-MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyOD
-Y3LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIw
-ODk1NDFdfQ==
+eyJoaXN0b3J5IjpbLTUyODk4Mzg3MCwtNDM0MzQyMDU2LC0xNj
+A3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODcz
+OTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MD
+AsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwxNjkw
+NTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4Nj
+csNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4
+OTU0MV19
 -->

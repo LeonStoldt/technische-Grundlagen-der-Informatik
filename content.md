@@ -890,7 +890,7 @@ Verbesserung des Drei-Wege-Handschlag
 
 **Sliding Window Verfahren**
 
-
+-	prinzipiell das gleiche Prinzip, wie der Drei-Wege-Handschlag
 
 
 ### 5.3 TCP
@@ -898,11 +898,11 @@ Verbesserung des Drei-Wege-Handschlag
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzYxMDg0MywtMTkwNzEyMDIyNywtNj
-YwODM1NDI0LDc5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0
-MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC
-0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0
-ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nz
-g3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MCwx
-NjkwNTM1Mjg3XX0=
+eyJoaXN0b3J5IjpbLTE2MDM2MjgwOTIsMTgyNzYxMDg0MywtMT
+kwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0Mjgw
+NDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MC
+wtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5
+MDExNzQ1OCwtMTU0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MD
+k2NDEsLTE2OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQz
+LDk0NzAwODM3MF19
 -->

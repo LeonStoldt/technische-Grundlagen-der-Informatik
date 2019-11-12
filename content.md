@@ -860,28 +860,29 @@ verbindungslose Transportdienste
 	-	keine Staukontrolle (bei hoher Belastung des Netzes kommt es zu hohen Verlustraten)
 
 
+### 5.2 Verbindungsorientierte Übertragung
+
 #### Drei-Wege-Handschlag
 -	große Datenpakete wurden in Segmente aufgeteilt und die einzelnen Segmente werden durchnummeriert verschickt
 -	das Eintreffen der einzelnen Pakete sollte bestätigt werden
 -	die einzelnen Pakete sollten korrekt zusammengesetzt werden
 -	falls Segmente verloren gehen, müssen diese Identifiziert und neu angefordert werden
 
-Der Drei-Wege-Handschlag besteht aus 3 Phasen
-
-
-### 5.2 Verbindungsorientierte Übertragung
-
+Der Drei-Wege-Handschlag besteht aus 3 Phasen:
+1.	Verbindungsaufbau
+2.	Datenübertragung
+3.	Verbindungsabbau
 
 ### 5.3 TCP
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODgyOTg5OCwtMTg0MjgwNDQzNCwxNj
-k2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQy
-MDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OC
-wtMTU0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2
-OTg4Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwOD
-M3MCwxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEy
-MzE5MzI4NjddfQ==
+eyJoaXN0b3J5IjpbNzkxOTY2MDE2LC0xODQyODA0NDM0LDE2OT
+Y3MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQzNDIw
+NTYsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4NiwxOTkwMTE3NDU4LC
+0xNTQ4NzM5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5
+ODg3ODcwMCwtMTEyNzUwMTc5Nyw5ODY2NzA5NDMsOTQ3MDA4Mz
+cwLDE2OTA1MzUyODcsODQyMTc1OTM4LDE3MDkyOTAzNjAsMTIz
+MTkzMjg2N119
 -->

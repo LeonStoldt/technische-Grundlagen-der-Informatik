@@ -922,24 +922,27 @@ i                                                      j
 | ----------------SequenceNumber = 3-----------------> |
 | ----------------SequenceNumber = 4-----------------> |
 | <-------------AcknowledgeNumber = 1----------------- |
+| ----------------SequenceNumber = 1-----------------> |
+| ----------------SequenceNumber = 2-----------------> |
+| ----------------SequenceNumber = 3-----------------> |
+| ----------------SequenceNumber = 4-----------------> |
 | ----------------SequenceNumber = 5-----------------> |
-| ----------------SequenceNumber = 6-----------------> |
-| ----------------SequenceNumber = 7-----------------> |
-| ----------------SequenceNumber = 8-----------------> |
-| ----------------SequenceNumber = 9-----------------> |
-| <-------------AcknowledgeNumber = 10----------------- |
+| <-------------AcknowledgeNumber = 6----------------- |
 ```
+
+
+
 
 ### 5.3 TCP
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MTk5NDg1LC05NzM3OTcwNzQsLTIwOT
-U5MjU2OTQsMTgyNzYxMDg0MywtMTkwNzEyMDIyNywtNjYwODM1
-NDI0LDc5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0MjU0LD
-E2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNjA3
-NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODczOT
-Y1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAs
-LTExMjc1MDE3OTddfQ==
+eyJoaXN0b3J5IjpbLTIxMzQyNzIzMDgsLTk3Mzc5NzA3NCwtMj
+A5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4
+MzU0MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNT
+QsMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2
+MDc2MDQ4OTMsMTAyNDY3MDI4NiwxOTkwMTE3NDU4LC0xNTQ4Nz
+M5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcw
+MCwtMTEyNzUwMTc5N119
 -->

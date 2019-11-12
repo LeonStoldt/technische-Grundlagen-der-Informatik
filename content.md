@@ -697,10 +697,11 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 1.	Jeder Knoten erhält die Eigenschaften "Vorgänger" und "Distanz"
 2.	Alle Knoten mit unbekannter Entfernung (alle Knoten, die keine direkten Nachbarn des Startknotens sind) erhalten die Entfernung "$\infty$"
-3.	Initialisierung einer Prioritätswarteschlange der Nachbar nach Entfernung
+3.	Initialisierung einer Prioritätswarteschlange der Nachbarknoten nach Entfernung
+4.	Prioritätswarteschlange abbauen und Distanzen eintragen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTY3NjQ3NSwzNTc3MzAyNjMsNzgyMD
+eyJoaXN0b3J5IjpbMTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMD
 g5NTQxLDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEz
 LC0xNDk3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MT
 UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0

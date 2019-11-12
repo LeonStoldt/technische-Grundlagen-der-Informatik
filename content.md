@@ -592,7 +592,8 @@ Die Zuteilung von IP-Adressen kann auf zwei Wegen erfolgen:
 
 2.	Dynamisch
 -	zugewiesene Adresse eines DHCP-Servers
--	Der Host sendet ein *DCHP-Discover*
+-	Der Host sendet ein *DCHP-Discover* und erhält vom DHCP-Server ein *DHCP-Offer* mit der angebotenen IP-Adresse.
+-	Danach fordert der Host die angebotene IP-Adresse an (*DHCP-Request*)
 
 
 ### 4.5 IPv6
@@ -602,11 +603,11 @@ Die Zuteilung von IP-Adressen kann auf zwei Wegen erfolgen:
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MDczMTkwLC03MTUyMzMzMDEsLTk1Mz
-k5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LDE4OTk4MDIx
-MzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgzNDU5OTQsLT
-IzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIxMDQzNDg3NCwxMDM5
-NjE2NTU2LC0xNDkwOTc5NzE5LC0xOTM4MzAwMTIxLDcxNDg3MD
-YyNyw1NDQzNDAxODEsLTEwNjQ4NzkzNjUsMTM4MDU3NTU2NCwt
-NTQ3ODA5OTUzXX0=
+eyJoaXN0b3J5IjpbLTIwODk5NDI0MTQsLTcxNTIzMzMwMSwtOT
+UzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2MDgsMTg5OTgw
+MjEzNSwxMzkzMTAwOTUyLC0xMjkzODE5NTE5LDM4ODM0NTk5NC
+wtMjM2OTc3MjI2LC0xNzYwNDg5NTY3LC0xMjEwNDM0ODc0LDEw
+Mzk2MTY1NTYsLTE0OTA5Nzk3MTksLTE5MzgzMDAxMjEsNzE0OD
+cwNjI3LDU0NDM0MDE4MSwtMTA2NDg3OTM2NSwxMzgwNTc1NTY0
+LC01NDc4MDk5NTNdfQ==
 -->

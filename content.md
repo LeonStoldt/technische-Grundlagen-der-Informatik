@@ -619,6 +619,9 @@ IPv4 Adressraum ist knapp und die IPv4 Header sind unnötig komplex, also wurde 
 
 ### 4.6 Statisches Routing
 
+-	Routen verändern sich nur langsam / selten
+-	Algorithmus wird nur einmal durchgeführt
+
 #### Subetting
 
 -	Unterteilung von IP Netzen in Subnetze mit Hilfe einer 32-Bit Subnetzmaske
@@ -658,8 +661,10 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 ### 4-7 Dynamisches Routing
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAyNzQ3NTAsLTI1ODYxMDIxMywtMT
+eyJoaXN0b3J5IjpbLTE2OTU0ODY0ODgsLTI1ODYxMDIxMywtMT
 Q5NzE2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMz
 MzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOC
 wxODk5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4

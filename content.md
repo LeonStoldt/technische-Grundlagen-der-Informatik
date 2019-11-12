@@ -697,13 +697,14 @@ Die Broadcastadresse kann ebenfalls ermittelt werden, da sie reserviert die letz
 
 1.	Jeder Knoten erhält die Eigenschaften "Vorgänger" und "Distanz"
 2.	Alle Knoten mit unbekannter Entfernung (alle Knoten, die keine direkten Nachbarn des Startknotens sind) erhalten die Entfernung "$\infty$"
+3.	Initialisierung einer Prioritätswarteschlange der Nachbar nach Entfernung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NzMwMjYzLDc4MjA4OTU0MSwyMTI0MD
-Q1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMTQ5NzE2OTAw
-OCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMzMzAxLC05NT
-M5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAy
-MTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC
-0yMzY5NzcyMjYsLTE3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAz
-OTYxNjU1Nl19
+eyJoaXN0b3J5IjpbMTU1MTY3NjQ3NSwzNTc3MzAyNjMsNzgyMD
+g5NTQxLDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEz
+LC0xNDk3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MT
+UyMzMzMDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0
+NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOS
+wzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2NywtMTIx
+MDQzNDg3NF19
 -->

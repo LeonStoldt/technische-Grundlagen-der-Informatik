@@ -849,8 +849,11 @@ verbindungslose Transportdienste
 -	verloren gegangene Segmente werden nicht wiederholt
 
 **UDP = User Datagram Protocol**
--	kann Paketverlust aufweisen
--	sehr einfacher Header und daher wenig Overhead
+-	verbindungsloses Netzwerkprotokoll
+-	Vorteile:
+	-	keine Verzögerung durch Verbindungsaufbau
+	-	sehr einfacher Header und daher wenig Overhead
+	-	gut ge
 
 
 ### 5.2 Verbindungsorientierte Übertragung
@@ -861,7 +864,7 @@ verbindungslose Transportdienste
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTU2MDU0OSwxNjk2NzI0MjU0LDE2ND
+eyJoaXN0b3J5IjpbLTY0MTcxNTM4OCwxNjk2NzI0MjU0LDE2ND
 U3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNjA3NjA0
 ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODczOTY1MC
 w4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4Nzg3MDAsLTEx

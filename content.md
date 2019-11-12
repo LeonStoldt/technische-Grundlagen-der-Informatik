@@ -729,15 +729,17 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 -	dient zur Berechnung des kürzesten Pfades zwischen zwei Knoten in einem Graph mit positiven Kantengewichten
 -	Verallgemeinerung und Erweiterung des Dijkstra Algorithmus
 -	Hierbei wird zusätzlich betrachtet ob die grobe Richtung stimmt und man sich dem Zielknoten nähert
--	
+-	die geschätzten Kosten eines Knotens ergeben sich dabei durch die bekannten Kosten des nächsten Knotens und die geschätzten Kosten des nächsten Knotens zum Ziel
+
+Für das 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMzg0NTUyLDk0NzAwODM3MCwxNjkwNT
-M1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5MzI4Njcs
-NTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OT
-U0MSwyMTI0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywt
-MTQ5NzE2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1Mj
-MzMzAxLC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYw
-OF19
+eyJoaXN0b3J5IjpbMTM1NjEyMjkyMyw5NDcwMDgzNzAsMTY5MD
+UzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3
+LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwOD
+k1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMs
+LTE0OTcxNjkwMDgsNzY5MzQ3MTQzLC01MDg3MTgwOTgsLTcxNT
+IzMzMwMSwtOTUzOTk5NzAwLC0xNTM0MTQ0Njg3LDIwMjIyOTQ2
+MDhdfQ==
 -->

@@ -844,6 +844,10 @@ Interieur Gateway Protokolle:
 ### 5.1 Verbindungslose Übertragung
 
 verbindungslose Transportdienste
+-	Segmente werden unabhängig voneinander übertragen (ohne Sequenznummern)
+-	daher existiert keine Garantie für die richtige Zusammensetzung der Segmente
+-	verloren gegangene Segmente werden nicht wiederholt
+-	
 
 
 ### 5.2 Verbindungsorientierte Übertragung
@@ -854,7 +858,7 @@ verbindungslose Transportdienste
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTIxMTExMywxNjQ1NzI5MTMwLC05OT
+eyJoaXN0b3J5IjpbMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OT
 U2MTQ0NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0Njcw
 Mjg2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC
 0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNzk3LDk4

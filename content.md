@@ -573,7 +573,9 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 
 ### 4.3 ICMP - Internet Control Message Protocol
 
-> WIP
+-	benachrichtigt den Sender über auftretende Probleme beim Senden von Nachrichten
+-	dient zur Paketumleitung
+-	überprüft die Erreichbarkeit des Hosts (Ping)
 
 ### 4.4 DHCP
 
@@ -584,11 +586,11 @@ Angenommen Host A möchte Host D eine Nachricht schicken und es sind zwei Netze 
 ### 4-7 Dynamisches Routing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMD
-IyMjk0NjA4LDE4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5Mzgx
-OTUxOSwzODgzNDU5OTQsLTIzNjk3NzIyNiwtMTc2MDQ4OTU2Ny
-wtMTIxMDQzNDg3NCwxMDM5NjE2NTU2LC0xNDkwOTc5NzE5LC0x
-OTM4MzAwMTIxLDcxNDg3MDYyNyw1NDQzNDAxODEsLTEwNjQ4Nz
-kzNjUsMTM4MDU3NTU2NCwtNTQ3ODA5OTUzLC0xOTM4MjU4MzE2
-LDE1NTY4MjI4MTNdfQ==
+eyJoaXN0b3J5IjpbNDg4NzQwODkzLC05NTM5OTk3MDAsLTE1Mz
+QxNDQ2ODcsMjAyMjI5NDYwOCwxODk5ODAyMTM1LDEzOTMxMDA5
+NTIsLTEyOTM4MTk1MTksMzg4MzQ1OTk0LC0yMzY5NzcyMjYsLT
+E3NjA0ODk1NjcsLTEyMTA0MzQ4NzQsMTAzOTYxNjU1NiwtMTQ5
+MDk3OTcxOSwtMTkzODMwMDEyMSw3MTQ4NzA2MjcsNTQ0MzQwMT
+gxLC0xMDY0ODc5MzY1LDEzODA1NzU1NjQsLTU0NzgwOTk1Mywt
+MTkzODI1ODMxNl19
 -->

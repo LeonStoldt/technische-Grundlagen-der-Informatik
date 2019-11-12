@@ -731,6 +731,8 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 -	Hierbei wird zusätzlich betrachtet ob die grobe Richtung stimmt und man sich dem Zielknoten nähert
 -	die geschätzten Kosten eines Knotens ergeben sich dabei durch die bekannten Kosten des nächsten Knotens und die geschätzten Kosten des nächsten Knotens zum Ziel
 
+Der obige Graph wurde mit zusätzlichen Distanzschätzungen vom Start (A) zum Ziel (E) versehen:
+
 ``` mermaid
 graph LR
 A((A - )) --100--> B((B))
@@ -755,7 +757,7 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjc1NTc1Niw5NDcwMDgzNzAsMTY5MD
+eyJoaXN0b3J5IjpbMTMxNTA2NzMxOSw5NDcwMDgzNzAsMTY5MD
 UzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3
 LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwOD
 k1NDEsMjEyNDA0NTc1MSwxODg0MDg1OTQ4LC0yNTg2MTAyMTMs

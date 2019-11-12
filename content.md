@@ -808,14 +808,14 @@ C -- -9--> B
 -	Verwendung des IGP = Interieur Gateway Protocol
 -	mit Hilfe des Intra-AS-Routing-Protokoll kann der kostengünstigste Pfad zum Gateway ermittelt werden
 
-**RIP - Routing Information Protocol**
--	basiert auf dem Distanzvektor-Algorithmus
--	ist ein altes Verfahren
--	wird über UDP verschickt
-
-**OSPF - Open Shortest Path First**
--	verwendet Link-State-Routing-Algorithmus (Basis ist der Dijkstra-Algorithmus)
--	das Gesamtnetzwerk muss bekannt sein
+Interieur Gateway Protokolle:
+-	RIP - Routing Information Protocol
+	-	basiert auf dem Distanzvektor-Algorithmus
+	-	ist ein altes Verfahren
+	-	wird über UDP verschickt
+-	OSPF - Open Shortest Path First
+	-	verwendet Link-State-Routing-Algorithmus (Basis ist der Dijkstra-Algorithmus)
+	-	das Gesamtnetzwerk muss bekannt sein
 
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
@@ -825,11 +825,11 @@ C -- -9--> B
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMD
-I0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQw
-NDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4NzAwLC0xMTI3NTAxNz
-k3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5MDUzNTI4Nyw4NDIx
-NzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyODY3LDU4Nzg1NTE2OC
-wxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIwODk1NDEsMjEyNDA0
-NTc1MV19
+eyJoaXN0b3J5IjpbLTIxMjgyODQ3NjYsLTQzNDM0MjA1NiwtMT
+YwNzYwNDg5MywxMDI0NjcwMjg2LDE5OTAxMTc0NTgsLTE1NDg3
+Mzk2NTAsODkxNjQwNDQ0LC0xOTM5NDA5NjQxLC0xNjk4ODc4Nz
+AwLC0xMTI3NTAxNzk3LDk4NjY3MDk0Myw5NDcwMDgzNzAsMTY5
+MDUzNTI4Nyw4NDIxNzU5MzgsMTcwOTI5MDM2MCwxMjMxOTMyOD
+Y3LDU4Nzg1NTE2OCwxODcyNTc2NDAwLDM1NzczMDI2Myw3ODIw
+ODk1NDFdfQ==
 -->

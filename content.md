@@ -810,6 +810,7 @@ C -- -9--> B
 
 **RIP - Routing Information Protocol**
 -	basiert auf dem Distanzvektor-Algorithmus
+-	ist ein altes Verfahren
 
 #### Inter-AS-Routing (über mehrere autonome Systeme hinweg)
 
@@ -819,7 +820,7 @@ C -- -9--> B
 ## 5. Transportschicht
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQyMTg1ODYsLTE2MDc2MDQ4OTMsMT
+eyJoaXN0b3J5IjpbLTE1MTE0MzE5ODUsLTE2MDc2MDQ4OTMsMT
 AyNDY3MDI4NiwxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0
 MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3ODcwMCwtMTEyNzUwMT
 c5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLDE2OTA1MzUyODcsODQy

@@ -718,15 +718,16 @@ Ermittlung der Distanzen nach Dijkstra von Knoten A nach E:
 | aktueller Knoten | A | B | C | D | E | Queue
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | A | 0 | 100 | $\infty$ | 50 | $\infty$ | {D, B} |
-| B | 0 | 100 | 200 | 50 | $\infty$ | {D} |
+| B | 0 | 100 | 200 | 50 | $\infty$ | {C, D} |
+| C | 0 | 100 | 200 | 50 | $\infty$ | {C, D} |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgwNTg4NjIsMTIzMTkzMjg2Nyw1OD
-c4NTUxNjgsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNzgyMDg5NTQx
-LDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEwMjEzLC0xND
-k3MTY5MDA4LDc2OTM0NzE0MywtNTA4NzE4MDk4LC03MTUyMzMz
-MDEsLTk1Mzk5OTcwMCwtMTUzNDE0NDY4NywyMDIyMjk0NjA4LD
-E4OTk4MDIxMzUsMTM5MzEwMDk1MiwtMTI5MzgxOTUxOSwzODgz
-NDU5OTRdfQ==
+eyJoaXN0b3J5IjpbMTYyNzE0NTk5LDEyMzE5MzI4NjcsNTg3OD
+U1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLDc4MjA4OTU0MSwy
+MTI0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYxMDIxMywtMTQ5Nz
+E2OTAwOCw3NjkzNDcxNDMsLTUwODcxODA5OCwtNzE1MjMzMzAx
+LC05NTM5OTk3MDAsLTE1MzQxNDQ2ODcsMjAyMjI5NDYwOCwxOD
+k5ODAyMTM1LDEzOTMxMDA5NTIsLTEyOTM4MTk1MTksMzg4MzQ1
+OTk0XX0=
 -->

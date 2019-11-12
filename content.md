@@ -20,6 +20,10 @@
 > ### 4.7 Dynamisches Routing
 > ### 4.8 Routing Protokolle
 > ## 5. Transportschicht
+> ### 5.1 Verbindungslose Übertragung
+> ### 5.2 Verbindungsorientierte Übertragung
+> ### 5.3 TCP
+> ### 5.4 Network Address Translation
 ---
 
 ## 1. Das OSI-Schichtenmodell
@@ -837,8 +841,20 @@ Interieur Gateway Protokolle:
 
 ## 5. Transportschicht
 
+### 5.1 Verbindungslose Übertragung
+
+
+
+
+### 5.2 Verbindungsorientierte Übertragung
+
+
+### 5.3 TCP
+
+
+### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjk5OTM1NiwtOTk1NjE0NDUwLC00Mz
+eyJoaXN0b3J5IjpbMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00Mz
 QzNDIwNTYsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4NiwxOTkwMTE3
 NDU4LC0xNTQ4NzM5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MS
 wtMTY5ODg3ODcwMCwtMTEyNzUwMTc5Nyw5ODY2NzA5NDMsOTQ3

@@ -18,6 +18,7 @@
 > ### 4.5 IPv6
 > ### 4.6 Statisches Routing
 > ### 4.7 Dynamisches Routing
+> ### 4.8 Routing Protokolle
 > ## 5. Transportschicht
 ---
 
@@ -798,12 +799,22 @@ C -- -9--> B
 -	Aktualisierte Distanzvektoren der Nachbarn werden intern mit Hilfe der Bellman-Ford Gleichung geprüft
 
 
+### 4.8 Routing Protokolle
+
+#### Intra-AS-Routing
+
+
+#### Inter-AS-Routing
+
+
+## 5. Transportschicht
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDYwNjUxMjAsMTk5MDExNzQ1OCwtMT
-U0ODczOTY1MCw4OTE2NDA0NDQsLTE5Mzk0MDk2NDEsLTE2OTg4
-Nzg3MDAsLTExMjc1MDE3OTcsOTg2NjcwOTQzLDk0NzAwODM3MC
-wxNjkwNTM1Mjg3LDg0MjE3NTkzOCwxNzA5MjkwMzYwLDEyMzE5
-MzI4NjcsNTg3ODU1MTY4LDE4NzI1NzY0MDAsMzU3NzMwMjYzLD
-c4MjA4OTU0MSwyMTI0MDQ1NzUxLDE4ODQwODU5NDgsLTI1ODYx
-MDIxM119
+eyJoaXN0b3J5IjpbMTAyNDY3MDI4NiwxOTkwMTE3NDU4LC0xNT
+Q4NzM5NjUwLDg5MTY0MDQ0NCwtMTkzOTQwOTY0MSwtMTY5ODg3
+ODcwMCwtMTEyNzUwMTc5Nyw5ODY2NzA5NDMsOTQ3MDA4MzcwLD
+E2OTA1MzUyODcsODQyMTc1OTM4LDE3MDkyOTAzNjAsMTIzMTkz
+Mjg2Nyw1ODc4NTUxNjgsMTg3MjU3NjQwMCwzNTc3MzAyNjMsNz
+gyMDg5NTQxLDIxMjQwNDU3NTEsMTg4NDA4NTk0OCwtMjU4NjEw
+MjEzXX0=
 -->

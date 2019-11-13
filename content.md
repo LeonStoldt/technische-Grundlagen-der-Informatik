@@ -1031,7 +1031,8 @@ Wichtige Dienste:
 Ablauf einer Abfrage im WWW:
 1.	Browser verarbeitet die eingegebene URL (Uniform Resource Locator)
 2.	Mit Hilfe des DNS wird die IP-Adresse der URL ermittelt
-3.	Es wird eine TCP-Verbindung über d
+3.	Es wird eine TCP-Verbindung über Port 80 (HTTP) zur IP-Adresse aufgebaut
+4.	Die Datei des Pfads wird vom Server angefordert
 
 
 ### 8.2 HTTP
@@ -1039,11 +1040,11 @@ Ablauf einer Abfrage im WWW:
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1MTUyNTg2LDE5NzU3NDEyMjIsLTE5ND
-g4NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQs
-MTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNT
-ExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5
-NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNz
-kxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcy
-OTEzMF19
+eyJoaXN0b3J5IjpbLTEzMzYwNzQ2NDMsMTk3NTc0MTIyMiwtMT
+k0ODg0NDkyNSwzNzEwMDg1NzIsNDA2ODE1NzgxLDg5ODA0MjA4
+NCwxNzAxNDQyODIzLC05OTUzNzI4MDQsLTY4MjY0MDAyMCwtNT
+M1MTE3NDQ2LDE3ODcxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1
+Njk0LDE4Mjc2MTA4NDMsLTE5MDcxMjAyMjcsLTY2MDgzNTQyNC
+w3OTE5NjYwMTYsLTE4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1
+NzI5MTMwXX0=
 -->

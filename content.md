@@ -953,16 +953,18 @@ i                                                      j
 -	gesicherte Übertragung von Daten mit Fluss- und Staukontrolle
 -	Header beinhaltet mehr Informationen
 
-#
+#### TCP - Flusskontrolle
+-	Ziel: Überlastung des Empfängers vermeiden
+-	Empfänger bestimmt das 
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Nzc5MTY3NSwtNTM1MTE3NDQ2LDE3OD
-cxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4
-NDMsLTE5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLT
-E4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2
-MTQ0NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMj
-g2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0x
-OTM5NDA5NjQxXX0=
+eyJoaXN0b3J5IjpbLTU4MjE1NDUsLTUzNTExNzQ0NiwxNzg3MT
+AwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQz
+LC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2MDE2LC0xOD
+QyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0
+NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4Ni
+wxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0MDQ0NCwtMTkz
+OTQwOTY0MV19
 -->

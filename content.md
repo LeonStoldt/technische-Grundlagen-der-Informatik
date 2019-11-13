@@ -971,13 +971,21 @@ i                                                      j
 -	Dieser Prozess wird in der NAT-Tabelle im Router dokumentiert
 -	Zusätzlich zur IP-Adresse kann auch der Port in der Tabelle gespeichert werden
 -	Die Antwort des angefragten Servers wird nun vom Router wieder zurück übersetzt und an den anfragenden Host zurück gesendet.
+
+
+## Kommunikationssteuerungsschicht
+
 -	
+-	
+
+
+## Datendarstellungsschicht
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU0MzIwNjIsLTk5NTM3MjgwNCwtNj
-gyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1LC05NzM3OTcw
-NzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMTkwNzEyMDIyNy
-wtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2
-NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMD
-U2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwt
-MTU0ODczOTY1MF19
+eyJoaXN0b3J5IjpbMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02OD
+I2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3
+NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC
+02NjA4MzU0MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3
+MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQzNDIwNT
+YsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4NiwxOTkwMTE3NDU4LC0x
+NTQ4NzM5NjUwXX0=
 -->

@@ -30,6 +30,7 @@
 > ### 8.1 WWW - World Wide Web
 > ### 8.2 HTTP
 > ### 8.3 e-Mail
+> ## 9. Zusammenfassung der Schichten
 ---
 
 ## 1. Das OSI-Schichtenmodell
@@ -1074,12 +1075,16 @@ wichtige Protokolle für e-Mail
 -	SMTP - Simple Mail Transfer Protocol für den Versand von Mails (Standardport: 25)
 -	POP - Post Office Protocol oder IMAP - Internet Message Access Protocol zum Abruf der Mail
 
+## 9. Zusammenfassung der Schichten
+
+### Physical Layer
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYxNzE3NjksLTI1NTM4NTMxMywxMD
-IxNzc0Nzg5LDQ0NTY4ODYyNiwtMTM2NTU3ODUyNywtMTMzNjA3
-NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAwODU3Mi
-w0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLTk5NTM3
-MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1LC
-05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMTkw
-NzEyMDIyN119
+eyJoaXN0b3J5IjpbLTU5MTA0NzczOSwtMjU1Mzg1MzEzLDEwMj
+E3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMzM2MDc0
+NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4NTcyLD
+QwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1Mzcy
+ODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAwNzUsLT
+k3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3
+MTIwMjI3XX0=
 -->

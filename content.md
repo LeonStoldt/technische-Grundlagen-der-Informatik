@@ -1110,12 +1110,15 @@ wichtige Protokolle für e-Mail
 -	stellt Synchronisationspunkte für die Kommunikation zur Verfügung, damit die Sitzung nicht zusammenbricht (Check Points zur Wiederherstellung)
 
 ### Presentation Layer
--	liefert eine systemabhängige Darstellung der übertragenen Daten
+-	liefert eine systemunabhängige Darstellung der übertragenen Daten zu, syntaktisch korrekten Datenaustausch
 -	Ver- und Entschlüsselung von Kommunikationsdaten
 -	Umkodierung der Kommunikationsdaten
 -	Datenkompression
+
+### Application Layer
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTE0NjE0OSwtMjU1Mzg1MzEzLDEwMj
+eyJoaXN0b3J5IjpbMTg3MTU1MDIxOSwtMjU1Mzg1MzEzLDEwMj
 E3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMzM2MDc0
 NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4NTcyLD
 QwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1Mzcy

@@ -1047,16 +1047,21 @@ Ablauf einer Abfrage im WWW:
 	-	PUT - Anfordern des Schreibens einer Ressource
 	-	POST - Anhängen neuer Daten an die bekannte Ressource
 	-	DELETE - Anforderung der Löschung einer bestimmten Ressource
--	HTTP Response liefert fo
+-	HTTP Response liefert folgenden Status
+	-	1xx - Information
+	-	2xx - Erfolg (Bsp. 200 - OK)
+	-	3xx - Umleitung
+	-	4xx - Client-Fehler (Bsp. 400 - Bad R
+	-	5xx - 
 
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMDc3ODY2LC0xMzY1NTc4NTI3LC0xMz
-M2MDc0NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4
-NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOT
-k1MzcyODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAw
-NzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC
-0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2MDE2LC0xODQy
-ODA0NDM0XX0=
+eyJoaXN0b3J5IjpbLTgxNjkwODkyMSwtMTM2NTU3ODUyNywtMT
+MzNjA3NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAw
+ODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLT
+k5NTM3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEw
+MDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0My
+wtMTkwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0
+MjgwNDQzNF19
 -->

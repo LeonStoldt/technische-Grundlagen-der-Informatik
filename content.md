@@ -973,7 +973,7 @@ i                                                      j
 -	Die Antwort des angefragten Servers wird nun vom Router wieder zurück übersetzt und an den anfragenden Host zurück gesendet.
 
 
-## Kommunikationssteuerungsschicht
+## Kommunikationssteuerungsschicht (Sitzungsschicht)
 
 #### Session
 -	Kommunikation mind. zweier Teilnehmer
@@ -987,13 +987,16 @@ i                                                      j
 2. Datentransfer
 3. Verbindungsabbau
 
+
+> :information_source: Verbindungen auf der Sitzungsschicht differenziert sich von Verbindungen auf der Transportschicht. Eine Session kann z.B. mehrere TCP- oder UDP-Verbindungen beinhalten.
+
 ## Datendarstellungsschicht
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk4ODEzNTUsMTcwMTQ0MjgyMywtOT
-k1MzcyODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAw
-NzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC
-0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2MDE2LC0xODQy
-ODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0ND
-UwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4Niwx
-OTkwMTE3NDU4XX0=
+eyJoaXN0b3J5IjpbODk4MDQyMDg0LDE3MDE0NDI4MjMsLTk5NT
+M3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1
+LC05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMT
+kwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0Mjgw
+NDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MC
+wtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5
+MDExNzQ1OF19
 -->

@@ -1019,9 +1019,13 @@ Wichtige Dienste:
 -	DNS - Domain Name Service
 -	Datentransfer (HTTP, FTP)
 -	Nachrichtentransfer (SMTP, POP, IMAP)
--	entfernte
+-	Entfernte Anmeldung (Telnet, SSH)
+-	Netzmanagement (SNMP)
 
 ### 8.1 WWW - World Wide Web
+
+-	Rahmenwerk für Dokumentenzugriff im Internet
+-	basiert auf der Client - Server Architektur
 
 
 ### 8.2 HTTP
@@ -1029,11 +1033,11 @@ Wichtige Dienste:
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTk1MDE1NywxOTc1NzQxMjIyLC0xOT
-Q4ODQ0OTI1LDM3MTAwODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0
-LDE3MDE0NDI4MjMsLTk5NTM3MjgwNCwtNjgyNjQwMDIwLC01Mz
-UxMTc0NDYsMTc4NzEwMDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2
-OTQsMTgyNzYxMDg0MywtMTkwNzEyMDIyNywtNjYwODM1NDI0LD
-c5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0MjU0LDE2NDU3
-MjkxMzBdfQ==
+eyJoaXN0b3J5IjpbLTE1MzIxMjE5LDE5NzU3NDEyMjIsLTE5ND
+g4NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQs
+MTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNT
+ExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5
+NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNz
+kxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcy
+OTEzMF19
 -->

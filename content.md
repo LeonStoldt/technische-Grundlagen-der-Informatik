@@ -24,6 +24,8 @@
 > ### 5.2 Verbindungsorientierte Übertragung
 > ### 5.3 TCP
 > ### 5.4 Network Address Translation
+> ## Kommunikationssteuerungsschicht
+> ## Datendarstellungsschicht
 ---
 
 ## 1. Das OSI-Schichtenmodell
@@ -971,11 +973,11 @@ i                                                      j
 -	Die Antwort des angefragten Servers wird nun vom Router wieder zurück übersetzt und an den anfragenden Host zurück gesendet.
 -	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTM3MjgwNCwtNjgyNjQwMDIwLC01Mz
-UxMTc0NDYsMTc4NzEwMDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2
-OTQsMTgyNzYxMDg0MywtMTkwNzEyMDIyNywtNjYwODM1NDI0LD
-c5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0MjU0LDE2NDU3
-MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNjA3NjA0OD
-kzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwtMTU0ODczOTY1MCw4
-OTE2NDA0NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzODU0MzIwNjIsLTk5NTM3MjgwNCwtNj
+gyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1LC05NzM3OTcw
+NzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMTkwNzEyMDIyNy
+wtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2
+NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMD
+U2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5MDExNzQ1OCwt
+MTU0ODczOTY1MF19
 -->

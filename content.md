@@ -1091,9 +1091,12 @@ wichtige Protokolle für e-Mail
 
 ### Network Layer
 -	Verbindung der Direktverbindungsnetze zu Systemen
--	Kommunikation über Direktverbindungen und Subne
+-	Kommunikation über Direktverbindungen und Subnetze
+-	Bereitstellung einer eindeutigen, logischen Adresse des Hosts
+-	Routing: Bestimmung optimaler Pfade zwischen Hosts
+-	Hardware: Layer-3-Switch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjAwMzI5MywtMjU1Mzg1MzEzLDEwMj
+eyJoaXN0b3J5IjpbLTMwMDIxODIzOCwtMjU1Mzg1MzEzLDEwMj
 E3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMzM2MDc0
 NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4NTcyLD
 QwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1Mzcy

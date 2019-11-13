@@ -1105,9 +1105,11 @@ wichtige Protokolle für e-Mail
 -	Protokolle: TCP, UDP
 
 ### Session Layer
+-	gemeinsamer Kommunikationszustand mit u.a. mehreren Verbindungen auf der Transportschicht
+-	stellt Synchronisationspunkte für die Kommunikation zur Verfügung
 -	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzM3NjUyMCwtMjU1Mzg1MzEzLDEwMj
+eyJoaXN0b3J5IjpbMTUyMjA5NTYxNCwtMjU1Mzg1MzEzLDEwMj
 E3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMzM2MDc0
 NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4NTcyLD
 QwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1Mzcy

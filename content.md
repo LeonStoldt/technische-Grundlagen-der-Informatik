@@ -994,9 +994,11 @@ i                                                      j
 
 ## Datendarstellungsschicht
 -	ermöglicht den Kommunikationspartnern eine einheitliche Interpretation der Daten
+	-	Datendarstellung (Syntax)
+	-	Bereitstellung von Datenstrukturen
 	-	Datentransformation (Umkodierung)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NzgzOTUxLDQwNjgxNTc4MSw4OTgwND
+eyJoaXN0b3J5IjpbMjM0MjMxNDIxLDQwNjgxNTc4MSw4OTgwND
 IwODQsMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAs
 LTUzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NT
 kyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0

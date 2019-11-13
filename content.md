@@ -996,7 +996,7 @@ i                                                      j
 
 ermöglicht den Kommunikationspartnern eine einheitliche Interpretation der Daten
 -	Datendarstellung (Syntax)
-	- s	
+	- Kodierung der Darstellungstypen im System entspricht der lokalen Syntax	
 -	Bereitstellung von Datenstrukturen
 -	Datentransformation (Umkodierung)
 	-	Überführung von einer Repräsentation in eine andere
@@ -1008,11 +1008,11 @@ Kompression von Nachrichten
 	-	Originaldatei nicht mehr aus der kompressierten Datei rekonstruierbar
 	-	vor allem bei Analogen Daten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTc0MTIyMiwtMTk0ODg0NDkyNSwzNz
-EwMDg1NzIsNDA2ODE1NzgxLDg5ODA0MjA4NCwxNzAxNDQyODIz
-LC05OTUzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3OD
-cxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4
-NDMsLTE5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLT
-E4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2
-MTQ0NTBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTU4ODQzNSwxOTc1NzQxMjIyLC0xOT
+Q4ODQ0OTI1LDM3MTAwODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0
+LDE3MDE0NDI4MjMsLTk5NTM3MjgwNCwtNjgyNjQwMDIwLC01Mz
+UxMTc0NDYsMTc4NzEwMDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2
+OTQsMTgyNzYxMDg0MywtMTkwNzEyMDIyNywtNjYwODM1NDI0LD
+c5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0MjU0LDE2NDU3
+MjkxMzBdfQ==
 -->

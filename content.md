@@ -1087,8 +1087,13 @@ wichtige Protokolle für e-Mail
 -	Erkennung und Korrektur von Übertragungsfehlern
 -	Rahmenbildung
 -	Regelung des Medienzugriffs
+-	Hardware: Bridge, Switch
+
+### Network Layer
+-	Verbindung der Direktverbindungsnetze zu Systemen
+-	Kommunikation über Direktverbindungen und Subne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTM0MzUyMiwtMjU1Mzg1MzEzLDEwMj
+eyJoaXN0b3J5IjpbMTgzNjAwMzI5MywtMjU1Mzg1MzEzLDEwMj
 E3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMzM2MDc0
 NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4NTcyLD
 QwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1Mzcy

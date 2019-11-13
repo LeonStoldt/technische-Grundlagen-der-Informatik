@@ -1044,18 +1044,18 @@ Ablauf einer Abfrage im WWW:
 -	HTTP Request besitzt folgende Aktionen
 	-	GET - Abfrage einer bestimmten Ressource
 	-	HEAD - Abfrage des Headers einer bestimmten Ressource
-	-	PUT - Anfordern
-	-	POST
-	-	DELETE
+	-	PUT - Anfordern des Schreibens einer Ressource
+	-	POST - Anhängen neuer Daten an die bekannte Ressource
+	-	DELETE - Anforderung der Löschung einer bestimmten Ressource
 
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTAxMjg0MCwtMTM2NTU3ODUyNywtMT
-MzNjA3NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAw
-ODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLT
-k5NTM3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEw
-MDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0My
-wtMTkwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0
-MjgwNDQzNF19
+eyJoaXN0b3J5IjpbODg5NjE3NjYsLTEzNjU1Nzg1MjcsLTEzMz
+YwNzQ2NDMsMTk3NTc0MTIyMiwtMTk0ODg0NDkyNSwzNzEwMDg1
+NzIsNDA2ODE1NzgxLDg5ODA0MjA4NCwxNzAxNDQyODIzLC05OT
+UzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3ODcxMDA3
+NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4NDMsLT
+E5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLTE4NDI4
+MDQ0MzRdfQ==
 -->

@@ -1042,11 +1042,13 @@ Ablauf einer Abfrage im WWW:
 -	Standardprotokoll für Client Anfragen und Server Antworten
 -	Standardmäßig auf Port 80
 -	HTTP Request besitzt folgende Aktionen
+	```
 	-	GET - Abfrage einer bestimmten Ressource
 	-	HEAD - Abfrage des Headers einer bestimmten Ressource
 	-	PUT - Anfordern des Schreibens einer Ressource
 	-	POST - Anhängen neuer Daten an die bekannte Ressource
 	-	DELETE - Anforderung der Löschung einer bestimmten Ressource
+```
 -	HTTP Response liefert folgenden Status
 	-	1xx - Information
 	-	2xx - Erfolg (Bsp. 200 - OK)
@@ -1056,15 +1058,16 @@ Ablauf einer Abfrage im WWW:
 
 **Proxy**
 -	ist zwischen dem Client und dem Server positioniert
+-	optimiert das Laden von Ressourcen durch caching 
 
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMz
-M2MDc0NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4
-NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOT
-k1MzcyODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAw
-NzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC
-0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2MDE2LC0xODQy
-ODA0NDM0XX0=
+eyJoaXN0b3J5IjpbLTE3MjQ1ODIwNDUsNDQ1Njg4NjI2LC0xMz
+Y1NTc4NTI3LC0xMzM2MDc0NjQzLDE5NzU3NDEyMjIsLTE5NDg4
+NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQsMT
+cwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNTEx
+NzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NC
+wxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkx
+OTY2MDE2XX0=
 -->

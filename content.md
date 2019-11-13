@@ -965,13 +965,14 @@ i                                                      j
 ### 5.4 NAT - Network Address Translation
 
 -	Netzwerkadressübersetzung übernimmt meist der Router
--	Der Request des Hosts an einen anderen Server erfolgt über den Router. Dieser tauscht im Rahmen der Netzwerkadressübernetzung die Absenderadresse (private IP-Adresse Bsp. `192.168.1.1`)
+-	Der Request des Hosts an einen anderen Server erfolgt über den Router. Dieser tauscht im Rahmen der Netzwerkadressübersetzung die Absenderadresse (private IP-Adresse z.B. `192.168.1.1`) durch seine eigene (öffentliche IP-Adresse z.B. `131.159.20.1`) aus
+-	Dieser Prozess wird in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYwNTM0OSwtNTM1MTE3NDQ2LDE3OD
-cxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4
-NDMsLTE5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLT
-E4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2
-MTQ0NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMj
-g2LDE5OTAxMTc0NTgsLTE1NDg3Mzk2NTAsODkxNjQwNDQ0LC0x
-OTM5NDA5NjQxXX0=
+eyJoaXN0b3J5IjpbLTExNjc5MDkzNTAsLTUzNTExNzQ0NiwxNz
+g3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEw
+ODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2MDE2LC
+0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMCwtOTk1
+NjE0NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAyNDY3MD
+I4NiwxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0MDQ0NCwt
+MTkzOTQwOTY0MV19
 -->

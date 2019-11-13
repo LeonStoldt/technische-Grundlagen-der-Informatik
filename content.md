@@ -955,16 +955,19 @@ i                                                      j
 
 #### TCP - Flusskontrolle
 -	Ziel: Überlastung des Empfängers vermeiden
--	Empfänger bestimmt das 
+-	Empfänger bestimmt maximale das Datenfenster
+
+#### TCP - Staukontrolle
+-	
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjE1NDUsLTUzNTExNzQ0NiwxNzg3MT
-AwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQz
-LC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2MDE2LC0xOD
-QyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0
-NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4Ni
-wxOTkwMTE3NDU4LC0xNTQ4NzM5NjUwLDg5MTY0MDQ0NCwtMTkz
-OTQwOTY0MV19
+eyJoaXN0b3J5IjpbNzI1ODYyNDQ4LC01MzUxMTc0NDYsMTc4Nz
+EwMDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0
+MywtMTkwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMT
+g0MjgwNDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYx
+NDQ1MCwtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyOD
+YsMTk5MDExNzQ1OCwtMTU0ODczOTY1MCw4OTE2NDA0NDQsLTE5
+Mzk0MDk2NDFdfQ==
 -->

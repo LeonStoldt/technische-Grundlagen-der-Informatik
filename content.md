@@ -993,12 +993,14 @@ i                                                      j
 > :information_source: Verbindungen auf der Sitzungsschicht differenziert sich von Verbindungen auf der Transportschicht. Eine Session kann z.B. mehrere TCP- oder UDP-Verbindungen beinhalten.
 
 ## Datendarstellungsschicht
+-	ermöglicht den Kommunikationspartnern eine einheitliche Interpretation der Daten
+	-	Datentransformation (Umkodierung)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2ODE1NzgxLDg5ODA0MjA4NCwxNzAxND
-QyODIzLC05OTUzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2
-LDE3ODcxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mj
-c2MTA4NDMsLTE5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5NjYw
-MTYsLTE4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC
-05OTU2MTQ0NTAsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0
-NjcwMjg2XX0=
+eyJoaXN0b3J5IjpbNDY4NzgzOTUxLDQwNjgxNTc4MSw4OTgwND
+IwODQsMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAs
+LTUzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NT
+kyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0
+MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMT
+Y0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2MDc2
+MDQ4OTNdfQ==
 -->

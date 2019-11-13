@@ -1101,8 +1101,13 @@ wichtige Protokolle für e-Mail
 -	Flusskontrolle zur Verhinderung der Überlastung des Empfängers
 -	Staukontrolle zur Verhinderung der Überlastung des Netzes
 -	Bereitstellung verbindungsloser und -orientierter Transportmechanismen
+-	Port als Schicht-4-Adresse zur Adressierung
+-	Protokolle: TCP, UDP
+
+### Session Layer
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODQ2NDkzMywtMjU1Mzg1MzEzLDEwMj
+eyJoaXN0b3J5IjpbLTgyNzM3NjUyMCwtMjU1Mzg1MzEzLDEwMj
 E3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMzM2MDc0
 NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4NTcyLD
 QwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1Mzcy

@@ -1026,6 +1026,7 @@ Wichtige Dienste:
 
 -	Rahmenwerk für Dokumentenzugriff im Internet
 -	basiert auf der Client - Server Architektur
+-	Webseiten werden dem Client über den Browser angezeigt
 
 
 ### 8.2 HTTP
@@ -1033,7 +1034,7 @@ Wichtige Dienste:
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIxMjE5LDE5NzU3NDEyMjIsLTE5ND
+eyJoaXN0b3J5IjpbNjY4ODY0OTAwLDE5NzU3NDEyMjIsLTE5ND
 g4NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQs
 MTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNT
 ExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5

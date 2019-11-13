@@ -1041,33 +1041,38 @@ Ablauf einer Abfrage im WWW:
 
 -	Standardprotokoll für Client Anfragen und Server Antworten
 -	Standardmäßig auf Port 80
--	HTTP Request besitzt folgende Aktionen
-	```
-	-	GET - Abfrage einer bestimmten Ressource
-	-	HEAD - Abfrage des Headers einer bestimmten Ressource
-	-	PUT - Anfordern des Schreibens einer Ressource
-	-	POST - Anhängen neuer Daten an die bekannte Ressource
-	-	DELETE - Anforderung der Löschung einer bestimmten Ressource
+-	HTTP Request besitzt folgende Aktionen:
 ```
--	HTTP Response liefert folgenden Status
-	-	1xx - Information
-	-	2xx - Erfolg (Bsp. 200 - OK)
-	-	3xx - Umleitung
-	-	4xx - Client-Fehler (Bsp. 400 - Bad Request)
-	-	5xx - Server-Fehler (Bsp. 502 - Bad Gateway)
+	GET - Abfrage einer bestimmten Ressource
+	HEAD - Abfrage des Headers einer bestimmten Ressource
+	PUT - Anfordern des Schreibens einer Ressource
+	POST - Anhängen neuer Daten an die bekannte Ressource
+	DELETE - Anforderung der Löschung einer bestimmten Ressource
+```
+-	HTTP Response liefert folgenden Status:
+```
+	1xx - Information
+	2xx - Erfolg (Bsp. 200 - OK)
+	3xx - Umleitung
+	4xx - Client-Fehler (Bsp. 400 - Bad Request)
+	5xx - Server-Fehler (Bsp. 502 - Bad Gateway)
+```
 
 **Proxy**
 -	ist zwischen dem Client und dem Server positioniert
 -	optimiert das Laden von Ressourcen durch caching 
+-	prüft, ob die Anfrage an den Server überhaupt gesendet werden muss
 
 
 ### 8.3 e-Mail
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ1ODIwNDUsNDQ1Njg4NjI2LC0xMz
-Y1NTc4NTI3LC0xMzM2MDc0NjQzLDE5NzU3NDEyMjIsLTE5NDg4
-NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQsMT
-cwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNTEx
-NzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NC
-wxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkx
-OTY2MDE2XX0=
+eyJoaXN0b3J5IjpbMTAyMTc3NDc4OSw0NDU2ODg2MjYsLTEzNj
+U1Nzg1MjcsLTEzMzYwNzQ2NDMsMTk3NTc0MTIyMiwtMTk0ODg0
+NDkyNSwzNzEwMDg1NzIsNDA2ODE1NzgxLDg5ODA0MjA4NCwxNz
+AxNDQyODIzLC05OTUzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3
+NDQ2LDE3ODcxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LD
+E4Mjc2MTA4NDMsLTE5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5
+NjYwMTZdfQ==
 -->

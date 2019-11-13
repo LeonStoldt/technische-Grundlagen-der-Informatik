@@ -27,6 +27,9 @@
 > ## 6. Kommunikationssteuerungsschicht
 > ## 7. Datendarstellungsschicht
 > ## 8. Anwendungsschicht
+> ### 8.1 WWW - World Wide Web
+> ### 8.2 HTTP
+> ### 8.3 e-Mail
 ---
 
 ## 1. Das OSI-Schichtenmodell
@@ -1008,12 +1011,25 @@ Kompression von Nachrichten
 -	verlustbehaftete Kompression
 	-	Originaldatei nicht mehr aus der kompressierten Datei rekonstruierbar
 	-	vor allem bei Analogen Daten
+
+
+## 8. Anwendungsschicht
+
+
+
+### 8.1 WWW - World Wide Web
+
+
+### 8.2 HTTP
+
+
+### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNTMxNzc1LDE5NzU3NDEyMjIsLTE5ND
-g4NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQs
-MTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNT
-ExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5
-NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNz
-kxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcy
-OTEzMF19
+eyJoaXN0b3J5IjpbLTIwMzAwMzg5MzcsMTk3NTc0MTIyMiwtMT
+k0ODg0NDkyNSwzNzEwMDg1NzIsNDA2ODE1NzgxLDg5ODA0MjA4
+NCwxNzAxNDQyODIzLC05OTUzNzI4MDQsLTY4MjY0MDAyMCwtNT
+M1MTE3NDQ2LDE3ODcxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1
+Njk0LDE4Mjc2MTA4NDMsLTE5MDcxMjAyMjcsLTY2MDgzNTQyNC
+w3OTE5NjYwMTYsLTE4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1
+NzI5MTMwXX0=
 -->

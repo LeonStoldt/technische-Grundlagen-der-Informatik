@@ -1107,14 +1107,16 @@ wichtige Protokolle für e-Mail
 ### Session Layer
 -	Prozesskommunikation zwischen zwei Systemen
 -	gemeinsamer Kommunikationszustand mit u.a. mehreren Verbindungen auf der Transportschicht
--	stellt Synchronisationspunkte für die Kommunikation zur Verfügung, damit die Sitzung nicht zusammenbricht
--	
+-	stellt Synchronisationspunkte für die Kommunikation zur Verfügung, damit die Sitzung nicht zusammenbricht (Check Points zur Wiederherstellung)
+
+### Presentation Layer
+-	Bereitstellung eines abstrakten Formats zur Dar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA3MDUwMDQsLTI1NTM4NTMxMywxMD
-IxNzc0Nzg5LDQ0NTY4ODYyNiwtMTM2NTU3ODUyNywtMTMzNjA3
-NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAwODU3Mi
-w0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLTk5NTM3
-MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1LC
-05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMTkw
-NzEyMDIyN119
+eyJoaXN0b3J5IjpbMTAxMzA1NTgzMiwtMjU1Mzg1MzEzLDEwMj
+E3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMzM2MDc0
+NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4NTcyLD
+QwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1Mzcy
+ODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAwNzUsLT
+k3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3
+MTIwMjI3XX0=
 -->

@@ -951,11 +951,14 @@ i                                                      j
 
 -	dominierendes Transportprotokoll im Internet
 -	gesicherte Übertragung von Daten mit Fluss- und Staukontrolle
+-	Header beinhaltet mehr Informationen
+
+#
 
 
 ### 5.4 Network Address Translation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDMxMDYxOSwtNTM1MTE3NDQ2LDE3OD
+eyJoaXN0b3J5IjpbMTQ5Nzc5MTY3NSwtNTM1MTE3NDQ2LDE3OD
 cxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4
 NDMsLTE5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLT
 E4NDI4MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2

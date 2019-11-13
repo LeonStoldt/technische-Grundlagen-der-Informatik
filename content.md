@@ -1039,12 +1039,14 @@ Ablauf einer Abfrage im WWW:
 
 ### 8.2 HTTP
 
+-	Standardprotokoll für Client Anfragen und Server Antworten
+-	Standardmäßig auf Port 80
 -	
 
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Njc0MTMwNiwtMTM2NTU3ODUyNywtMT
+eyJoaXN0b3J5IjpbLTU2NTg1MTA1MCwtMTM2NTU3ODUyNywtMT
 MzNjA3NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAw
 ODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLT
 k5NTM3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEw

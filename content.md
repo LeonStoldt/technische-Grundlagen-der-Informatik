@@ -981,15 +981,18 @@ i                                                      j
 -	hat eine gewisse Dauer
 
 #### Connection-Oriented Mode
--	
+-	Aufbau einer Verbindung, die während des Datentransfers erhalten bleibt
+-	unterteilt in 3 Phasen:
+1.	Verbindungsaufbau
+2.
 
 ## Datendarstellungsschicht
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzA3NDI1NSwxNzAxNDQyODIzLC05OT
-UzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3ODcxMDA3
-NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4NDMsLT
-E5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLTE4NDI4
-MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0NT
-AsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LDE5
-OTAxMTc0NThdfQ==
+eyJoaXN0b3J5IjpbNDkxNzM1MjExLDE3MDE0NDI4MjMsLTk5NT
+M3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1
+LC05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMT
+kwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0Mjgw
+NDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MC
+wtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5
+MDExNzQ1OF19
 -->

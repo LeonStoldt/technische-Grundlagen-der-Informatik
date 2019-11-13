@@ -24,8 +24,9 @@
 > ### 5.2 Verbindungsorientierte Übertragung
 > ### 5.3 TCP
 > ### 5.4 Network Address Translation
-> ## Kommunikationssteuerungsschicht
-> ## Datendarstellungsschicht
+> ## 6. Kommunikationssteuerungsschicht
+> ## 7. Datendarstellungsschicht
+> ## 8. Anwendungsschicht
 ---
 
 ## 1. Das OSI-Schichtenmodell
@@ -973,7 +974,7 @@ i                                                      j
 -	Die Antwort des angefragten Servers wird nun vom Router wieder zurück übersetzt und an den anfragenden Host zurück gesendet.
 
 
-## Kommunikationssteuerungsschicht (Sitzungsschicht)
+## 6. Kommunikationssteuerungsschicht (Sitzungsschicht)
 
 #### Session
 -	Kommunikation mind. zweier Teilnehmer
@@ -992,7 +993,7 @@ i                                                      j
 
 > :information_source: Verbindungen auf der Sitzungsschicht differenziert sich von Verbindungen auf der Transportschicht. Eine Session kann z.B. mehrere TCP- oder UDP-Verbindungen beinhalten.
 
-## Datendarstellungsschicht
+## 7. Datendarstellungsschicht
 
 ermöglicht den Kommunikationspartnern eine einheitliche Interpretation der Daten
 -	Datendarstellung (Syntax)
@@ -1008,11 +1009,11 @@ Kompression von Nachrichten
 	-	Originaldatei nicht mehr aus der kompressierten Datei rekonstruierbar
 	-	vor allem bei Analogen Daten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU4ODQzNSwxOTc1NzQxMjIyLC0xOT
-Q4ODQ0OTI1LDM3MTAwODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0
-LDE3MDE0NDI4MjMsLTk5NTM3MjgwNCwtNjgyNjQwMDIwLC01Mz
-UxMTc0NDYsMTc4NzEwMDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2
-OTQsMTgyNzYxMDg0MywtMTkwNzEyMDIyNywtNjYwODM1NDI0LD
-c5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0MjU0LDE2NDU3
-MjkxMzBdfQ==
+eyJoaXN0b3J5IjpbODgxNTMxNzc1LDE5NzU3NDEyMjIsLTE5ND
+g4NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQs
+MTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNT
+ExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5
+NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNz
+kxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcy
+OTEzMF19
 -->

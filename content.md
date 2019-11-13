@@ -998,15 +998,18 @@ i                                                      j
 	-	Bereitstellung von Datenstrukturen
 	-	Datentransformation (Umkodierung)
 		-	Überführung von einer Repräsentation in eine andere
-	-	Komprimierung von Nachrichten
+	-	Kompression von Nachrichten
 		-	Entfernung von Redundanz in Nachrichten um diese meist zu verkürzen
-		-	verlustfreie Komprimierung
+		-	verlustfreie Kompression
+		-	verlustbehaftete Kompression
+			-	Originaldatei nicht mehr aus der kompressierten Datei rekonstruierbar
+			-	meist verwendet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTM0MTEwNSwzNzEwMDg1NzIsNDA2OD
-E1NzgxLDg5ODA0MjA4NCwxNzAxNDQyODIzLC05OTUzNzI4MDQs
-LTY4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3ODcxMDA3NSwtOTczNz
-k3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4NDMsLTE5MDcxMjAy
-MjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLTE4NDI4MDQ0MzQsMT
-Y5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0NTAsLTQzNDM0
-MjA1Nl19
+eyJoaXN0b3J5IjpbNTA5Njc3MTUsMzcxMDA4NTcyLDQwNjgxNT
+c4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02
+ODI2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5Nz
+A3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3
+LC02NjA4MzU0MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LDE2OT
+Y3MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQzNDIw
+NTZdfQ==
 -->

@@ -988,13 +988,13 @@ i                                                      j
 3. Verbindungsabbau
 
 #### Connectionless Mode
--	
+-	nur einfache Dienste werden für den Datentransfer
 
 > :information_source: Verbindungen auf der Sitzungsschicht differenziert sich von Verbindungen auf der Transportschicht. Eine Session kann z.B. mehrere TCP- oder UDP-Verbindungen beinhalten.
 
 ## Datendarstellungsschicht
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjYxNzY2Nyw4OTgwNDIwODQsMTcwMT
+eyJoaXN0b3J5IjpbLTIxMjg2MzkwMiw4OTgwNDIwODQsMTcwMT
 Q0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0
 NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxOD
 I3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2

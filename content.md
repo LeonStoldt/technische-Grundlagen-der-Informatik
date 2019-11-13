@@ -987,16 +987,17 @@ i                                                      j
 2. Datentransfer
 3. Verbindungsabbau
 
+#### Connectionless Mode
 
 > :information_source: Verbindungen auf der Sitzungsschicht differenziert sich von Verbindungen auf der Transportschicht. Eine Session kann z.B. mehrere TCP- oder UDP-Verbindungen beinhalten.
 
 ## Datendarstellungsschicht
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MDQyMDg0LDE3MDE0NDI4MjMsLTk5NT
-M3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1
-LC05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMT
-kwNzEyMDIyNywtNjYwODM1NDI0LDc5MTk2NjAxNiwtMTg0Mjgw
-NDQzNCwxNjk2NzI0MjU0LDE2NDU3MjkxMzAsLTk5NTYxNDQ1MC
-wtNDM0MzQyMDU2LC0xNjA3NjA0ODkzLDEwMjQ2NzAyODYsMTk5
-MDExNzQ1OF19
+eyJoaXN0b3J5IjpbMTY2MDA4MzQ2Miw4OTgwNDIwODQsMTcwMT
+Q0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0
+NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxOD
+I3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0MjQsNzkxOTY2
+MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMTY0NTcyOTEzMC
+wtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2MDc2MDQ4OTMsMTAy
+NDY3MDI4Nl19
 -->

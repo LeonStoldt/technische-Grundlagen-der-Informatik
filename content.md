@@ -997,13 +997,13 @@ i                                                      j
 	-	Datendarstellung (Syntax)
 	-	Bereitstellung von Datenstrukturen
 	-	Datentransformation (Umkodierung)
-		-	Überführung von einer Reprä
+		-	Überführung von einer Repräsentation in eine andere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjMzNTQwMiw0MDY4MTU3ODEsODk4MD
-QyMDg0LDE3MDE0NDI4MjMsLTk5NTM3MjgwNCwtNjgyNjQwMDIw
-LC01MzUxMTc0NDYsMTc4NzEwMDc1LC05NzM3OTcwNzQsLTIwOT
-U5MjU2OTQsMTgyNzYxMDg0MywtMTkwNzEyMDIyNywtNjYwODM1
-NDI0LDc5MTk2NjAxNiwtMTg0MjgwNDQzNCwxNjk2NzI0MjU0LD
-E2NDU3MjkxMzAsLTk5NTYxNDQ1MCwtNDM0MzQyMDU2LC0xNjA3
-NjA0ODkzXX0=
+eyJoaXN0b3J5IjpbMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwND
+IwODQsMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAs
+LTUzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NT
+kyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC02NjA4MzU0
+MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3MjQyNTQsMT
+Y0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQzNDIwNTYsLTE2MDc2
+MDQ4OTNdfQ==
 -->

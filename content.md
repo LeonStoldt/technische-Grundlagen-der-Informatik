@@ -1082,9 +1082,10 @@ wichtige Protokolle für e-Mail
 -	elektromagnetische Wellen als Trägermedium
 -	Hardware: Repeater, Hubs, Leitung, Stecket etc.
 
-###
+### Data Link Layer
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNjIwNDE2LC0yNTUzODUzMTMsMTAyMT
+eyJoaXN0b3J5IjpbNTU5NTEwNDk4LC0yNTUzODUzMTMsMTAyMT
 c3NDc4OSw0NDU2ODg2MjYsLTEzNjU1Nzg1MjcsLTEzMzYwNzQ2
 NDMsMTk3NTc0MTIyMiwtMTk0ODg0NDkyNSwzNzEwMDg1NzIsND
 A2ODE1NzgxLDg5ODA0MjA4NCwxNzAxNDQyODIzLC05OTUzNzI4

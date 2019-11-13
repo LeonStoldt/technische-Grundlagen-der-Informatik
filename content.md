@@ -1041,12 +1041,17 @@ Ablauf einer Abfrage im WWW:
 
 -	Standardprotokoll für Client Anfragen und Server Antworten
 -	Standardmäßig auf Port 80
--	
+-	HTTP Request besitzt folgende Aktionen
+	-	GET - Abfrage einer bestimmten Ressource
+	-	HEAD - Abfrage des Headers einer bestimmten Ressource
+	-	PUT - Anfordern
+	-	POST
+	-	DELETE
 
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTg1MTA1MCwtMTM2NTU3ODUyNywtMT
+eyJoaXN0b3J5IjpbMjEzMTAxMjg0MCwtMTM2NTU3ODUyNywtMT
 MzNjA3NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAw
 ODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLT
 k5NTM3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEw

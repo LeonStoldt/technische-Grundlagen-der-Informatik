@@ -1032,17 +1032,19 @@ Ablauf einer Abfrage im WWW:
 1.	Browser verarbeitet die eingegebene URL (Uniform Resource Locator)
 2.	Mit Hilfe des DNS (Domain Name System) wird die IP-Adresse der URL ermittelt
 -	DNS-Name ist aufgeteilt in einen Hostanteil und einem Suffix
--	Ist dem Router die URL unbekannt, schickt er einen DNS-Request an den root-Server (z.B. `com.`). Dieser lö
+-	Ist dem Router die URL unbekannt, schickt er einen DNS-Request an den root-Server (z.B. `com.`). Dieser löst die URL auf und leitet die IP-Adresse an den Router zurück.
 3.	Es wird eine TCP-Verbindung über Port 80 (HTTP) zur IP-Adresse aufgebaut
 4.	Die Datei des Pfads wird vom Server angefordert
 
 
 ### 8.2 HTTP
 
+-	
+
 
 ### 8.3 e-Mail
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDExMTI5MiwtMTM2NTU3ODUyNywtMT
+eyJoaXN0b3J5IjpbMjA1Njc0MTMwNiwtMTM2NTU3ODUyNywtMT
 MzNjA3NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAw
 ODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLT
 k5NTM3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEw

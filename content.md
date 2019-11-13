@@ -975,17 +975,19 @@ i                                                      j
 
 ## Kommunikationssteuerungsschicht
 
--	
--	
+#### Session
+-	Kommunikation mind. zweier Teilnehmer
+-	definierter Anfang und Ende
+-	hat eine gewisse Dauer
 
 
 ## Datendarstellungsschicht
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02OD
-I2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3
-NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3MTIwMjI3LC
-02NjA4MzU0MjQsNzkxOTY2MDE2LC0xODQyODA0NDM0LDE2OTY3
-MjQyNTQsMTY0NTcyOTEzMCwtOTk1NjE0NDUwLC00MzQzNDIwNT
-YsLTE2MDc2MDQ4OTMsMTAyNDY3MDI4NiwxOTkwMTE3NDU4LC0x
-NTQ4NzM5NjUwXX0=
+eyJoaXN0b3J5IjpbLTI3MjE1ODM3MiwxNzAxNDQyODIzLC05OT
+UzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3ODcxMDA3
+NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4NDMsLT
+E5MDcxMjAyMjcsLTY2MDgzNTQyNCw3OTE5NjYwMTYsLTE4NDI4
+MDQ0MzQsMTY5NjcyNDI1NCwxNjQ1NzI5MTMwLC05OTU2MTQ0NT
+AsLTQzNDM0MjA1NiwtMTYwNzYwNDg5MywxMDI0NjcwMjg2LDE5
+OTAxMTc0NThdfQ==
 -->

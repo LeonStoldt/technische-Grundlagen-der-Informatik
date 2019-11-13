@@ -1078,14 +1078,17 @@ wichtige Protokolle für e-Mail
 ## 9. Zusammenfassung der Schichten
 
 ### Physical Layer
--	stellt mechanische, elektrische und funktionale Hilfsmittel zur physischen (De-)Aktivierung und Bitübertragung zur Verfügung
+-	stellt mechanische, elektrische und funktionale Hilfsmittel zur physischen (De-)Aktivierung und Bitübertragung physikalisch messbarer Signale zur Verfügung
+-	elektromagnetische Wellen als Trägermedium
 -	Hardware: Repeater, Hubs, Leitung, Stecket etc.
+
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjE3MTczMSwtMjU1Mzg1MzEzLDEwMj
-E3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4NTI3LC0xMzM2MDc0
-NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5MjUsMzcxMDA4NTcyLD
-QwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0MjgyMywtOTk1Mzcy
-ODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0NiwxNzg3MTAwNzUsLT
-k3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3NjEwODQzLC0xOTA3
-MTIwMjI3XX0=
+eyJoaXN0b3J5IjpbMzcwNjIwNDE2LC0yNTUzODUzMTMsMTAyMT
+c3NDc4OSw0NDU2ODg2MjYsLTEzNjU1Nzg1MjcsLTEzMzYwNzQ2
+NDMsMTk3NTc0MTIyMiwtMTk0ODg0NDkyNSwzNzEwMDg1NzIsND
+A2ODE1NzgxLDg5ODA0MjA4NCwxNzAxNDQyODIzLC05OTUzNzI4
+MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3ODcxMDA3NSwtOT
+czNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2MTA4NDMsLTE5MDcx
+MjAyMjddfQ==
 -->

@@ -368,24 +368,37 @@ oder
 	- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
 
 Verfahren:
-- ALOHA
+ALOHA
 	- Jede Station sendet an eine zentrale Station
 	- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
 	- erfolgreiche Nachrichten werden quittiert
 	- nicht optimal im Hinblick auf Effizienz
--  CSMA (Carrier Sense Multiple Access)
-	- simple Verbesserung des Slotted ALOHA
-	- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
-	- Die Stationen warten nach einer Kollision eine zufällige Zeit, um die Kollisionswahrscheinlichkeit zu reduzieren
-	- Bei Kollisionen wird ein sog. "Jam-Signal" gesendet
-	- Problem: funktioniert nicht in Funknetzen
-	- Lösung:
-		-	CSMA/CD (Collision Detection)
-		-	Übertragung wird von der Basisstation (Bsp. Router) gesteuert
-		-	Knoten senden vor der Nachricht ein *RTS - Request to send*
-		-	Router antwortet idealerweise mit *CTS - Clear to send*
-		-	Kollisionen werden verringert (die Datenrate allerdings auch)
-		-	Bsp. Ethernet
+
+Slotted ALOHA
+- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
+- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
+- deutlich höhere Effizienz als ALOHA, aber nicht optimal
+
+
+CSMA (Carrier Sense Multiple Access)
+- simple Verbesserung des Slotted ALOHA
+- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
+- Die Stationen warten nach einer Kollision eine zufällige Zeit, um die Kollisionswahrscheinlichkeit zu reduzieren
+- Bei Kollisionen wird ein sog. "Jam-Signal" gesendet
+- Problem: funktioniert nicht in Funknetzen
+- Lösung:
+	-	CSMA/CD (Collision Detection)
+	-	Übertragung wird von der Basisstation (Bsp. Router) gesteuert
+	-	Knoten senden vor der Nachricht ein *RTS - Request to send*
+	-	Router antwortet idealerweise mit *CTS - Clear to send*
+	-	Kollisionen werden verringert (die Datenrate allerdings auch)
+	-	Bsp. Ethernet
+
+Token passing
+-	Kollisionsvermeidung durch Weitergabe eines Tokens
+-	Bildung eines Token-Rings
+-	nur die Station mit dem Token darf senden und gibt diesen danach weiter
+-	Problem: fehlerhafte Knoten stören das gesamte Netz
 
 ### 3.3 Rahmenbildung
 
@@ -1109,11 +1122,11 @@ wichtige Protokolle für e-Mail
 -	Datei Ein- und Ausgabe findet hier statt
 -	Anwendungen: Webbrowser, e-Mail Programm, Instant Messaging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzgwMzg5ODQsLTIwODAzMzE4NjgsLT
-I1NTM4NTMxMywxMDIxNzc0Nzg5LDQ0NTY4ODYyNiwtMTM2NTU3
-ODUyNywtMTMzNjA3NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OT
-I1LDM3MTAwODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0
-NDI4MjMsLTk5NTM3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0ND
-YsMTc4NzEwMDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgy
-NzYxMDg0M119
+eyJoaXN0b3J5IjpbMTg2OTE5ODIwMCwtMjA4MDMzMTg2OCwtMj
+U1Mzg1MzEzLDEwMjE3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4
+NTI3LC0xMzM2MDc0NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5Mj
+UsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0
+MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0Ni
+wxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3
+NjEwODQzXX0=
 -->

@@ -363,23 +363,9 @@ und unterscheiden zwischen:
 oder
 - zeitliche Aufteilung des Zugriffs auf den Kanal
 
-**synchron**
 - Probleme:
 	- Kanal wird statisch aufgeteilt
 	- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
-
-Verfahren:
-- Slotted ALOHA
-	- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
-	- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
-	- deutlich höhere Effizienz als ALOHA, aber nicht optimal
-- Token passing
-	-	Kollisionsvermeidung durch Weitergabe eines Tokens
-	-	Bildung eines Token-Rings
-	-	nur die Station mit dem Token darf senden und gibt diesen danach weiter
-	-	Problem: fehlerhafte Knoten stören das gesamte Netz
-
-**asynchron**
 
 Verfahren:
 - ALOHA
@@ -1123,11 +1109,11 @@ wichtige Protokolle für e-Mail
 -	Datei Ein- und Ausgabe findet hier statt
 -	Anwendungen: Webbrowser, e-Mail Programm, Instant Messaging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAzMzE4NjgsLTI1NTM4NTMxMywxMD
-IxNzc0Nzg5LDQ0NTY4ODYyNiwtMTM2NTU3ODUyNywtMTMzNjA3
-NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAwODU3Mi
-w0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLTk5NTM3
-MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1LC
-05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMTkw
-NzEyMDIyN119
+eyJoaXN0b3J5IjpbLTEzMzgwMzg5ODQsLTIwODAzMzE4NjgsLT
+I1NTM4NTMxMywxMDIxNzc0Nzg5LDQ0NTY4ODYyNiwtMTM2NTU3
+ODUyNywtMTMzNjA3NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OT
+I1LDM3MTAwODU3Miw0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0
+NDI4MjMsLTk5NTM3MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0ND
+YsMTc4NzEwMDc1LC05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgy
+NzYxMDg0M119
 -->

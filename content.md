@@ -367,12 +367,13 @@ oder
 	- Kanal wird statisch aufgeteilt
 	- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
 
-Verfahren:
+**Verfahren:**
+
 ALOHA
-	- Jede Station sendet an eine zentrale Station
-	- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
-	- erfolgreiche Nachrichten werden quittiert
-	- nicht optimal im Hinblick auf Effizienz
+- Jede Station sendet an eine zentrale Station
+- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
+- erfolgreiche Nachrichten werden quittiert
+- nicht optimal im Hinblick auf Effizienz
 
 Slotted ALOHA
 - Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
@@ -1122,11 +1123,11 @@ wichtige Protokolle für e-Mail
 -	Datei Ein- und Ausgabe findet hier statt
 -	Anwendungen: Webbrowser, e-Mail Programm, Instant Messaging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTE5ODIwMCwtMjA4MDMzMTg2OCwtMj
-U1Mzg1MzEzLDEwMjE3NzQ3ODksNDQ1Njg4NjI2LC0xMzY1NTc4
-NTI3LC0xMzM2MDc0NjQzLDE5NzU3NDEyMjIsLTE5NDg4NDQ5Mj
-UsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIwODQsMTcwMTQ0
-MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLTUzNTExNzQ0Ni
-wxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTkyNTY5NCwxODI3
-NjEwODQzXX0=
+eyJoaXN0b3J5IjpbMjA2NzUwNzE0LC0yMDgwMzMxODY4LC0yNT
+UzODUzMTMsMTAyMTc3NDc4OSw0NDU2ODg2MjYsLTEzNjU1Nzg1
+MjcsLTEzMzYwNzQ2NDMsMTk3NTc0MTIyMiwtMTk0ODg0NDkyNS
+wzNzEwMDg1NzIsNDA2ODE1NzgxLDg5ODA0MjA4NCwxNzAxNDQy
+ODIzLC05OTUzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2LD
+E3ODcxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2
+MTA4NDNdfQ==
 -->

@@ -396,7 +396,7 @@ CSMA (Carrier Sense Multiple Access)
 	-	Bsp. Ethernet
 
 **synchrone-Verfahren:**
-Im Gegensatz zu den asynchronen Verfahren kommuniziert bei dem synchronen Verfahren nur ein Knoten zur Zeit.
+Im Gegensatz zu den asynchronen Verfahren kommuniziert bei den synchronen Verfahren nur ein Knoten zur Zeit.
 
 Token passing
 -	Kollisionsvermeidung durch Weitergabe eines Tokens
@@ -1126,11 +1126,11 @@ wichtige Protokolle für e-Mail
 -	Datei Ein- und Ausgabe findet hier statt
 -	Anwendungen: Webbrowser, e-Mail Programm, Instant Messaging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMzg0ODY4LDIwNjc1MDcxNCwtMjA4MD
-MzMTg2OCwtMjU1Mzg1MzEzLDEwMjE3NzQ3ODksNDQ1Njg4NjI2
-LC0xMzY1NTc4NTI3LC0xMzM2MDc0NjQzLDE5NzU3NDEyMjIsLT
-E5NDg4NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIw
-ODQsMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLT
-UzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTky
-NTY5NF19
+eyJoaXN0b3J5IjpbMjA2NzQ5Mzg5MSw5NjAzODQ4NjgsMjA2Nz
+UwNzE0LC0yMDgwMzMxODY4LC0yNTUzODUzMTMsMTAyMTc3NDc4
+OSw0NDU2ODg2MjYsLTEzNjU1Nzg1MjcsLTEzMzYwNzQ2NDMsMT
+k3NTc0MTIyMiwtMTk0ODg0NDkyNSwzNzEwMDg1NzIsNDA2ODE1
+NzgxLDg5ODA0MjA4NCwxNzAxNDQyODIzLC05OTUzNzI4MDQsLT
+Y4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3ODcxMDA3NSwtOTczNzk3
+MDc0XX0=
 -->

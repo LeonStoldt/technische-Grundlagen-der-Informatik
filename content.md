@@ -363,43 +363,46 @@ und unterscheiden zwischen:
 oder
 - zeitliche Aufteilung des Zugriffs auf den Kanal
 
-**synchron**
 - Probleme:
 	- Kanal wird statisch aufgeteilt
 	- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
 
-Verfahren:
-- Slotted ALOHA
-	- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
-	- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
-	- deutlich höhere Effizienz als ALOHA, aber nicht optimal
-- Token passing
-	-	Kollisionsvermeidung durch Weitergabe eines Tokens
-	-	Bildung eines Token-Rings
-	-	nur die Station mit dem Token darf senden und gibt diesen danach weiter
-	-	Problem: fehlerhafte Knoten stören das gesamte Netz
+**asynchrone-Verfahren:**
 
-**asynchron**
+ALOHA
+- Jede Station sendet an eine zentrale Station
+- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
+- erfolgreiche Nachrichten werden quittiert
+- nicht optimal im Hinblick auf Effizienz
 
-Verfahren:
-- ALOHA
-	- Jede Station sendet an eine zentrale Station
-	- Bei gleichzeitigen Nachrichten tritt eine Kollision auf
-	- erfolgreiche Nachrichten werden quittiert
-	- nicht optimal im Hinblick auf Effizienz
--  CSMA (Carrier Sense Multiple Access)
-	- simple Verbesserung des Slotted ALOHA
-	- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
-	- Die Stationen warten nach einer Kollision eine zufällige Zeit, um die Kollisionswahrscheinlichkeit zu reduzieren
-	- Bei Kollisionen wird ein sog. "Jam-Signal" gesendet
-	- Problem: funktioniert nicht in Funknetzen
-	- Lösung:
-		-	CSMA/CD (Collision Detection)
-		-	Übertragung wird von der Basisstation (Bsp. Router) gesteuert
-		-	Knoten senden vor der Nachricht ein *RTS - Request to send*
-		-	Router antwortet idealerweise mit *CTS - Clear to send*
-		-	Kollisionen werden verringert (die Datenrate allerdings auch)
-		-	Bsp. Ethernet
+Slotted ALOHA
+- Funktionsweise wie bei ALOHA (*siehe asynchrone Verfahren*)
+- Zuweisung von Time Slots für das Senden von Nachrichten zur Kollisionsminimierung
+- deutlich höhere Effizienz als ALOHA, aber nicht optimal
+
+
+CSMA (Carrier Sense Multiple Access)
+- simple Verbesserung des Slotted ALOHA
+- Es wird geprüft, ob das Medium frei ist bevor die Nachricht gesendet wird
+- Die Stationen warten nach einer Kollision eine zufällige Zeit, um die Kollisionswahrscheinlichkeit zu reduzieren
+- Bei Kollisionen wird ein sog. "Jam-Signal" gesendet
+- Problem: funktioniert nicht in Funknetzen
+- Lösung:
+	-	CSMA/CD (Collision Detection)
+	-	Übertragung wird von der Basisstation (Bsp. Router) gesteuert
+	-	Knoten senden vor der Nachricht ein *RTS - Request to send*
+	-	Router antwortet idealerweise mit *CTS - Clear to send*
+	-	Kollisionen werden verringert (die Datenrate allerdings auch)
+	-	Bsp. Ethernet
+
+**synchrone-Verfahren:**
+Im Gegensatz zu den asynchronen Verfahren kommuniziert bei dem synchronen Verfahren nur ein Knoten zur Zeit.
+
+Token passing
+-	Kollisionsvermeidung durch Weitergabe eines Tokens
+-	Bildung eines Token-Rings
+-	nur die Station mit dem Token darf senden und gibt diesen danach weiter
+-	Problem: fehlerhafte Knoten stören das gesamte Netz
 
 ### 3.3 Rahmenbildung
 
@@ -1123,11 +1126,11 @@ wichtige Protokolle für e-Mail
 -	Datei Ein- und Ausgabe findet hier statt
 -	Anwendungen: Webbrowser, e-Mail Programm, Instant Messaging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAzMzE4NjgsLTI1NTM4NTMxMywxMD
-IxNzc0Nzg5LDQ0NTY4ODYyNiwtMTM2NTU3ODUyNywtMTMzNjA3
-NDY0MywxOTc1NzQxMjIyLC0xOTQ4ODQ0OTI1LDM3MTAwODU3Mi
-w0MDY4MTU3ODEsODk4MDQyMDg0LDE3MDE0NDI4MjMsLTk5NTM3
-MjgwNCwtNjgyNjQwMDIwLC01MzUxMTc0NDYsMTc4NzEwMDc1LC
-05NzM3OTcwNzQsLTIwOTU5MjU2OTQsMTgyNzYxMDg0MywtMTkw
-NzEyMDIyN119
+eyJoaXN0b3J5IjpbOTYwMzg0ODY4LDIwNjc1MDcxNCwtMjA4MD
+MzMTg2OCwtMjU1Mzg1MzEzLDEwMjE3NzQ3ODksNDQ1Njg4NjI2
+LC0xMzY1NTc4NTI3LC0xMzM2MDc0NjQzLDE5NzU3NDEyMjIsLT
+E5NDg4NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIw
+ODQsMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLT
+UzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTky
+NTY5NF19
 -->

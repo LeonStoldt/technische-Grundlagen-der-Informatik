@@ -367,7 +367,7 @@ oder
 	- Kanal wird statisch aufgeteilt
 	- Bandbreite steht während Ruhepausen anderer Teilnehmer nicht zur Verfügung
 
-**Verfahren:**
+**asynchrone-Verfahren:**
 
 ALOHA
 - Jede Station sendet an eine zentrale Station
@@ -394,6 +394,9 @@ CSMA (Carrier Sense Multiple Access)
 	-	Router antwortet idealerweise mit *CTS - Clear to send*
 	-	Kollisionen werden verringert (die Datenrate allerdings auch)
 	-	Bsp. Ethernet
+
+**synchrone-Verfahren:**
+-	im Gegensatz zu den asynchronen Verfahren komm
 
 Token passing
 -	Kollisionsvermeidung durch Weitergabe eines Tokens
@@ -1123,11 +1126,11 @@ wichtige Protokolle für e-Mail
 -	Datei Ein- und Ausgabe findet hier statt
 -	Anwendungen: Webbrowser, e-Mail Programm, Instant Messaging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzUwNzE0LC0yMDgwMzMxODY4LC0yNT
-UzODUzMTMsMTAyMTc3NDc4OSw0NDU2ODg2MjYsLTEzNjU1Nzg1
-MjcsLTEzMzYwNzQ2NDMsMTk3NTc0MTIyMiwtMTk0ODg0NDkyNS
-wzNzEwMDg1NzIsNDA2ODE1NzgxLDg5ODA0MjA4NCwxNzAxNDQy
-ODIzLC05OTUzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2LD
-E3ODcxMDA3NSwtOTczNzk3MDc0LC0yMDk1OTI1Njk0LDE4Mjc2
-MTA4NDNdfQ==
+eyJoaXN0b3J5IjpbNDAyOTQzMDMwLDIwNjc1MDcxNCwtMjA4MD
+MzMTg2OCwtMjU1Mzg1MzEzLDEwMjE3NzQ3ODksNDQ1Njg4NjI2
+LC0xMzY1NTc4NTI3LC0xMzM2MDc0NjQzLDE5NzU3NDEyMjIsLT
+E5NDg4NDQ5MjUsMzcxMDA4NTcyLDQwNjgxNTc4MSw4OTgwNDIw
+ODQsMTcwMTQ0MjgyMywtOTk1MzcyODA0LC02ODI2NDAwMjAsLT
+UzNTExNzQ0NiwxNzg3MTAwNzUsLTk3Mzc5NzA3NCwtMjA5NTky
+NTY5NF19
 -->

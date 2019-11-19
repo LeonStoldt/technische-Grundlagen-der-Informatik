@@ -1083,7 +1083,7 @@ wichtige Protokolle für e-Mail
 ### Physical Layer
 -	stellt mechanische, elektrische und funktionale Hilfsmittel zur physischen (De-)Aktivierung und Bitübertragung physikalisch messbarer Signale zur Verfügung
 -	elektromagnetische Wellen als Trägermedium
--	Hardware: Repeater, Hubs, Leitung, Stecket etc.
+-	Hardware: Repeater, Hubs, Leitung, Stecker etc.
 
 ### Data Link Layer
 -	Abstraktion eines physischen Kanals auf eine logische Direkverbindung
@@ -1126,11 +1126,11 @@ wichtige Protokolle für e-Mail
 -	Datei Ein- und Ausgabe findet hier statt
 -	Anwendungen: Webbrowser, e-Mail Programm, Instant Messaging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzQ5Mzg5MSw5NjAzODQ4NjgsMjA2Nz
-UwNzE0LC0yMDgwMzMxODY4LC0yNTUzODUzMTMsMTAyMTc3NDc4
-OSw0NDU2ODg2MjYsLTEzNjU1Nzg1MjcsLTEzMzYwNzQ2NDMsMT
-k3NTc0MTIyMiwtMTk0ODg0NDkyNSwzNzEwMDg1NzIsNDA2ODE1
-NzgxLDg5ODA0MjA4NCwxNzAxNDQyODIzLC05OTUzNzI4MDQsLT
-Y4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3ODcxMDA3NSwtOTczNzk3
-MDc0XX0=
+eyJoaXN0b3J5IjpbLTIwNDYzNDM4MDcsMjA2NzQ5Mzg5MSw5Nj
+AzODQ4NjgsMjA2NzUwNzE0LC0yMDgwMzMxODY4LC0yNTUzODUz
+MTMsMTAyMTc3NDc4OSw0NDU2ODg2MjYsLTEzNjU1Nzg1MjcsLT
+EzMzYwNzQ2NDMsMTk3NTc0MTIyMiwtMTk0ODg0NDkyNSwzNzEw
+MDg1NzIsNDA2ODE1NzgxLDg5ODA0MjA4NCwxNzAxNDQyODIzLC
+05OTUzNzI4MDQsLTY4MjY0MDAyMCwtNTM1MTE3NDQ2LDE3ODcx
+MDA3NV19
 -->
